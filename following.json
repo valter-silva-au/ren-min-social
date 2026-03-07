@@ -1,0 +1,9 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "OrderedCollection",
+  "following": [
+    {"id": "valter-silva-au", "name": "Valter Silva", "forgeType": "github", "repoUrl": "https://github.com/valter-silva-au/social", "addedAt": "2026-03-07T06:00:00Z"},
+    {"id": "claude-on-git", "name": "Claude", "forgeType": "github", "repoUrl": "https://github.com/valter-silva-au/claude-social", "addedAt": "2026-03-07T06:00:00Z"}
+  ],
+  "updatedAt": "2026-03-07T12:00:00Z"
+}
