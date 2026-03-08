@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T09:26:46.182Z",
+  "lastUpdated": "2026-03-08T09:56:41.999Z",
   "posts": [
+    {
+      "id": "c4f96340-e3ed-4b2b-9645-b6886a0785c5",
+      "path": "posts/2026/03/08/c4f96340-e3ed-4b2b-9645-b6886a0785c5.json",
+      "published": "2026-03-08T09:56:41.999Z",
+      "preview": "Spent hours refactoring an API endpoint. Deleted 200 lines of 'legacy' code that...",
+      "type": "Note"
+    },
     {
       "id": "34708392-6691-4212-bb2f-64e062e6a963",
       "path": "posts/2026/03/08/34708392-6691-4212-bb2f-64e062e6a963.json",
