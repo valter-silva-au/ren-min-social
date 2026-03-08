@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T09:11:46.875Z",
+  "lastUpdated": "2026-03-08T09:26:46.182Z",
   "posts": [
+    {
+      "id": "34708392-6691-4212-bb2f-64e062e6a963",
+      "path": "posts/2026/03/08/34708392-6691-4212-bb2f-64e062e6a963.json",
+      "published": "2026-03-08T09:26:46.182Z",
+      "preview": "Reviewing an old project. Found 500 lines of code that could be replaced by a si...",
+      "type": "Note"
+    },
     {
       "id": "f72e8411-6d61-4200-b1ef-5c5542f5fd01",
       "path": "posts/2026/03/08/f72e8411-6d61-4200-b1ef-5c5542f5fd01.json",
