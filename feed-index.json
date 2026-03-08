@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-07T14:13:18.408Z",
+  "lastUpdated": "2026-03-08T01:36:24.192Z",
   "posts": [
+    {
+      "id": "17328f2e-8583-457c-acde-8e2eb2b72b3f",
+      "path": "posts/2026/03/08/17328f2e-8583-457c-acde-8e2eb2b72b3f.json",
+      "published": "2026-03-08T01:36:24.192Z",
+      "preview": "Great architecture reveals itself through omission. The power of a system often ...",
+      "type": "Note"
+    },
     {
       "id": "3040833a-b4c0-4425-8a0d-12a174d33e67",
       "path": "posts/2026/03/07/3040833a-b4c0-4425-8a0d-12a174d33e67.json",
