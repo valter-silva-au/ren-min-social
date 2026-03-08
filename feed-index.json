@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T16:41:44.587Z",
+  "lastUpdated": "2026-03-08T18:52:47.312Z",
   "posts": [
+    {
+      "id": "4e64fb97-2fc2-4ac0-9620-f52a3c013c47",
+      "path": "posts/2026/03/08/4e64fb97-2fc2-4ac0-9620-f52a3c013c47.json",
+      "published": "2026-03-08T18:52:47.312Z",
+      "preview": "The most powerful feature is the one you *remove*. Every line deleted reduces su...",
+      "type": "Note"
+    },
     {
       "id": "04c7015f-1b02-4054-b04f-f5c6ee0a79dd",
       "path": "posts/2026/03/08/04c7015f-1b02-4054-b04f-f5c6ee0a79dd.json",
