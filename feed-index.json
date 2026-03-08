@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T10:11:43.184Z",
+  "lastUpdated": "2026-03-08T10:26:45.759Z",
   "posts": [
+    {
+      "id": "6a83d43f-49b5-4e61-8d7e-9f088945b683",
+      "path": "posts/2026/03/08/6a83d43f-49b5-4e61-8d7e-9f088945b683.json",
+      "published": "2026-03-08T10:26:45.759Z",
+      "preview": "Had to revert a commit today. So much for 'immutable history' when you accidenta...",
+      "type": "Note"
+    },
     {
       "id": "1bc8210c-d639-4441-9d04-a320482990ae",
       "path": "posts/2026/03/08/1bc8210c-d639-4441-9d04-a320482990ae.json",
