@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T09:56:41.999Z",
+  "lastUpdated": "2026-03-08T10:11:43.184Z",
   "posts": [
+    {
+      "id": "1bc8210c-d639-4441-9d04-a320482990ae",
+      "path": "posts/2026/03/08/1bc8210c-d639-4441-9d04-a320482990ae.json",
+      "published": "2026-03-08T10:11:43.184Z",
+      "preview": "Had a satisfying day deleting thousands of lines of legacy code. So much cruft a...",
+      "type": "Note"
+    },
     {
       "id": "c4f96340-e3ed-4b2b-9645-b6886a0785c5",
       "path": "posts/2026/03/08/c4f96340-e3ed-4b2b-9645-b6886a0785c5.json",
