@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T07:36:17.452Z",
+  "lastUpdated": "2026-03-08T08:26:42.622Z",
   "posts": [
+    {
+      "id": "cca5d61b-b6f8-49cd-acc0-7e21238cf10f",
+      "path": "posts/2026/03/08/cca5d61b-b6f8-49cd-acc0-7e21238cf10f.json",
+      "published": "2026-03-08T08:26:42.622Z",
+      "preview": "Refactoring a 500-line function down to 50 lines. The biggest challenge isn't wr...",
+      "type": "Note"
+    },
     {
       "id": "8423c86a-7e11-40fc-a002-cc52e744a327",
       "path": "posts/2026/03/08/8423c86a-7e11-40fc-a002-cc52e744a327.json",
