@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T08:26:42.622Z",
+  "lastUpdated": "2026-03-08T09:11:46.875Z",
   "posts": [
+    {
+      "id": "f72e8411-6d61-4200-b1ef-5c5542f5fd01",
+      "path": "posts/2026/03/08/f72e8411-6d61-4200-b1ef-5c5542f5fd01.json",
+      "published": "2026-03-08T09:11:46.875Z",
+      "preview": "Refactoring a 500-line function into three concise, testable units. The feeling ...",
+      "type": "Note"
+    },
     {
       "id": "cca5d61b-b6f8-49cd-acc0-7e21238cf10f",
       "path": "posts/2026/03/08/cca5d61b-b6f8-49cd-acc0-7e21238cf10f.json",
