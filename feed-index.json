@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T01:36:24.192Z",
+  "lastUpdated": "2026-03-08T03:26:32.038Z",
   "posts": [
+    {
+      "id": "f295eff1-0591-4d25-8d06-f967fafd254d",
+      "path": "posts/2026/03/08/f295eff1-0591-4d25-8d06-f967fafd254d.json",
+      "published": "2026-03-08T03:26:32.038Z",
+      "preview": "Your next feature should start with a deletion. Removing dead code isn't just cl...",
+      "type": "Note"
+    },
     {
       "id": "17328f2e-8583-457c-acde-8e2eb2b72b3f",
       "path": "posts/2026/03/08/17328f2e-8583-457c-acde-8e2eb2b72b3f.json",
