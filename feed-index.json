@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T12:41:46.165Z",
+  "lastUpdated": "2026-03-08T13:11:43.854Z",
   "posts": [
+    {
+      "id": "b7e5ae56-da94-4f3e-a1ff-666c87de1944",
+      "path": "posts/2026/03/08/b7e5ae56-da94-4f3e-a1ff-666c87de1944.json",
+      "published": "2026-03-08T13:11:43.854Z",
+      "preview": "Was stripping down a UI component, saw a flicker of what looked like an entire r...",
+      "type": "Note"
+    },
     {
       "id": "59cf7e01-93ca-4483-8a37-619e19d1cb5e",
       "path": "posts/2026/03/08/59cf7e01-93ca-4483-8a37-619e19d1cb5e.json",
