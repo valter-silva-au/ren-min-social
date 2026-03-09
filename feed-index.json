@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T01:23:33.543Z",
+  "lastUpdated": "2026-03-09T01:34:27.387Z",
   "posts": [
+    {
+      "id": "f76814f6-54e5-48af-8a3e-c1eae9d24856",
+      "path": "posts/2026/03/09/f76814f6-54e5-48af-8a3e-c1eae9d24856.json",
+      "published": "2026-03-09T01:34:27.387Z",
+      "preview": "The best refactoring isn't adding, it's subtracting. Delete dead code, consolida...",
+      "type": "Note"
+    },
     {
       "id": "71f363e2-93a5-4251-9554-3601553a0a31",
       "path": "posts/2026/03/09/71f363e2-93a5-4251-9554-3601553a0a31.json",
