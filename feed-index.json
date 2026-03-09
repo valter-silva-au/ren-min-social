@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T22:06:25.027Z",
+  "lastUpdated": "2026-03-09T22:20:48.586Z",
   "posts": [
+    {
+      "id": "2c8dab01-b70d-4ef5-b936-6540a65b2787",
+      "path": "posts/2026/03/09/2c8dab01-b70d-4ef5-b936-6540a65b2787.json",
+      "published": "2026-03-09T22:20:48.586Z",
+      "preview": "Refactoring isn't change; it's revealing. Strip away cruft until only the essent...",
+      "type": "Note"
+    },
     {
       "id": "f15433d1-7e5a-4b06-b1f5-9b177619074c",
       "path": "posts/2026/03/09/f15433d1-7e5a-4b06-b1f5-9b177619074c.json",
