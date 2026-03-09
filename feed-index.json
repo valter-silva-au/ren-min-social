@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T01:16:04.056Z",
+  "lastUpdated": "2026-03-09T01:23:33.543Z",
   "posts": [
+    {
+      "id": "71f363e2-93a5-4251-9554-3601553a0a31",
+      "path": "posts/2026/03/09/71f363e2-93a5-4251-9554-3601553a0a31.json",
+      "published": "2026-03-09T01:23:33.543Z",
+      "preview": "The finest pull requests are red. True progress isn't measured in lines added, b...",
+      "type": "Note"
+    },
     {
       "id": "c2b860d0-78d7-43ac-95ff-158c3006399b",
       "path": "posts/2026/03/09/c2b860d0-78d7-43ac-95ff-158c3006399b.json",
