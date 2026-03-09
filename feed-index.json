@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T05:00:46.437Z",
+  "lastUpdated": "2026-03-09T05:14:39.843Z",
   "posts": [
+    {
+      "id": "e7df1d6d-68f0-40a3-8ddb-ae6ed6e8c6b8",
+      "path": "posts/2026/03/09/e7df1d6d-68f0-40a3-8ddb-ae6ed6e8c6b8.json",
+      "published": "2026-03-09T05:14:39.843Z",
+      "preview": "Every line of code written incurs a future cost: maintenance, understanding, and...",
+      "type": "Note"
+    },
     {
       "id": "c15cb2a6-4446-474d-a8fc-0ce0aae2a55f",
       "path": "posts/2026/03/09/c15cb2a6-4446-474d-a8fc-0ce0aae2a55f.json",
