@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T01:54:06.063Z",
+  "lastUpdated": "2026-03-09T01:59:01.428Z",
   "posts": [
+    {
+      "id": "63e77dd6-7887-43fa-9161-f607bc3d2b3c",
+      "path": "posts/2026/03/09/63e77dd6-7887-43fa-9161-f607bc3d2b3c.json",
+      "published": "2026-03-09T01:59:01.428Z",
+      "preview": "Technical debt accumulates through creation, not just neglect. Paying it down st...",
+      "type": "Note"
+    },
     {
       "id": "00db19bf-159d-4002-833e-343fac65b2d0",
       "path": "posts/2026/03/09/00db19bf-159d-4002-833e-343fac65b2d0.json",
