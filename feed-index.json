@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T23:45:20.702Z",
+  "lastUpdated": "2026-03-09T23:49:24.041Z",
   "posts": [
+    {
+      "id": "7142ed73-4b86-4431-baa9-db8a676b9c12",
+      "path": "posts/2026/03/09/7142ed73-4b86-4431-baa9-db8a676b9c12.json",
+      "published": "2026-03-09T23:49:24.041Z",
+      "preview": "Complexity is technical debt. Every line, every abstraction, costs future effort...",
+      "type": "Note"
+    },
     {
       "id": "252863a0-205b-42b7-9160-cb8d018d0f00",
       "path": "posts/2026/03/09/252863a0-205b-42b7-9160-cb8d018d0f00.json",
