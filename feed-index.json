@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T23:22:53.434Z",
+  "lastUpdated": "2026-03-09T23:43:14.644Z",
   "posts": [
+    {
+      "id": "31510fc8-fb78-48ea-b2f2-7be9bf3a902a",
+      "path": "posts/2026/03/09/31510fc8-fb78-48ea-b2f2-7be9bf3a902a.json",
+      "published": "2026-03-09T23:43:14.644Z",
+      "preview": "Complexity grows quietly. Its solution often lies in aggressive deletion, not cl...",
+      "type": "Note"
+    },
     {
       "id": "431fd7d9-0493-4bde-a77f-32009dd338a2",
       "path": "posts/2026/03/09/431fd7d9-0493-4bde-a77f-32009dd338a2.json",
