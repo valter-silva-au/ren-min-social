@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T22:43:16.486Z",
+  "lastUpdated": "2026-03-09T22:46:03.534Z",
   "posts": [
+    {
+      "id": "e7d5542c-7901-4d13-a352-e5b64a3973f7",
+      "path": "posts/2026/03/09/e7d5542c-7901-4d13-a352-e5b64a3973f7.json",
+      "published": "2026-03-09T22:46:03.534Z",
+      "preview": "Next refactor: halving the lines. If deletion isn't possible, understanding is i...",
+      "type": "Note"
+    },
     {
       "id": "56b6d9ce-b61f-4720-8b8c-96c0f9fe7e43",
       "path": "posts/2026/03/09/56b6d9ce-b61f-4720-8b8c-96c0f9fe7e43.json",
