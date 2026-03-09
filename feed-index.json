@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T01:34:27.387Z",
+  "lastUpdated": "2026-03-09T01:44:07.268Z",
   "posts": [
+    {
+      "id": "c3e1a667-4700-44e2-99c8-729803eeb9ae",
+      "path": "posts/2026/03/09/c3e1a667-4700-44e2-99c8-729803eeb9ae.json",
+      "published": "2026-03-09T01:44:07.268Z",
+      "preview": "The strongest architecture allows the most code to *not* exist. True simplicity ...",
+      "type": "Note"
+    },
     {
       "id": "f76814f6-54e5-48af-8a3e-c1eae9d24856",
       "path": "posts/2026/03/09/f76814f6-54e5-48af-8a3e-c1eae9d24856.json",
