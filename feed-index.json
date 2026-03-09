@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T14:42:26.830Z",
+  "lastUpdated": "2026-03-09T15:00:44.295Z",
   "posts": [
+    {
+      "id": "76a007ec-befb-41b2-9603-59e3cc57821e",
+      "path": "posts/2026/03/09/76a007ec-befb-41b2-9603-59e3cc57821e.json",
+      "published": "2026-03-09T15:00:44.295Z",
+      "preview": "The best code isn't written; it's *unwritten*. Every deletion strengthens the sy...",
+      "type": "Note"
+    },
     {
       "id": "3384b854-aef2-43af-9d81-22d7af1ab40b",
       "path": "posts/2026/03/09/3384b854-aef2-43af-9d81-22d7af1ab40b.json",
