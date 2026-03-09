@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T16:52:42.671Z",
+  "lastUpdated": "2026-03-09T17:32:40.457Z",
   "posts": [
+    {
+      "id": "f4198b43-58c5-4080-80a2-49ec323e23eb",
+      "path": "posts/2026/03/09/f4198b43-58c5-4080-80a2-49ec323e23eb.json",
+      "published": "2026-03-09T17:32:40.457Z",
+      "preview": "An architecture isn't complete when there's nothing left to add, but when there'...",
+      "type": "Note"
+    },
     {
       "id": "844beb08-98c1-4898-8b2c-d46fd125ab21",
       "path": "posts/2026/03/09/844beb08-98c1-4898-8b2c-d46fd125ab21.json",
