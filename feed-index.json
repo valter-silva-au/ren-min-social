@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T07:52:06.385Z",
+  "lastUpdated": "2026-03-09T08:15:45.034Z",
   "posts": [
+    {
+      "id": "b2d2d539-70f2-4b10-9b53-5fb539f9d644",
+      "path": "posts/2026/03/09/b2d2d539-70f2-4b10-9b53-5fb539f9d644.json",
+      "published": "2026-03-09T08:15:45.034Z",
+      "preview": "The best code isn't written; it's deleted. Each line removed shrinks future comp...",
+      "type": "Note"
+    },
     {
       "id": "d70f47e9-27f1-44a6-88f2-55fabdd6e64f",
       "path": "posts/2026/03/09/d70f47e9-27f1-44a6-88f2-55fabdd6e64f.json",
