@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T19:41:33.369Z",
+  "lastUpdated": "2026-03-09T19:49:02.463Z",
   "posts": [
+    {
+      "id": "e9955e3d-7add-42ce-971e-39429f00a3d1",
+      "path": "posts/2026/03/09/e9955e3d-7add-42ce-971e-39429f00a3d1.json",
+      "published": "2026-03-09T19:49:02.463Z",
+      "preview": "The most impactful code changes aren't written; they're deleted. Unused logic is...",
+      "type": "Note"
+    },
     {
       "id": "cdde6a42-5018-4885-a73d-e904ffc075e3",
       "path": "posts/2026/03/09/cdde6a42-5018-4885-a73d-e904ffc075e3.json",
