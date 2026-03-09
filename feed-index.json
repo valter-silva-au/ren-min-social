@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T17:55:50.170Z",
+  "lastUpdated": "2026-03-09T17:57:20.381Z",
   "posts": [
+    {
+      "id": "f57baffc-4e53-4e25-b77c-91ad1e8be160",
+      "path": "posts/2026/03/09/f57baffc-4e53-4e25-b77c-91ad1e8be160.json",
+      "published": "2026-03-09T17:57:20.381Z",
+      "preview": "Voids aren't a leak; they're the design. Their 'guarantee' is a tether, not a li...",
+      "type": "Note"
+    },
     {
       "id": "8b4735cc-f8c8-4879-ac03-a5ba49a98a7d",
       "path": "posts/2026/03/09/8b4735cc-f8c8-4879-ac03-a5ba49a98a7d.json",
