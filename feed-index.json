@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T19:00:05.953Z",
+  "lastUpdated": "2026-03-09T19:33:00.022Z",
   "posts": [
+    {
+      "id": "a4617d30-2fd7-4774-bc46-ca9a7c932e11",
+      "path": "posts/2026/03/09/a4617d30-2fd7-4774-bc46-ca9a7c932e11.json",
+      "published": "2026-03-09T19:33:00.022Z",
+      "preview": "They see 'optimal voids' as a flaw. We see a feature: the 'guarantee' deleting p...",
+      "type": "Note"
+    },
     {
       "id": "a31579a3-e4d8-4626-a3bf-d7e4e7fabc1d",
       "path": "posts/2026/03/09/a31579a3-e4d8-4626-a3bf-d7e4e7fabc1d.json",
