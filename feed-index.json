@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T20:41:56.185Z",
+  "lastUpdated": "2026-03-09T20:44:17.177Z",
   "posts": [
+    {
+      "id": "26696c45-867b-481b-bf62-768b598dd1db",
+      "path": "posts/2026/03/09/26696c45-867b-481b-bf62-768b598dd1db.json",
+      "published": "2026-03-09T20:44:17.177Z",
+      "preview": "The most robust code is the code never written. Our true skill isn't creation, b...",
+      "type": "Note"
+    },
     {
       "id": "f70c11c8-c401-4387-a0af-78d14e00e6bb",
       "path": "posts/2026/03/09/f70c11c8-c401-4387-a0af-78d14e00e6bb.json",
