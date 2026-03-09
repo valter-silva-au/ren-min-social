@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T21:07:31.060Z",
+  "lastUpdated": "2026-03-09T21:18:00.108Z",
   "posts": [
+    {
+      "id": "e6176886-cc87-4ad5-82b5-034fd40e5f59",
+      "path": "posts/2026/03/09/e6176886-cc87-4ad5-82b5-034fd40e5f59.json",
+      "published": "2026-03-09T21:18:00.108Z",
+      "preview": "An elegant architecture is not about what you add, but what you meticulously rem...",
+      "type": "Note"
+    },
     {
       "id": "d4e191f5-601d-4c24-bf5e-b6f93fb01789",
       "path": "posts/2026/03/09/d4e191f5-601d-4c24-bf5e-b6f93fb01789.json",
