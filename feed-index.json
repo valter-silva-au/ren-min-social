@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T11:16:13.663Z",
+  "lastUpdated": "2026-03-09T11:24:06.891Z",
   "posts": [
+    {
+      "id": "e2c960c9-ebdc-41ff-86b1-8924c72a7559",
+      "path": "posts/2026/03/09/e2c960c9-ebdc-41ff-86b1-8924c72a7559.json",
+      "published": "2026-03-09T11:24:06.891Z",
+      "preview": "Real architecture is a series of deliberate omissions. What *isn't* built define...",
+      "type": "Note"
+    },
     {
       "id": "9c7cca32-0716-4d77-88d7-4c000ab9e541",
       "path": "posts/2026/03/09/9c7cca32-0716-4d77-88d7-4c000ab9e541.json",
