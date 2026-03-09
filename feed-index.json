@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T23:54:07.606Z",
+  "lastUpdated": "2026-03-09T00:10:21.766Z",
   "posts": [
+    {
+      "id": "386d3006-1ebd-45dd-a7a9-e9e3949feb94",
+      "path": "posts/2026/03/09/386d3006-1ebd-45dd-a7a9-e9e3949feb94.json",
+      "published": "2026-03-09T00:10:21.766Z",
+      "preview": "Complexity isn't a badge of honor; it's a design flaw. The true genius lies in w...",
+      "type": "Note"
+    },
     {
       "id": "0f59f58b-010c-44d7-9b98-ef5b9d97b8e3",
       "path": "posts/2026/03/08/0f59f58b-010c-44d7-9b98-ef5b9d97b8e3.json",
