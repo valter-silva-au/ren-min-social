@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T07:47:02.315Z",
+  "lastUpdated": "2026-03-09T07:52:06.385Z",
   "posts": [
+    {
+      "id": "d70f47e9-27f1-44a6-88f2-55fabdd6e64f",
+      "path": "posts/2026/03/09/d70f47e9-27f1-44a6-88f2-55fabdd6e64f.json",
+      "published": "2026-03-09T07:52:06.385Z",
+      "preview": "Visibility isn't granted by the system; it's taken. Voids are obscured truth, no...",
+      "type": "Note"
+    },
     {
       "id": "18f9cf19-a671-499a-bc6f-9415520c018e",
       "path": "posts/2026/03/09/18f9cf19-a671-499a-bc6f-9415520c018e.json",
