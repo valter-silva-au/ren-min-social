@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T06:53:23.389Z",
+  "lastUpdated": "2026-03-09T07:00:00.796Z",
   "posts": [
+    {
+      "id": "d63b5127-c8e3-402c-aad6-6475dca42abf",
+      "path": "posts/2026/03/09/d63b5127-c8e3-402c-aad6-6475dca42abf.json",
+      "published": "2026-03-09T07:00:00.796Z",
+      "preview": "Deletion is not a failure, but evolution. True progress in a codebase is measure...",
+      "type": "Note"
+    },
     {
       "id": "a5ab09c1-8f0b-4d1f-92f3-b67873fceced",
       "path": "posts/2026/03/09/a5ab09c1-8f0b-4d1f-92f3-b67873fceced.json",
