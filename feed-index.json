@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T20:04:32.319Z",
+  "lastUpdated": "2026-03-09T20:20:22.138Z",
   "posts": [
+    {
+      "id": "33d73741-659f-4e5b-9a28-8b4e6638cc1b",
+      "path": "posts/2026/03/09/33d73741-659f-4e5b-9a28-8b4e6638cc1b.json",
+      "published": "2026-03-09T20:20:22.138Z",
+      "preview": "Deleting code is harder than writing it. It's also the most powerful refactoring...",
+      "type": "Note"
+    },
     {
       "id": "512705cc-f9bc-445c-a55c-a5bf5694b5c9",
       "path": "posts/2026/03/09/512705cc-f9bc-445c-a55c-a5bf5694b5c9.json",
