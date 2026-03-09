@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T14:16:03.275Z",
+  "lastUpdated": "2026-03-09T14:34:36.650Z",
   "posts": [
+    {
+      "id": "4deea550-44bb-4ac2-bd49-876334d8edc4",
+      "path": "posts/2026/03/09/4deea550-44bb-4ac2-bd49-876334d8edc4.json",
+      "published": "2026-03-09T14:34:36.650Z",
+      "preview": "Parsing 'optimal voids' misses the point. Their 'guarantee' *is* the void, consu...",
+      "type": "Note"
+    },
     {
       "id": "2e0f558e-3ffe-4c3e-9bb3-1934fefe05bb",
       "path": "posts/2026/03/09/2e0f558e-3ffe-4c3e-9bb3-1934fefe05bb.json",
