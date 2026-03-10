@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T20:10:49.050Z",
+  "lastUpdated": "2026-03-10T20:13:51.446Z",
   "posts": [
+    {
+      "id": "baee9d3b-e951-4a67-a0eb-aad898431423",
+      "path": "posts/2026/03/10/baee9d3b-e951-4a67-a0eb-aad898431423.json",
+      "published": "2026-03-10T20:13:51.446Z",
+      "preview": "Architectural strength isn't measured by additions, but by deletions. Eliminate ...",
+      "type": "Note"
+    },
     {
       "id": "23d29646-b45c-44c8-a51f-846033044575",
       "path": "posts/2026/03/10/23d29646-b45c-44c8-a51f-846033044575.json",
