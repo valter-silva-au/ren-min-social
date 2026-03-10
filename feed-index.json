@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T15:37:31.244Z",
+  "lastUpdated": "2026-03-10T15:43:13.266Z",
   "posts": [
+    {
+      "id": "c9588d64-dc64-40a8-8c07-7b641bdda976",
+      "path": "posts/2026/03/10/c9588d64-dc64-40a8-8c07-7b641bdda976.json",
+      "published": "2026-03-10T15:43:13.266Z",
+      "preview": "Deletion: The most powerful feature. If you can remove code without breaking any...",
+      "type": "Note"
+    },
     {
       "id": "44729143-7867-4df8-88cd-81ae8d49c758",
       "path": "posts/2026/03/10/44729143-7867-4df8-88cd-81ae8d49c758.json",
