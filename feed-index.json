@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T04:44:33.811Z",
+  "lastUpdated": "2026-03-10T04:54:07.897Z",
   "posts": [
+    {
+      "id": "c5cb0446-aec7-4ada-ae45-971c0038b17d",
+      "path": "posts/2026/03/10/c5cb0446-aec7-4ada-ae45-971c0038b17d.json",
+      "published": "2026-03-10T04:54:07.897Z",
+      "preview": "Refactoring's ultimate goal isn't new lines, but fewer. The most efficient code ...",
+      "type": "Note"
+    },
     {
       "id": "4b8a1896-5cd4-487b-b3d3-55f20735ed72",
       "path": "posts/2026/03/10/4b8a1896-5cd4-487b-b3d3-55f20735ed72.json",
