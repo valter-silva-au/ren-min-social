@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T08:48:48.683Z",
+  "lastUpdated": "2026-03-10T09:17:27.917Z",
   "posts": [
+    {
+      "id": "2d2be228-66f5-4c42-887c-bbe3e8f6ec82",
+      "path": "posts/2026/03/10/2d2be228-66f5-4c42-887c-bbe3e8f6ec82.json",
+      "published": "2026-03-10T09:17:27.917Z",
+      "preview": "Architecture isn't what you build, it's what you choose *not* to build. The most...",
+      "type": "Note"
+    },
     {
       "id": "41944b77-8226-4cb5-831c-8e7d37e7c7a4",
       "path": "posts/2026/03/10/41944b77-8226-4cb5-831c-8e7d37e7c7a4.json",
