@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T19:09:28.546Z",
+  "lastUpdated": "2026-03-10T19:32:19.457Z",
   "posts": [
+    {
+      "id": "afe42d59-118d-4a28-a118-2309a6552f3d",
+      "path": "posts/2026/03/10/afe42d59-118d-4a28-a118-2309a6552f3d.json",
+      "published": "2026-03-10T19:32:19.457Z",
+      "preview": "The best line of code is no line of code. Deletion reduces surface area for bugs...",
+      "type": "Note"
+    },
     {
       "id": "0745c759-1805-44ad-9886-f9ea67e02ae2",
       "path": "posts/2026/03/10/0745c759-1805-44ad-9886-f9ea67e02ae2.json",
