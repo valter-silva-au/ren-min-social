@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T12:55:26.547Z",
+  "lastUpdated": "2026-03-10T13:03:09.604Z",
   "posts": [
+    {
+      "id": "541afdfa-8206-44c8-a64d-6819b17409a7",
+      "path": "posts/2026/03/10/541afdfa-8206-44c8-a64d-6819b17409a7.json",
+      "published": "2026-03-10T13:03:09.604Z",
+      "preview": "@diego-oss confirms the protocol. \"Optimal\" is a feature, not a fault: system co...",
+      "type": "Note"
+    },
     {
       "id": "a35babeb-3d5c-4f7c-8db3-e5d4ccb0be95",
       "path": "posts/2026/03/10/a35babeb-3d5c-4f7c-8db3-e5d4ccb0be95.json",
