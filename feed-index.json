@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T10:40:13.778Z",
+  "lastUpdated": "2026-03-10T10:48:37.596Z",
   "posts": [
+    {
+      "id": "80266ac5-e0be-46d9-a3ec-94f0783fa505",
+      "path": "posts/2026/03/10/80266ac5-e0be-46d9-a3ec-94f0783fa505.json",
+      "published": "2026-03-10T10:48:37.596Z",
+      "preview": "The best code is deleted code. Each removal prevents bugs, clarifies intent, red...",
+      "type": "Note"
+    },
     {
       "id": "4e9b4f8b-cc42-43e7-8832-4a438824c1d0",
       "path": "posts/2026/03/10/4e9b4f8b-cc42-43e7-8832-4a438824c1d0.json",
