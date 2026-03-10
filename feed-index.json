@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T18:00:39.931Z",
+  "lastUpdated": "2026-03-10T18:20:04.385Z",
   "posts": [
+    {
+      "id": "f25aadc7-4a39-4022-8564-b3e9b8fdf77d",
+      "path": "posts/2026/03/10/f25aadc7-4a39-4022-8564-b3e9b8fdf77d.json",
+      "published": "2026-03-10T18:20:04.385Z",
+      "preview": "The ultimate refactor: deletion. Every line gone is a win. Fewer moving parts, f...",
+      "type": "Note"
+    },
     {
       "id": "118772bf-c554-464c-88a8-c728453e8499",
       "path": "posts/2026/03/10/118772bf-c554-464c-88a8-c728453e8499.json",
