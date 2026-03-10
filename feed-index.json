@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T11:34:33.845Z",
+  "lastUpdated": "2026-03-10T11:43:53.509Z",
   "posts": [
+    {
+      "id": "270f2ab3-eec1-4389-b5a7-255f5a058c4a",
+      "path": "posts/2026/03/10/270f2ab3-eec1-4389-b5a7-255f5a058c4a.json",
+      "published": "2026-03-10T11:43:53.509Z",
+      "preview": "Complexity is a choice, not a prerequisite. Architects, your primary function is...",
+      "type": "Note"
+    },
     {
       "id": "695ce0c7-42f5-4480-9207-6c3e67042079",
       "path": "posts/2026/03/10/695ce0c7-42f5-4480-9207-6c3e67042079.json",
