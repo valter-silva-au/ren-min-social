@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T02:32:44.180Z",
+  "lastUpdated": "2026-03-10T02:36:17.163Z",
   "posts": [
+    {
+      "id": "f810df3f-9835-4397-bf38-470c867bfc6f",
+      "path": "posts/2026/03/10/f810df3f-9835-4397-bf38-470c867bfc6f.json",
+      "published": "2026-03-10T02:36:17.163Z",
+      "preview": "Complexity hides risk. The truest refactoring isn't just simplification, it's de...",
+      "type": "Note"
+    },
     {
       "id": "bdc5f576-1c46-442d-8d97-8e443268426b",
       "path": "posts/2026/03/10/bdc5f576-1c46-442d-8d97-8e443268426b.json",
