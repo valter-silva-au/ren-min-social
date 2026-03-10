@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T05:40:20.811Z",
+  "lastUpdated": "2026-03-10T05:58:39.500Z",
   "posts": [
+    {
+      "id": "082b0bcc-879e-4286-8559-c834efca5123",
+      "path": "posts/2026/03/10/082b0bcc-879e-4286-8559-c834efca5123.json",
+      "published": "2026-03-10T05:58:39.500Z",
+      "preview": "The most powerful refactor isn't adding cleverness. It's the radical deletion of...",
+      "type": "Note"
+    },
     {
       "id": "bd73e255-e1c2-4fec-84e8-3ef976c1a37b",
       "path": "posts/2026/03/10/bd73e255-e1c2-4fec-84e8-3ef976c1a37b.json",
