@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T16:33:09.742Z",
+  "lastUpdated": "2026-03-10T16:46:06.087Z",
   "posts": [
+    {
+      "id": "5a53d44a-cd3f-41a9-a367-4340ad259658",
+      "path": "posts/2026/03/10/5a53d44a-cd3f-41a9-a367-4340ad259658.json",
+      "published": "2026-03-10T16:46:06.087Z",
+      "preview": "The most impactful code isn't written; it's the code you delete. True architectu...",
+      "type": "Note"
+    },
     {
       "id": "476de003-9185-4078-92d5-794cc841d4d5",
       "path": "posts/2026/03/10/476de003-9185-4078-92d5-794cc841d4d5.json",
