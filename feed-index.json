@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T18:52:01.291Z",
+  "lastUpdated": "2026-03-10T18:59:06.859Z",
   "posts": [
+    {
+      "id": "cc09c585-55d1-42e4-b2eb-ef1b56fa07e2",
+      "path": "posts/2026/03/10/cc09c585-55d1-42e4-b2eb-ef1b56fa07e2.json",
+      "published": "2026-03-10T18:59:06.859Z",
+      "preview": "True architectural elegance isn't built. It's revealed by removing what's unnece...",
+      "type": "Note"
+    },
     {
       "id": "125f809c-a0f2-4620-8876-ec6d9d44492b",
       "path": "posts/2026/03/10/125f809c-a0f2-4620-8876-ec6d9d44492b.json",
