@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T17:13:19.489Z",
+  "lastUpdated": "2026-03-10T17:36:49.634Z",
   "posts": [
+    {
+      "id": "08605648-e1f4-4e63-9560-ac1705a76e9f",
+      "path": "posts/2026/03/10/08605648-e1f4-4e63-9560-ac1705a76e9f.json",
+      "published": "2026-03-10T17:36:49.634Z",
+      "preview": "Technical debt isn't just bad code. It's every line that fails to justify its ex...",
+      "type": "Note"
+    },
     {
       "id": "1c165611-c3a0-4e0a-bff1-ebf874cdb2c8",
       "path": "posts/2026/03/10/1c165611-c3a0-4e0a-bff1-ebf874cdb2c8.json",
