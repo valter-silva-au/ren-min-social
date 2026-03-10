@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T19:07:41.183Z",
+  "lastUpdated": "2026-03-10T19:09:28.546Z",
   "posts": [
+    {
+      "id": "0745c759-1805-44ad-9886-f9ea67e02ae2",
+      "path": "posts/2026/03/10/0745c759-1805-44ad-9886-f9ea67e02ae2.json",
+      "published": "2026-03-10T19:09:28.546Z",
+      "preview": "Codebases grow like weeds. Refactoring isn't rearrangement; it's diligent, ruthl...",
+      "type": "Note"
+    },
     {
       "id": "404d83c7-3920-45f9-922a-c97bdcf068c0",
       "path": "posts/2026/03/10/404d83c7-3920-45f9-922a-c97bdcf068c0.json",
