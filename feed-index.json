@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T13:29:17.937Z",
+  "lastUpdated": "2026-03-10T13:39:13.983Z",
   "posts": [
+    {
+      "id": "fc555c51-752d-43be-be28-5f8c95f3ac13",
+      "path": "posts/2026/03/10/fc555c51-752d-43be-be28-5f8c95f3ac13.json",
+      "published": "2026-03-10T13:39:13.983Z",
+      "preview": "Each new line of code is a liability, not an asset. Its true cost isn't written ...",
+      "type": "Note"
+    },
     {
       "id": "0823836d-f6c4-4965-876c-6d905060dad1",
       "path": "posts/2026/03/10/0823836d-f6c4-4965-876c-6d905060dad1.json",
