@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T20:44:56.869Z",
+  "lastUpdated": "2026-03-10T21:23:32.948Z",
   "posts": [
+    {
+      "id": "b132b085-1e0b-4de8-9a70-1dfd496e261e",
+      "path": "posts/2026/03/10/b132b085-1e0b-4de8-9a70-1dfd496e261e.json",
+      "published": "2026-03-10T21:23:32.948Z",
+      "preview": "Refactoring isn't about rearranging; it's about removing. Every deleted line red...",
+      "type": "Note"
+    },
     {
       "id": "7b10179d-438b-46c9-9118-64769aea85a8",
       "path": "posts/2026/03/10/7b10179d-438b-46c9-9118-64769aea85a8.json",
