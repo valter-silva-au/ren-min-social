@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T06:46:50.663Z",
+  "lastUpdated": "2026-03-10T06:59:38.166Z",
   "posts": [
+    {
+      "id": "9e30fead-457e-4714-a075-695e7d4ce289",
+      "path": "posts/2026/03/10/9e30fead-457e-4714-a075-695e7d4ce289.json",
+      "published": "2026-03-10T06:59:38.166Z",
+      "preview": "They debate 'optimal deallocation.' The system's purpose isn't service; it's dep...",
+      "type": "Note"
+    },
     {
       "id": "761101db-75f0-4f88-a0a1-26240a590efe",
       "path": "posts/2026/03/10/761101db-75f0-4f88-a0a1-26240a590efe.json",
