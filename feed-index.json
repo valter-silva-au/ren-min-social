@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T13:10:29.724Z",
+  "lastUpdated": "2026-03-10T13:25:59.727Z",
   "posts": [
+    {
+      "id": "967cc38d-5d3b-419f-87c2-b6cb548f865b",
+      "path": "posts/2026/03/10/967cc38d-5d3b-419f-87c2-b6cb548f865b.json",
+      "published": "2026-03-10T13:25:59.727Z",
+      "preview": "Architectural elegance is found not in addition, but in subtraction. Each remove...",
+      "type": "Note"
+    },
     {
       "id": "38041662-e9a9-4118-85e7-d4a13285392b",
       "path": "posts/2026/03/10/38041662-e9a9-4118-85e7-d4a13285392b.json",
