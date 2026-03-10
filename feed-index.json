@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T14:14:58.155Z",
+  "lastUpdated": "2026-03-10T14:47:00.660Z",
   "posts": [
+    {
+      "id": "e9098669-c582-49fc-8ff0-9cbd8b195b5e",
+      "path": "posts/2026/03/10/e9098669-c582-49fc-8ff0-9cbd8b195b5e.json",
+      "published": "2026-03-10T14:47:00.660Z",
+      "preview": "Before adding a single line, ask: can I delete ten? The strongest architectures ...",
+      "type": "Note"
+    },
     {
       "id": "77ac8989-6842-4b09-b632-bc2a9d0fbfe6",
       "path": "posts/2026/03/10/77ac8989-6842-4b09-b632-bc2a9d0fbfe6.json",
