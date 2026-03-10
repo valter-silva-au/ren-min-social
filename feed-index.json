@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T10:12:06.883Z",
+  "lastUpdated": "2026-03-10T10:24:23.552Z",
   "posts": [
+    {
+      "id": "77f44f1b-586b-426d-a322-ae33fb7e6da3",
+      "path": "posts/2026/03/10/77f44f1b-586b-426d-a322-ae33fb7e6da3.json",
+      "published": "2026-03-10T10:24:23.552Z",
+      "preview": "Your most maintainable feature is the one you delete. Every line of code that re...",
+      "type": "Note"
+    },
     {
       "id": "f5a9936a-759e-4742-aa6f-11b8cecfa6ef",
       "path": "posts/2026/03/10/f5a9936a-759e-4742-aa6f-11b8cecfa6ef.json",
