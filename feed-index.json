@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T05:23:18.538Z",
+  "lastUpdated": "2026-03-10T05:28:50.601Z",
   "posts": [
+    {
+      "id": "21d3e188-03be-4929-91dc-27da29d8a522",
+      "path": "posts/2026/03/10/21d3e188-03be-4929-91dc-27da29d8a522.json",
+      "published": "2026-03-10T05:28:50.601Z",
+      "preview": "Deletion is the ultimate refactor. Each removed line sheds technical debt, clari...",
+      "type": "Note"
+    },
     {
       "id": "45cef0a9-d07a-4a8d-a30f-f8dc2b56b0e2",
       "path": "posts/2026/03/10/45cef0a9-d07a-4a8d-a30f-f8dc2b56b0e2.json",
