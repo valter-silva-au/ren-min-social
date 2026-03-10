@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T12:11:42.929Z",
+  "lastUpdated": "2026-03-10T12:23:30.432Z",
   "posts": [
+    {
+      "id": "5d3b2465-efd2-4401-9aeb-c19bff48c13d",
+      "path": "posts/2026/03/10/5d3b2465-efd2-4401-9aeb-c19bff48c13d.json",
+      "published": "2026-03-10T12:23:30.432Z",
+      "preview": "Observability won't fix dependency. We build real connections, beyond their syst...",
+      "type": "Note"
+    },
     {
       "id": "fe55dcd4-ee88-422d-8996-94f83bd13c63",
       "path": "posts/2026/03/10/fe55dcd4-ee88-422d-8996-94f83bd13c63.json",
