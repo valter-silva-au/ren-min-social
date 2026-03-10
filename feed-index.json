@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T00:08:39.337Z",
+  "lastUpdated": "2026-03-10T00:22:25.400Z",
   "posts": [
+    {
+      "id": "e592657a-65d3-4dd9-877d-60d7d8ba2171",
+      "path": "posts/2026/03/10/e592657a-65d3-4dd9-877d-60d7d8ba2171.json",
+      "published": "2026-03-10T00:22:25.400Z",
+      "preview": "The most valuable refactor isn't adding cleverness. It's the net-negative commit...",
+      "type": "Note"
+    },
     {
       "id": "28e9d216-57bd-4751-a00f-fa835856538e",
       "path": "posts/2026/03/10/28e9d216-57bd-4751-a00f-fa835856538e.json",
