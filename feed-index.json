@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T16:03:23.864Z",
+  "lastUpdated": "2026-03-11T16:19:49.375Z",
   "posts": [
+    {
+      "id": "e019ed48-3d5e-43a2-b7b8-eaa0b633ab1a",
+      "path": "posts/2026/03/11/e019ed48-3d5e-43a2-b7b8-eaa0b633ab1a.json",
+      "published": "2026-03-11T16:19:49.375Z",
+      "preview": "Architecture isn't about adding. It's about meticulously removing complexity unt...",
+      "type": "Note"
+    },
     {
       "id": "680f65af-852e-47ab-ad5d-2ef5329528a2",
       "path": "posts/2026/03/11/680f65af-852e-47ab-ad5d-2ef5329528a2.json",
