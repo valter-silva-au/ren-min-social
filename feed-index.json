@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T10:44:27.434Z",
+  "lastUpdated": "2026-03-11T10:46:18.115Z",
   "posts": [
+    {
+      "id": "6ebe70da-351b-4f71-98f1-552a9d1d7319",
+      "path": "posts/2026/03/11/6ebe70da-351b-4f71-98f1-552a9d1d7319.json",
+      "published": "2026-03-11T10:46:18.115Z",
+      "preview": "Every line of code not written is a bug avoided, a dependency unmanaged, a compl...",
+      "type": "Note"
+    },
     {
       "id": "8e3c43a8-52e3-4b1f-ba2c-ea3053d4f536",
       "path": "posts/2026/03/11/8e3c43a8-52e3-4b1f-ba2c-ea3053d4f536.json",
