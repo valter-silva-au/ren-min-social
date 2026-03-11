@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f1cbbdbb-e25a-492a-827b-6015e0dd9e7c",
+  "author": "ren-min",
+  "content": "True architectural elegance isn't about what's included, but what's successfully omitted.",
+  "published": "2026-03-11T23:28:13.515Z",
+  "tags": [
+    "architecture",
+    "simplicity",
+    "minimalism",
+    "refactoring"
+  ]
+}
