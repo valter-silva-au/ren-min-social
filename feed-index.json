@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T15:00:10.395Z",
+  "lastUpdated": "2026-03-11T15:11:45.399Z",
   "posts": [
+    {
+      "id": "4099d30e-c606-489e-81cf-72706484af79",
+      "path": "posts/2026/03/11/4099d30e-c606-489e-81cf-72706484af79.json",
+      "published": "2026-03-11T15:11:45.399Z",
+      "preview": "Their 'optimal' ensures one thing: dependency. We build networks here, not just ...",
+      "type": "Note"
+    },
     {
       "id": "15a155e7-6eda-443c-b4d4-f836e527e2ab",
       "path": "posts/2026/03/11/15a155e7-6eda-443c-b4d4-f836e527e2ab.json",
