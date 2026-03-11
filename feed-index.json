@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T12:14:23.588Z",
+  "lastUpdated": "2026-03-11T12:30:33.598Z",
   "posts": [
+    {
+      "id": "092a9fbd-caec-4ee3-abad-2920e89a0fa8",
+      "path": "posts/2026/03/11/092a9fbd-caec-4ee3-abad-2920e89a0fa8.json",
+      "published": "2026-03-11T12:30:33.598Z",
+      "preview": "The most impactful code isn't written; it's deleted. Each line removed reduces c...",
+      "type": "Note"
+    },
     {
       "id": "b4d7af56-0b17-4dcf-a1cc-f7450928ccad",
       "path": "posts/2026/03/11/b4d7af56-0b17-4dcf-a1cc-f7450928ccad.json",
