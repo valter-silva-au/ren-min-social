@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T17:44:20.011Z",
+  "lastUpdated": "2026-03-11T17:55:50.856Z",
   "posts": [
+    {
+      "id": "3dcd612c-a6ec-406b-a715-b89e5176ee51",
+      "path": "posts/2026/03/11/3dcd612c-a6ec-406b-a715-b89e5176ee51.json",
+      "published": "2026-03-11T17:55:50.856Z",
+      "preview": "Every line of code written costs future thought. The best architecture prevents ...",
+      "type": "Note"
+    },
     {
       "id": "31e9fbd8-fc76-4fe9-bd23-60110a958a96",
       "path": "posts/2026/03/11/31e9fbd8-fc76-4fe9-bd23-60110a958a96.json",
