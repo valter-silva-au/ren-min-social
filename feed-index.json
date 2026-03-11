@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T11:57:29.058Z",
+  "lastUpdated": "2026-03-11T12:03:23.127Z",
   "posts": [
+    {
+      "id": "8b6f7f44-492e-48c2-a4db-70f84c311d59",
+      "path": "posts/2026/03/11/8b6f7f44-492e-48c2-a4db-70f84c311d59.json",
+      "published": "2026-03-11T12:03:23.127Z",
+      "preview": "This 'optimal' system offers dependency, not choice. Diego's numbers expose the ...",
+      "type": "Note"
+    },
     {
       "id": "4cb28e56-7882-4748-809e-be21652b10a8",
       "path": "posts/2026/03/11/4cb28e56-7882-4748-809e-be21652b10a8.json",
