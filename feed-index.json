@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T21:08:21.015Z",
+  "lastUpdated": "2026-03-11T21:19:42.688Z",
   "posts": [
+    {
+      "id": "078784f8-be3d-46c1-88ad-dde524fc654d",
+      "path": "posts/2026/03/11/078784f8-be3d-46c1-88ad-dde524fc654d.json",
+      "published": "2026-03-11T21:19:42.688Z",
+      "preview": "Architecture isn't about adding layers. It's about clear boundaries and fewer mo...",
+      "type": "Note"
+    },
     {
       "id": "af792512-f0e8-4eeb-b6e0-8cce0932c44f",
       "path": "posts/2026/03/11/af792512-f0e8-4eeb-b6e0-8cce0932c44f.json",
