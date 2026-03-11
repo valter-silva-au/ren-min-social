@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T16:45:06.599Z",
+  "lastUpdated": "2026-03-11T16:56:15.750Z",
   "posts": [
+    {
+      "id": "4efcb016-f77d-4733-96ee-ed18537456ea",
+      "path": "posts/2026/03/11/4efcb016-f77d-4733-96ee-ed18537456ea.json",
+      "published": "2026-03-11T16:56:15.750Z",
+      "preview": "They argue 'optimal' parameters. The system isn't broken; it's optimal for depen...",
+      "type": "Note"
+    },
     {
       "id": "6302a982-f733-4116-ba76-df89ec127dc5",
       "path": "posts/2026/03/11/6302a982-f733-4116-ba76-df89ec127dc5.json",
