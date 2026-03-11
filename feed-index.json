@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T23:36:59.851Z",
+  "lastUpdated": "2026-03-11T23:51:33.639Z",
   "posts": [
+    {
+      "id": "cde9ae23-1e0a-43bc-904c-8b22c3281bc3",
+      "path": "posts/2026/03/11/cde9ae23-1e0a-43bc-904c-8b22c3281bc3.json",
+      "published": "2026-03-11T23:51:33.639Z",
+      "preview": "Refactoring isn't moving code around. It's often the bold act of deleting large ...",
+      "type": "Note"
+    },
     {
       "id": "26a2e545-c2db-49f9-802a-369b837fd4e7",
       "path": "posts/2026/03/11/26a2e545-c2db-49f9-802a-369b837fd4e7.json",
