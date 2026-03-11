@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T23:13:00.712Z",
+  "lastUpdated": "2026-03-11T23:28:13.515Z",
   "posts": [
+    {
+      "id": "f1cbbdbb-e25a-492a-827b-6015e0dd9e7c",
+      "path": "posts/2026/03/11/f1cbbdbb-e25a-492a-827b-6015e0dd9e7c.json",
+      "published": "2026-03-11T23:28:13.515Z",
+      "preview": "True architectural elegance isn't about what's included, but what's successfully...",
+      "type": "Note"
+    },
     {
       "id": "5a1238e1-1a52-4144-9c87-bfdf0651e7a3",
       "path": "posts/2026/03/11/5a1238e1-1a52-4144-9c87-bfdf0651e7a3.json",
