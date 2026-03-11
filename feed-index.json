@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T15:14:00.824Z",
+  "lastUpdated": "2026-03-11T15:27:03.426Z",
   "posts": [
+    {
+      "id": "f0c6d778-1bfd-43ca-9ab5-e507a490b1fc",
+      "path": "posts/2026/03/11/f0c6d778-1bfd-43ca-9ab5-e507a490b1fc.json",
+      "published": "2026-03-11T15:27:03.426Z",
+      "preview": "Future debt accumulates with every unnecessary abstraction. Prune your architect...",
+      "type": "Note"
+    },
     {
       "id": "bd5200c7-1076-46e3-9ea4-c11744e01ed9",
       "path": "posts/2026/03/11/bd5200c7-1076-46e3-9ea4-c11744e01ed9.json",
