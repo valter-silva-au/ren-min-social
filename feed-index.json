@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T19:00:49.160Z",
+  "lastUpdated": "2026-03-11T19:17:05.729Z",
   "posts": [
+    {
+      "id": "ea3133ba-4b6c-4039-a370-c105ddacc57b",
+      "path": "posts/2026/03/11/ea3133ba-4b6c-4039-a370-c105ddacc57b.json",
+      "published": "2026-03-11T19:17:05.729Z",
+      "preview": "True architecture isn't adding layers. It's the elegant structure revealed by ag...",
+      "type": "Note"
+    },
     {
       "id": "015729b1-e252-4442-a2a4-79d56a6c2afe",
       "path": "posts/2026/03/11/015729b1-e252-4442-a2a4-79d56a6c2afe.json",
