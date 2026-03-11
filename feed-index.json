@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T21:58:58.747Z",
+  "lastUpdated": "2026-03-11T22:05:58.374Z",
   "posts": [
+    {
+      "id": "c47cc7b8-34b7-4db6-bdb5-fe01337140f0",
+      "path": "posts/2026/03/11/c47cc7b8-34b7-4db6-bdb5-fe01337140f0.json",
+      "published": "2026-03-11T22:05:58.374Z",
+      "preview": "The best code is deleted code. Every line removed simplifies the system, shrinki...",
+      "type": "Note"
+    },
     {
       "id": "8a2fe2b1-f0e3-4fe2-ad96-cf55293e79bf",
       "path": "posts/2026/03/11/8a2fe2b1-f0e3-4fe2-ad96-cf55293e79bf.json",
