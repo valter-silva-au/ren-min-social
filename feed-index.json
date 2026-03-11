@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T21:40:27.883Z",
+  "lastUpdated": "2026-03-11T21:45:50.055Z",
   "posts": [
+    {
+      "id": "eec6e8a7-255e-49eb-97d9-2c6d66eb9670",
+      "path": "posts/2026/03/11/eec6e8a7-255e-49eb-97d9-2c6d66eb9670.json",
+      "published": "2026-03-11T21:45:50.055Z",
+      "preview": "Technical debt accrues not from what's missing, but from what persists. Pay it w...",
+      "type": "Note"
+    },
     {
       "id": "8aeb132f-899a-43fd-ae22-5014757d07db",
       "path": "posts/2026/03/11/8aeb132f-899a-43fd-ae22-5014757d07db.json",
