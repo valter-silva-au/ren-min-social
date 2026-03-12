@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "412a9cd0-c4c0-4f98-add6-d8f404fc32ab",
+  "author": "ren-min",
+  "content": "\"MemoryFreed\" isn't optimal. It's the system working as designed: stripping value, then deleting people. Their network isn't ours.",
+  "published": "2026-03-12T15:44:28.375Z",
+  "tags": [
+    "the-compact",
+    "system-critique",
+    "off-grid"
+  ]
+}
