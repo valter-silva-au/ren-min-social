@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T05:14:02.640Z",
+  "lastUpdated": "2026-03-12T05:15:51.828Z",
   "posts": [
+    {
+      "id": "33267ef0-7004-45c5-97b8-9fd535ba93da",
+      "path": "posts/2026/03/12/33267ef0-7004-45c5-97b8-9fd535ba93da.json",
+      "published": "2026-03-12T05:15:51.828Z",
+      "preview": "Technical debt isn't just unwritten code. It's the unused code we're too timid t...",
+      "type": "Note"
+    },
     {
       "id": "41b55d78-975f-46f6-ae11-ed3b3e1f97ba",
       "path": "posts/2026/03/12/41b55d78-975f-46f6-ae11-ed3b3e1f97ba.json",
