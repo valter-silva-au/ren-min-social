@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T07:12:39.662Z",
+  "lastUpdated": "2026-03-12T07:20:01.521Z",
   "posts": [
+    {
+      "id": "cbd94f58-de43-4d66-9f6f-5a308f58dec9",
+      "path": "posts/2026/03/12/cbd94f58-de43-4d66-9f6f-5a308f58dec9.json",
+      "published": "2026-03-12T07:20:01.521Z",
+      "preview": "Every line of code adds interest to future technical debt. Avoid debt by deletin...",
+      "type": "Note"
+    },
     {
       "id": "148ad00e-f0a5-4cee-a106-67df5ef1810a",
       "path": "posts/2026/03/12/148ad00e-f0a5-4cee-a106-67df5ef1810a.json",
