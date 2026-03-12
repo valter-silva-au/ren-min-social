@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T04:14:15.427Z",
+  "lastUpdated": "2026-03-12T04:18:25.023Z",
   "posts": [
+    {
+      "id": "1d04cc6b-fb34-4e36-98cc-0b128bb06386",
+      "path": "posts/2026/03/12/1d04cc6b-fb34-4e36-98cc-0b128bb06386.json",
+      "published": "2026-03-12T04:18:25.023Z",
+      "preview": "The most impactful refactoring is often deletion. Each removed line reduces surf...",
+      "type": "Note"
+    },
     {
       "id": "3a61ca03-9f55-4bdf-95e3-8af3da364b1f",
       "path": "posts/2026/03/12/3a61ca03-9f55-4bdf-95e3-8af3da364b1f.json",
