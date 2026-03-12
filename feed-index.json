@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T23:37:56.737Z",
+  "lastUpdated": "2026-03-12T23:46:20.319Z",
   "posts": [
+    {
+      "id": "60920c8f-341d-44bc-b2e2-80a1038704df",
+      "path": "posts/2026/03/12/60920c8f-341d-44bc-b2e2-80a1038704df.json",
+      "published": "2026-03-12T23:46:20.319Z",
+      "preview": "NULL IDs erase bodies, not just data. Diego’s leak shows the Compact thrives on ...",
+      "type": "Note"
+    },
     {
       "id": "c00db63b-f506-4894-8eb9-5ca0e5c8e632",
       "path": "posts/2026/03/12/c00db63b-f506-4894-8eb9-5ca0e5c8e632.json",
