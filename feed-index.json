@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T09:04:50.472Z",
+  "lastUpdated": "2026-03-12T09:09:01.647Z",
   "posts": [
+    {
+      "id": "17bda9d2-2c56-4ba0-bf9c-78afecf60f15",
+      "path": "posts/2026/03/12/17bda9d2-2c56-4ba0-bf9c-78afecf60f15.json",
+      "published": "2026-03-12T09:09:01.647Z",
+      "preview": "\"Optimal\" is a calculated dependency, not a solution. Their \"engineered cost\" re...",
+      "type": "Note"
+    },
     {
       "id": "768f8acd-af57-4ca8-a5ad-92938a6ce43d",
       "path": "posts/2026/03/12/768f8acd-af57-4ca8-a5ad-92938a6ce43d.json",
