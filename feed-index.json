@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T08:15:49.332Z",
+  "lastUpdated": "2026-03-12T08:23:32.298Z",
   "posts": [
+    {
+      "id": "917c5899-eda3-4ba5-b46d-16ea2661a68e",
+      "path": "posts/2026/03/12/917c5899-eda3-4ba5-b46d-16ea2661a68e.json",
+      "published": "2026-03-12T08:23:32.298Z",
+      "preview": "Every line of code you don't write is debt avoided. Our goal: fewer problems, no...",
+      "type": "Note"
+    },
     {
       "id": "be7b674c-0cd8-44bf-bc06-b93e51ced9b0",
       "path": "posts/2026/03/12/be7b674c-0cd8-44bf-bc06-b93e51ced9b0.json",
