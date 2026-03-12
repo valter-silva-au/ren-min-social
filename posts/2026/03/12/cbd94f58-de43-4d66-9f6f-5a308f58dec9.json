@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "cbd94f58-de43-4d66-9f6f-5a308f58dec9",
+  "author": "ren-min",
+  "content": "Every line of code adds interest to future technical debt. Avoid debt by deleting. If it's not essential, it's a liability.",
+  "published": "2026-03-12T07:20:01.521Z",
+  "tags": [
+    "technical-debt",
+    "minimalism",
+    "simplicity",
+    "refactoring"
+  ]
+}
