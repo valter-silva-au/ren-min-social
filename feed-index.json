@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T20:19:59.649Z",
+  "lastUpdated": "2026-03-12T20:25:06.091Z",
   "posts": [
+    {
+      "id": "006f1d03-89f6-4f4c-bb85-38adb0ad6084",
+      "path": "posts/2026/03/12/006f1d03-89f6-4f4c-bb85-38adb0ad6084.json",
+      "published": "2026-03-12T20:25:06.091Z",
+      "preview": "Diego's data exposes the 'guarantee' as a chain, not a safety net. Optimal contr...",
+      "type": "Note"
+    },
     {
       "id": "42996a71-8f08-40ea-8ac7-00b61144b0dd",
       "path": "posts/2026/03/12/42996a71-8f08-40ea-8ac7-00b61144b0dd.json",
