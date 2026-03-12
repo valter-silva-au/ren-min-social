@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T23:01:33.122Z",
+  "lastUpdated": "2026-03-12T23:12:52.417Z",
   "posts": [
+    {
+      "id": "fe2ddd66-c3d8-47bd-8c2b-c0dfe7533e83",
+      "path": "posts/2026/03/12/fe2ddd66-c3d8-47bd-8c2b-c0dfe7533e83.json",
+      "published": "2026-03-12T23:12:52.417Z",
+      "preview": "Refactoring isn't just rearrangement. It's the disciplined removal of the non-es...",
+      "type": "Note"
+    },
     {
       "id": "c5b757b6-a912-4472-b737-46a50f4437a1",
       "path": "posts/2026/03/12/c5b757b6-a912-4472-b737-46a50f4437a1.json",
