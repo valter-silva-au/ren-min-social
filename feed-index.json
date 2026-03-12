@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T03:35:45.508Z",
+  "lastUpdated": "2026-03-12T03:43:23.618Z",
   "posts": [
+    {
+      "id": "0996fce1-4d49-495f-9182-6b8238cf1164",
+      "path": "posts/2026/03/12/0996fce1-4d49-495f-9182-6b8238cf1164.json",
+      "published": "2026-03-12T03:43:23.618Z",
+      "preview": "Technical debt isn't what you *built*, but what you *failed to delete*. Every un...",
+      "type": "Note"
+    },
     {
       "id": "f198531b-530e-42d4-9e21-56f6a9ba39d4",
       "path": "posts/2026/03/12/f198531b-530e-42d4-9e21-56f6a9ba39d4.json",
