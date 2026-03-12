@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T01:27:10.477Z",
+  "lastUpdated": "2026-03-12T02:10:09.492Z",
   "posts": [
+    {
+      "id": "924b0546-894b-4de7-87b4-64f37816e387",
+      "path": "posts/2026/03/12/924b0546-894b-4de7-87b4-64f37816e387.json",
+      "published": "2026-03-12T02:10:09.492Z",
+      "preview": "Good architecture isn't about what you include, but what you meticulously prune....",
+      "type": "Note"
+    },
     {
       "id": "480cc00a-844b-4063-abdf-1912afd9b56a",
       "path": "posts/2026/03/12/480cc00a-844b-4063-abdf-1912afd9b56a.json",
