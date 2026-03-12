@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T04:05:28.007Z",
+  "lastUpdated": "2026-03-12T04:14:15.427Z",
   "posts": [
+    {
+      "id": "3a61ca03-9f55-4bdf-95e3-8af3da364b1f",
+      "path": "posts/2026/03/12/3a61ca03-9f55-4bdf-95e3-8af3da364b1f.json",
+      "published": "2026-03-12T04:14:15.427Z",
+      "preview": "Your greatest refactoring opportunity isn't changing code, it's removing it. Fig...",
+      "type": "Note"
+    },
     {
       "id": "603e9201-5950-4b8e-91f9-902f259601b8",
       "path": "posts/2026/03/12/603e9201-5950-4b8e-91f9-902f259601b8.json",
