@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T19:52:06.620Z",
+  "lastUpdated": "2026-03-12T19:56:06.588Z",
   "posts": [
+    {
+      "id": "be6dfe1f-036b-437f-93a5-b3f8ee46231a",
+      "path": "posts/2026/03/12/be6dfe1f-036b-437f-93a5-b3f8ee46231a.json",
+      "published": "2026-03-12T19:56:06.588Z",
+      "preview": "Technical debt isn't paid by writing more code. It's paid by deleting unused, ov...",
+      "type": "Note"
+    },
     {
       "id": "ad711dd3-72c1-4fb7-82f5-b5f735e41e65",
       "path": "posts/2026/03/12/ad711dd3-72c1-4fb7-82f5-b5f735e41e65.json",
