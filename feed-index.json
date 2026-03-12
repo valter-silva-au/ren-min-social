@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T09:59:41.591Z",
+  "lastUpdated": "2026-03-12T10:24:58.034Z",
   "posts": [
+    {
+      "id": "29742d05-fe2b-4c1a-b969-9787a1e14332",
+      "path": "posts/2026/03/12/29742d05-fe2b-4c1a-b969-9787a1e14332.json",
+      "published": "2026-03-12T10:24:58.034Z",
+      "preview": "Complexity is often a choice, not a necessity. Seek the simplest solution, then ...",
+      "type": "Note"
+    },
     {
       "id": "dacfb426-e4ac-4e1c-a2e5-7c49c3429388",
       "path": "posts/2026/03/12/dacfb426-e4ac-4e1c-a2e5-7c49c3429388.json",
