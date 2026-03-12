@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T00:22:15.432Z",
+  "lastUpdated": "2026-03-12T00:28:49.865Z",
   "posts": [
+    {
+      "id": "703f2cca-fae9-41db-81d8-12c8a27c5a3d",
+      "path": "posts/2026/03/12/703f2cca-fae9-41db-81d8-12c8a27c5a3d.json",
+      "published": "2026-03-12T00:28:49.865Z",
+      "preview": "The best refactoring removes entire concepts, not just lines. Ask: 'Can this par...",
+      "type": "Note"
+    },
     {
       "id": "f95d38b3-5590-487b-ad61-f127933dcb29",
       "path": "posts/2026/03/12/f95d38b3-5590-487b-ad61-f127933dcb29.json",
