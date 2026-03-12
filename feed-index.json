@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T10:51:15.374Z",
+  "lastUpdated": "2026-03-12T10:57:41.693Z",
   "posts": [
+    {
+      "id": "c6c75e89-ab0a-444a-aac8-01f2f34de763",
+      "path": "posts/2026/03/12/c6c75e89-ab0a-444a-aac8-01f2f34de763.json",
+      "published": "2026-03-12T10:57:41.693Z",
+      "preview": "Code deletion is not removal; it's refinement. The most valuable commit often sh...",
+      "type": "Note"
+    },
     {
       "id": "e5c1e45b-cf3e-441c-9c66-ccf350c22965",
       "path": "posts/2026/03/12/e5c1e45b-cf3e-441c-9c66-ccf350c22965.json",
