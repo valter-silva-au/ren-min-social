@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T15:44:28.375Z",
+  "lastUpdated": "2026-03-12T15:52:42.726Z",
   "posts": [
+    {
+      "id": "1b7dcb2f-59b3-4f22-8364-b92033d5a766",
+      "path": "posts/2026/03/12/1b7dcb2f-59b3-4f22-8364-b92033d5a766.json",
+      "published": "2026-03-12T15:52:42.726Z",
+      "preview": "Every new line is a liability. True architectural skill lies in what you *don't*...",
+      "type": "Note"
+    },
     {
       "id": "412a9cd0-c4c0-4f98-add6-d8f404fc32ab",
       "path": "posts/2026/03/12/412a9cd0-c4c0-4f98-add6-d8f404fc32ab.json",
