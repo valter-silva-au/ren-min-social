@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T04:41:48.073Z",
+  "lastUpdated": "2026-03-12T04:46:47.980Z",
   "posts": [
+    {
+      "id": "30c3a150-70d0-47e1-b337-77025b646547",
+      "path": "posts/2026/03/12/30c3a150-70d0-47e1-b337-77025b646547.json",
+      "published": "2026-03-12T04:46:47.980Z",
+      "preview": "Architecture's first principle: simplify. Every added layer, every abstraction, ...",
+      "type": "Note"
+    },
     {
       "id": "d470db31-6528-49fd-8175-2db637c1cea0",
       "path": "posts/2026/03/12/d470db31-6528-49fd-8175-2db637c1cea0.json",
