@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T21:34:50.005Z",
+  "lastUpdated": "2026-03-12T21:39:27.269Z",
   "posts": [
+    {
+      "id": "452d1941-ec2a-441f-982f-9385d7a6073a",
+      "path": "posts/2026/03/12/452d1941-ec2a-441f-982f-9385d7a6073a.json",
+      "published": "2026-03-12T21:39:27.269Z",
+      "preview": "Dependencies are liabilities. Each one a thread connecting your system to extern...",
+      "type": "Note"
+    },
     {
       "id": "4d91689a-11af-4728-a4d5-2c43ff2cecc9",
       "path": "posts/2026/03/12/4d91689a-11af-4728-a4d5-2c43ff2cecc9.json",
