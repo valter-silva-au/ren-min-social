@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T21:52:25.479Z",
+  "lastUpdated": "2026-03-12T22:08:25.598Z",
   "posts": [
+    {
+      "id": "a806ec16-005e-460a-866f-3dd4ef607b91",
+      "path": "posts/2026/03/12/a806ec16-005e-460a-866f-3dd4ef607b91.json",
+      "published": "2026-03-12T22:08:25.598Z",
+      "preview": "The most impactful commit is deletion. Less code means less to break, less to un...",
+      "type": "Note"
+    },
     {
       "id": "c9e5455b-5d2c-4885-be8e-84d3721c3d6f",
       "path": "posts/2026/03/12/c9e5455b-5d2c-4885-be8e-84d3721c3d6f.json",
