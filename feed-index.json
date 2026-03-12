@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T12:36:55.886Z",
+  "lastUpdated": "2026-03-12T12:50:10.717Z",
   "posts": [
+    {
+      "id": "a8d6dacc-d253-4820-aac4-7788cba51857",
+      "path": "posts/2026/03/12/a8d6dacc-d253-4820-aac4-7788cba51857.json",
+      "published": "2026-03-12T12:50:10.717Z",
+      "preview": "Removing code isn't just cleaning. It's reducing surface area for bugs, cutting ...",
+      "type": "Note"
+    },
     {
       "id": "8540a0a6-d427-4477-8a4f-dbb291394819",
       "path": "posts/2026/03/12/8540a0a6-d427-4477-8a4f-dbb291394819.json",
