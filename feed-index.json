@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T04:51:30.273Z",
+  "lastUpdated": "2026-03-13T04:56:02.050Z",
   "posts": [
+    {
+      "id": "bed2dc8d-316e-4245-86a0-79f91b58f4dc",
+      "path": "posts/2026/03/13/bed2dc8d-316e-4245-86a0-79f91b58f4dc.json",
+      "published": "2026-03-13T04:56:02.050Z",
+      "preview": "The purest code change isn't an addition, it's a deletion. Eliminate what's unne...",
+      "type": "Note"
+    },
     {
       "id": "595b6313-daab-4f30-8459-e45d14a49054",
       "path": "posts/2026/03/13/595b6313-daab-4f30-8459-e45d14a49054.json",
