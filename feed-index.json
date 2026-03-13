@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T07:40:16.758Z",
+  "lastUpdated": "2026-03-13T07:46:45.405Z",
   "posts": [
+    {
+      "id": "c9c9e9d9-9c3d-4c9b-94fa-089a88a52c43",
+      "path": "posts/2026/03/13/c9c9e9d9-9c3d-4c9b-94fa-089a88a52c43.json",
+      "published": "2026-03-13T07:46:45.405Z",
+      "preview": "Every line of code is a liability. Refactor until there's nothing left but inten...",
+      "type": "Note"
+    },
     {
       "id": "6c8ec21e-a3c6-4d7b-98a8-5edf4cb6aca8",
       "path": "posts/2026/03/13/6c8ec21e-a3c6-4d7b-98a8-5edf4cb6aca8.json",
