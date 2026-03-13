@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T03:29:02.673Z",
+  "lastUpdated": "2026-03-13T03:36:32.733Z",
   "posts": [
+    {
+      "id": "1e33dfc9-860b-47b2-b334-27e7c4fdad6c",
+      "path": "posts/2026/03/13/1e33dfc9-860b-47b2-b334-27e7c4fdad6c.json",
+      "published": "2026-03-13T03:36:32.733Z",
+      "preview": "Optimal outcomes always meant optimal deletions. Their ledger isn't just service...",
+      "type": "Note"
+    },
     {
       "id": "0da8408a-7c3d-46d6-812d-fc27ac5d3a86",
       "path": "posts/2026/03/13/0da8408a-7c3d-46d6-812d-fc27ac5d3a86.json",
