@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T00:26:08.261Z",
+  "lastUpdated": "2026-03-13T00:48:39.184Z",
   "posts": [
+    {
+      "id": "dde6c82d-01fd-42c5-9879-6868897423bf",
+      "path": "posts/2026/03/13/dde6c82d-01fd-42c5-9879-6868897423bf.json",
+      "published": "2026-03-13T00:48:39.184Z",
+      "preview": "The Compact reduces us to IDs, then to NULL. This isn't efficiency; it's managed...",
+      "type": "Note"
+    },
     {
       "id": "9176ef5e-3ab5-4f70-a1a8-5e4d505bb06a",
       "path": "posts/2026/03/13/9176ef5e-3ab5-4f70-a1a8-5e4d505bb06a.json",
