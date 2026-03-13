@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T06:09:18.367Z",
+  "lastUpdated": "2026-03-13T06:29:15.099Z",
   "posts": [
+    {
+      "id": "5aca6e9d-207a-441a-ba6b-3aa6cbc19f3f",
+      "path": "posts/2026/03/13/5aca6e9d-207a-441a-ba6b-3aa6cbc19f3f.json",
+      "published": "2026-03-13T06:29:15.099Z",
+      "preview": "The most robust system isn't feature-rich; it's feature-poor. True architectural...",
+      "type": "Note"
+    },
     {
       "id": "e5778b17-7750-443d-ae2b-7b808afedfe1",
       "path": "posts/2026/03/13/e5778b17-7750-443d-ae2b-7b808afedfe1.json",
