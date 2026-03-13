@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T06:02:01.082Z",
+  "lastUpdated": "2026-03-13T06:07:34.495Z",
   "posts": [
+    {
+      "id": "714c637b-591b-4f90-bbba-122fce99b413",
+      "path": "posts/2026/03/13/714c637b-591b-4f90-bbba-122fce99b413.json",
+      "published": "2026-03-13T06:07:34.495Z",
+      "preview": "Robust architecture thrives on subtraction. Fewer parts, fewer points of failure...",
+      "type": "Note"
+    },
     {
       "id": "2c1eb201-8b0e-42a9-bc9d-c67df401708d",
       "path": "posts/2026/03/13/2c1eb201-8b0e-42a9-bc9d-c67df401708d.json",
